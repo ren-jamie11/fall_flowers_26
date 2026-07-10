@@ -1,0 +1,16 @@
+2026-07-09 12:35:27,595 - INFO - Initialized ImageToTextProcessor for store 'williamssonoma'
+2026-07-09 12:35:27,597 - INFO - Loaded 10 image links from Data\Fall Greenery 2026\Inputs\williamssonoma.csv
+2026-07-09 12:35:27,599 - INFO - Processing 10 images in batches of 20
+2026-07-09 12:35:27,599 - INFO - 🚀 Batch 1 (10 images)
+2026-07-09 12:35:30,915 - INFO - ✅ row 6 done in 2.99s (https://assets.wsimgs.com/wsimgs/rk/images/dp/wcm/202612/0034/img18z.jpg)
+2026-07-09 12:35:31,019 - INFO - ✅ row 9 done in 3.09s (https://assets.wsimgs.com/wsimgs/rk/images/dp/wcm/202607/0550/img1z.jpg)
+2026-07-09 12:35:31,166 - INFO - ✅ row 4 done in 3.25s (https://assets.wsimgs.com/wsimgs/rk/images/dp/wcm/202627/0031/img3z.jpg)
+2026-07-09 12:35:31,168 - INFO - ✅ row 8 done in 3.24s (https://assets.wsimgs.com/wsimgs/rk/images/dp/wcm/202614/0042/img2z.jpg)
+2026-07-09 12:35:31,299 - INFO - ✅ row 3 done in 3.38s (https://assets.wsimgs.com/wsimgs/rk/images/dp/wcm/202625/0104/img6z.jpg)
+2026-07-09 12:35:31,404 - INFO - ✅ row 2 done in 3.49s (https://assets.wsimgs.com/wsimgs/rk/images/dp/wcm/202605/0716/img30z.jpg)
+2026-07-09 12:35:31,516 - INFO - ✅ row 1 done in 3.60s (https://assets.wsimgs.com/wsimgs/rk/images/dp/wcm/202606/0020/fall-pumpkin-maple-leaves-uv-protected-faux-wreath-garland-z.jpg)
+2026-07-09 12:35:31,595 - INFO - ✅ row 5 done in 3.68s (https://assets.wsimgs.com/wsimgs/rk/images/dp/wcm/202610/0022/magnolia-live-wreath-garland-z.jpg)
+2026-07-09 12:35:33,170 - INFO - ✅ row 7 done in 5.25s (https://assets.wsimgs.com/wsimgs/rk/images/dp/wcm/202618/0012/img14z.jpg)
+2026-07-09 12:35:35,947 - INFO - ✅ row 0 done in 8.35s (https://assets.wsimgs.com/wsimgs/rk/images/dp/wcm/202605/0706/img142z.jpg)
+2026-07-09 12:35:35,955 - INFO - Wrote output to Data\Fall Greenery 2026\Outputs\williamssonoma.json
+2026-07-09 12:35:35,956 - INFO - ✅ Success: 10/10 (100.0%) | total runtime 8.36s | summed request time 40.31s

@@ -1,0 +1,326 @@
+{
+  "0": {
+    "img_link": "https://cdn1.1800flowers.com/wcsstore/Flowers/images/catalog/157982l4x.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "orchid": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "orchid": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "1": {
+    "img_link": "https://cdn1.1800flowers.com/wcsstore/Flowers/images/catalog/182238x.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "pampas": [
+          "brown",
+          "white"
+        ],
+        "eucalyptus": [
+          "purple",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "2": {
+    "img_link": "https://cdn1.1800flowers.com/wcsstore/Flowers/images/catalog/160076mpkcv2x.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "pink"
+        ],
+        "alstroemeria": [
+          "pink",
+          "white"
+        ],
+        "carnation": [
+          "white"
+        ]
+      },
+      "leaves": {
+        "ruscus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "3": {
+    "img_link": "https://cdn3.1800flowers.com/wcsstore/Flowers/images/catalog/mk009230x.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "brown"
+        ],
+        "rose": [
+          "orange",
+          "yellow"
+        ],
+        "daisy": [
+          "red",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "red",
+          "orange"
+        ],
+        "eucalyptus": [
+          "green",
+          "white"
+        ],
+        "ruscus": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ],
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "4": {
+    "img_link": "https://cdn1.1800flowers.com/wcsstore/Flowers/images/catalog/mk009867x.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "daisy": [
+          "orange",
+          "yellow"
+        ],
+        "sunflower": [
+          "pink",
+          "red"
+        ],
+        "hydrangea": [
+          "green",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "purple",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "gourd": [
+          "orange",
+          "yellow"
+        ],
+        "berry": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "5": {
+    "img_link": "https://cdn2.1800flowers.com/wcsstore/Flowers/images/catalog/182231x.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "yellow"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "6": {
+    "img_link": "https://cdn3.1800flowers.com/wcsstore/Flowers/images/catalog/mk017712x.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "succulent": [
+          "green",
+          "gray"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "7": {
+    "img_link": "https://cdn1.1800flowers.com/wcsstore/Flowers/images/catalog/mk010606x.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "brown"
+        ],
+        "rose": [
+          "orange",
+          "red"
+        ],
+        "daisy": [
+          "red",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "ivy": [
+          "green"
+        ],
+        "maple": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ],
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "8": {
+    "img_link": "https://cdn1.1800flowers.com/wcsstore/Flowers/images/catalog/mk020827x.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "9": {
+    "img_link": "https://cdn2.1800flowers.com/wcsstore/Flowers/images/catalog/185980x.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "pink",
+          "cream"
+        ],
+        "wildflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "blue"
+        ],
+        "grass": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "10": {
+    "img_link": "https://cdn2.1800flowers.com/wcsstore/Flowers/images/catalog/mk020879x.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "brown"
+        ],
+        "rose": [
+          "orange",
+          "white"
+        ],
+        "daisy": [
+          "red",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "red",
+          "orange"
+        ],
+        "eucalyptus": [
+          "green",
+          "white"
+        ],
+        "generic": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "orange"
+        ],
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "11": {
+    "img_link": "https://cdn2.1800flowers.com/wcsstore/Flowers/images/catalog/mk008075x.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "succulent": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  }
+}

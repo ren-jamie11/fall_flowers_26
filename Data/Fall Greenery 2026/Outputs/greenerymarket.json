@@ -1,0 +1,6071 @@
+{
+  "0": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/laurel-leaves-bush-flame84481-oryel-271463.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "laurel": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "1": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/green-nandina-leaf-spray-302751156gr-8711847.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "nandina": [
+          "green",
+          "olive"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "2": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/rust-orange-brown-nandina-leaf-spray-302751156ro-1548290.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "nandina": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "3": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/orange-satin-eucalyptus-mini-bush-95fl7052og-2527376.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "4": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/orange-yellow-leaf-bundle-20fl7094ogy-3144488.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": "InternalServerError: Error code: 500 - {'error': {'message': 'The server had an error while processing your request. Sorry about that!', 'type': 'server_error', 'param': None, 'code': None}}"
+  },
+  "5": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/gold-beech-leaf-spray-35fl7135go-3929778.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "beech": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "6": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/rust-beech-leaf-spray-35fl7135rt-9205608.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "beech": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "7": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/mustard-velvet-leaf-with-berry-bush-16xf686mus-3639212.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "leaf": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "purple"
+        ]
+      }
+    },
+    "error": null
+  },
+  "8": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/pumpkin-velvet-leaf-with-berry-bush-16xf686pum-3047432.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "9": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/orange-tipped-boxwood-greenery-fall-boxwood13137fa-8000027.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "boxwood": [
+          "green",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "10": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/orange-mixed-fern-bush85368-uv-or-1051540.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "11": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-brown-eucalyptus-bundle-282751116br-1240654.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "brown",
+          "tan"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "12": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/brown-larkspur-spray-342288029br-8456764.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "larkspur": [
+          "brown",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "larkspur": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "13": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/light-brown-larkspur-spray-342288029lb-2584227.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "larkspur": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "14": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/rust-nandina-leaf-spray-302751156rt-6586201.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "nandina": [
+          "red",
+          "pink"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "15": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/fall-mixed-foliage-pumpkin-spraypm3498-481837.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "green",
+          "brown"
+        ],
+        "eucalyptus": [
+          "green"
+        ],
+        "ivy": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ],
+        "pinecone": [
+          "brown"
+        ],
+        "berry": [
+          "pink",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "16": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/fall-mixed-foliage-pumpkin-pickpm3499-512923.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "yellow",
+          "green"
+        ],
+        "eucalyptus": [
+          "cream",
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "17": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/leaf-bush-green-cream-edge-myrtle2320123gy-567145.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "myrtle": [
+          "green",
+          "cream"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "18": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/cream-mini-velvet-pumpkin-spray40292-cr-8452473.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "cream"
+        ]
+      }
+    },
+    "error": null
+  },
+  "19": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/cream-plastic-fern-bush85367-uv-wt-1334018.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "cream"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "20": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/berry-and-leaves-pick57161or-636122.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "generic": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "21": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/peony-and-hydrangea-mixed-bush-blue84567-bl-818152.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "peony": [
+          "blue",
+          "white"
+        ],
+        "hydrangea": [
+          "blue",
+          "white"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "22": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-thistle-hydrangeas-bush-blue64299-bl-402786.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "thistle": [
+          "blue",
+          "gray"
+        ],
+        "hydrangea": [
+          "green",
+          "purple"
+        ],
+        "wildflower": [
+          "white"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green",
+          "gray"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "23": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-cosmos-bush-purple84566-ltpu-2058076.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "cosmos": [
+          "purple",
+          "white"
+        ]
+      },
+      "leaves": {
+        "cosmos": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "24": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/mixed-greenery-spray-beige-cream64414-913872.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "cream",
+          "beige"
+        ],
+        "fern": [
+          "beige",
+          "pink"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "25": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/seed-bush-mustard-orange57095gdyw-8877543.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "26": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/wild-wheat-bush-rustyxvp4370-261718.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "wheat": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "27": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/fall-maples-leaves-bush73201-584256.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "28": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/green-velvet-pumpkin-spray84447-gn-242630.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "29": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/berry-leaves-cone-pick57163or-834425.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "generic": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "30": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/orange-fern-greenery-x-2-bushes43224-746217.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "31": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/orange-mini-flower-greenery-x-2-bushes43926-8721077.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "32": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/fall-leaves-and-berries-spray235917-8598774.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": "InternalServerError: Error code: 500 - {'error': {'message': 'The server had an error while processing your request. Sorry about that!', 'type': 'server_error', 'param': None, 'code': None}}"
+  },
+  "33": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-magnolia-leaves-spray-beige-brown85320-beige-5226391.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "beige",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "34": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-magnolia-leaves-spray-green85320-gn-3465719.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "35": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-magnolia-leaves-spray-flame85320-yelor-6689463.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "36": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-birch-leaves-spray-beige-brown65210-bebrn-2718971.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "birch": [
+          "brown",
+          "beige"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "37": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-birch-leaves-spray-burgundy-brown65210-bgbrn-9965165.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "birch": [
+          "red",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "38": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-greenery-filler-bush-autumn65362-or-1570809.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "39": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-astilbe-grass-bush-peach65361-or-6657581.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "astilbe": [
+          "peach"
+        ]
+      },
+      "leaves": {
+        "grass": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "40": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/mixed-berry-and-greenery-spray-cream65198-4298616.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "brown",
+          "cream"
+        ],
+        "leaf": [
+          "cream",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "cream",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "41": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/pumpkin-and-maple-leaves-spray65195-8344116.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "brown",
+          "purple"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "peach"
+        ],
+        "berry": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "42": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/fern-and-heather-berry-floral-spray-60919-beige-6304863048-be-9997403.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "wildflower": [
+          "beige",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "43": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/fall-pumpkin-spray-orangemth13086-anor-6121860.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "orange",
+          "brown"
+        ],
+        "eucalyptus": [
+          "red",
+          "pink"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ],
+        "berry": [
+          "green",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "44": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/cosmos-spray-golden5357-goor-740170.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "cosmos": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "cosmos": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "45": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-sunflower-flower-bush-yellow12003-344898.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "sunflower": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "46": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/mustard-and-green-eucalyptus-bush65369-4265334.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "47": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/autumn-bay-leaves-spray65190-yel-1951393.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "bay": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "48": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-brown-pvc-fern-bush85367-uv-brn-6787234.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "49": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-red-orange-pvc-leaf-bush85366-uv-8404585.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "bush": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "50": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-beige-tan-pvc-fern-bush85361-uv-9390094.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "beige",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "51": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-mixed-fall-filler-spray40302-4203910.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "orange"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green"
+        ],
+        "grass": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "52": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-fall-birch-berry-spray40373-2065497.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "birch": [
+          "brown",
+          "tan"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "53": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/green-pumpkin-pinecone-spray85353-gn-2231768.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "gray"
+        ],
+        "unknown": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "green"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "54": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-brown-poppy-cattail-mixed-bush40375-brn-1135202.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "poppy": [
+          "brown"
+        ],
+        "cattail": [
+          "peach"
+        ],
+        "wildflower": [
+          "peach"
+        ]
+      },
+      "leaves": {
+        "grass": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "55": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/fall-foliage-berry-spray40321-9460364.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "leaf": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "56": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/gold-orange-fall-beech-spray-35fl7169gobrn-9339932.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "beech": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "57": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/burgundy-velvet-leaf-with-berry-bush-16xf686bu-6176165.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "leaf": [
+          "red",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "black"
+        ]
+      }
+    },
+    "error": null
+  },
+  "58": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/mixed-maple-leaf-spray-autumn64488-rdor-7135144.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "59": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-burgundy-grape-leaf-spray-18fl7031bu-9918672.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "grape": [
+          "red",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "60": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/fall-mixed-foliage-crater-berries-cone-pickpm3482-255973.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ],
+        "eucalyptus": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "61": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/creamy-orange-ranunculus-bundle26057-357948.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "ranunculus": [
+          "orange",
+          "cream"
+        ]
+      },
+      "leaves": {
+        "ranunculus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "62": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/autumn-sawgrass-hanging-greenery-bush-greenery-market-exclusivegm1122sage-1588247.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "sawgrass": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "63": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/sage-and-rusty-sawgrass-greenery-bush-greenery-market-exclusivegm1123sage-7341887.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "sawgrass": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "64": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/creamy-peach-leaves-bundle27874-694230.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "leaf": [
+          "peach",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "65": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/creamy-peach-eucalytpus-bundle27884-278503.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "peach"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "66": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/creamy-peach-blush-tipped-ranunculus-bundle26058-731029.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "ranunculus": [
+          "peach",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "generic": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "67": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/creamy-berries-and-leaves-bundle27891-412955.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "generic": [
+          "pink",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "pink",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "68": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/creamy-peach-fern-spray27879-638846.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "peach",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "69": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/creamy-wine-ranunculus-bundle26059-892719.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "ranunculus": [
+          "pink",
+          "red"
+        ]
+      },
+      "leaves": {
+        "ranunculus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "70": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/autumn-orange-peach-peony-bush85323-coral-7433849.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "peony": [
+          "peach"
+        ],
+        "wildflower": [
+          "peach"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "gray"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "71": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/peony-spray-soft-orange27856-195006.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "peony": [
+          "orange"
+        ]
+      },
+      "leaves": {
+        "peony": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "72": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/rusty-brown-mini-rose-bundle27930-976084.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "orange",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "rose": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "73": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-orange-tipped-boxwood-greenery-x-2-bushes43235-959491.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "boxwood": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "74": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/mixed-berry-and-greenery-spray-beige-cream64434-418732.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "beige"
+        ],
+        "fern": [
+          "beige"
+        ],
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "white",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "75": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/gingko-and-berries-spray-yellow-orange235919-214305.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "gingko": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "76": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/orange-mini-velvet-pumpkin-spray40292-or-7835798.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "77": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/autumn-boxwood-seedum-bush57014ywbn-7626762.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "boxwood": [
+          "orange",
+          "green"
+        ],
+        "sedum": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "78": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/wheat-grass-bush-gold-cream26472-609248.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "grass": [
+          "cream",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "79": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/mixed-filler-and-broom-corn-bush-burgundy65171-bg-5947685.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "broomcorn": [
+          "burgundy"
+        ],
+        "eucalyptus": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "80": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/laurel-leaves-bush-flame84481-oryel-271463.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "laurel": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "81": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/green-nandina-leaf-spray-302751156gr-8711847.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "nandina": [
+          "green",
+          "olive"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "82": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/rust-orange-brown-nandina-leaf-spray-302751156ro-1548290.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "nandina": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "83": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/orange-satin-eucalyptus-mini-bush-95fl7052og-2527376.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "84": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/orange-yellow-leaf-bundle-20fl7094ogy-3144488.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "85": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/gold-beech-leaf-spray-35fl7135go-3929778.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "beech": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "86": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/rust-beech-leaf-spray-35fl7135rt-9205608.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "beech": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "87": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/mustard-velvet-leaf-with-berry-bush-16xf686mus-3639212.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "leaf": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "purple"
+        ]
+      }
+    },
+    "error": null
+  },
+  "88": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/pumpkin-velvet-leaf-with-berry-bush-16xf686pum-3047432.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "89": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/orange-tipped-boxwood-greenery-fall-boxwood13137fa-8000027.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "boxwood": [
+          "green",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "90": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/orange-mixed-fern-bush85368-uv-or-1051540.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "91": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-brown-eucalyptus-bundle-282751116br-1240654.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "92": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/brown-larkspur-spray-342288029br-8456764.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "larkspur": [
+          "brown",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "larkspur": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "93": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/light-brown-larkspur-spray-342288029lb-2584227.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "larkspur": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "94": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/rust-nandina-leaf-spray-302751156rt-6586201.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "nandina": [
+          "red",
+          "pink"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "95": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/fall-mixed-foliage-pumpkin-spraypm3498-481837.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "green",
+          "brown"
+        ],
+        "eucalyptus": [
+          "green"
+        ],
+        "ivy": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ],
+        "pinecone": [
+          "brown"
+        ],
+        "berry": [
+          "pink",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "96": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/fall-mixed-foliage-pumpkin-pickpm3499-512923.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "yellow",
+          "green"
+        ],
+        "eucalyptus": [
+          "cream",
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "97": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/leaf-bush-green-cream-edge-myrtle2320123gy-567145.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "myrtle": [
+          "green",
+          "cream"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "98": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/cream-mini-velvet-pumpkin-spray40292-cr-8452473.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "cream"
+        ]
+      }
+    },
+    "error": null
+  },
+  "99": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/cream-plastic-fern-bush85367-uv-wt-1334018.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "cream"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "100": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/berry-and-leaves-pick57161or-636122.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "generic": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "101": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/peony-and-hydrangea-mixed-bush-blue84567-bl-818152.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "peony": [
+          "blue",
+          "white"
+        ],
+        "hydrangea": [
+          "blue",
+          "white"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "102": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-thistle-hydrangeas-bush-blue64299-bl-402786.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "thistle": [
+          "blue",
+          "gray"
+        ],
+        "hydrangea": [
+          "green",
+          "purple"
+        ],
+        "wildflower": [
+          "white"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "103": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-cosmos-bush-purple84566-ltpu-2058076.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "cosmos": [
+          "purple",
+          "white"
+        ]
+      },
+      "leaves": {
+        "cosmos": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "104": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/mixed-greenery-spray-beige-cream64414-913872.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "cream",
+          "beige"
+        ],
+        "fern": [
+          "beige",
+          "pink"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "105": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/seed-bush-mustard-orange57095gdyw-8877543.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "106": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/wild-wheat-bush-rustyxvp4370-261718.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "wheat": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "107": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/fall-maples-leaves-bush73201-584256.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "108": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/green-velvet-pumpkin-spray84447-gn-242630.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "109": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/berry-leaves-cone-pick57163or-834425.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "unknown": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "110": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/orange-fern-greenery-x-2-bushes43224-746217.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "111": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/orange-mini-flower-greenery-x-2-bushes43926-8721077.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "112": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/fall-leaves-and-berries-spray235917-8598774.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "113": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-magnolia-leaves-spray-beige-brown85320-beige-5226391.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "beige",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "114": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-magnolia-leaves-spray-green85320-gn-3465719.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "115": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-magnolia-leaves-spray-flame85320-yelor-6689463.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "116": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-birch-leaves-spray-beige-brown65210-bebrn-2718971.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "birch": [
+          "brown",
+          "beige"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": "BadRequestError: Error code: 400 - {'error': {'message': 'Timeout while downloading https://greenerymarket.com/cdn/shop/files/artificial-birch-leaves-spray-beige-brown65210-bebrn-2718971.jpg.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_image_url'}}"
+  },
+  "117": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-birch-leaves-spray-burgundy-brown65210-bgbrn-9965165.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "birch": [
+          "red",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "118": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-greenery-filler-bush-autumn65362-or-1570809.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "119": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-astilbe-grass-bush-peach65361-or-6657581.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "astilbe": [
+          "peach"
+        ]
+      },
+      "leaves": {
+        "grass": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "120": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/mixed-berry-and-greenery-spray-cream65198-4298616.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "brown",
+          "cream"
+        ],
+        "leaf": [
+          "cream",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "cream",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "121": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/pumpkin-and-maple-leaves-spray65195-8344116.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "brown",
+          "purple"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "pink"
+        ],
+        "berry": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "122": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/fern-and-heather-berry-floral-spray-60919-beige-6304863048-be-9997403.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "123": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/fall-pumpkin-spray-orangemth13086-anor-6121860.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "orange",
+          "brown"
+        ],
+        "eucalyptus": [
+          "red",
+          "pink"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ],
+        "berry": [
+          "green",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "124": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/cosmos-spray-golden5357-goor-740170.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "cosmos": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "cosmos": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "125": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-sunflower-flower-bush-yellow12003-344898.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "sunflower": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "126": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/mustard-and-green-eucalyptus-bush65369-4265334.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "127": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/autumn-bay-leaves-spray65190-yel-1951393.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "bay": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "128": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-brown-pvc-fern-bush85367-uv-brn-6787234.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "129": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-red-orange-pvc-leaf-bush85366-uv-8404585.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "bush": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "130": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-beige-tan-pvc-fern-bush85361-uv-9390094.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "beige",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "131": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-mixed-fall-filler-spray40302-4203910.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "orange"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green"
+        ],
+        "grass": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "132": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-fall-birch-berry-spray40373-2065497.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "birch": [
+          "brown",
+          "tan"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "133": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/green-pumpkin-pinecone-spray85353-gn-2231768.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ],
+        "leaf": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "green"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "134": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-brown-poppy-cattail-mixed-bush40375-brn-1135202.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "poppy": [
+          "brown"
+        ],
+        "cattail": [
+          "peach"
+        ]
+      },
+      "leaves": {
+        "grass": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "135": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/fall-foliage-berry-spray40321-9460364.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "leaf": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "136": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/gold-orange-fall-beech-spray-35fl7169gobrn-9339932.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "beech": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "137": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/burgundy-velvet-leaf-with-berry-bush-16xf686bu-6176165.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "leaf": [
+          "red",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "black"
+        ]
+      }
+    },
+    "error": null
+  },
+  "138": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/mixed-maple-leaf-spray-autumn64488-rdor-7135144.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "139": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-burgundy-grape-leaf-spray-18fl7031bu-9918672.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "grape": [
+          "red",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "140": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/fall-mixed-foliage-crater-berries-cone-pickpm3482-255973.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ],
+        "eucalyptus": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "141": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/creamy-orange-ranunculus-bundle26057-357948.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "ranunculus": [
+          "orange",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "ranunculus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "142": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/autumn-sawgrass-hanging-greenery-bush-greenery-market-exclusivegm1122sage-1588247.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "sawgrass": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "143": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/sage-and-rusty-sawgrass-greenery-bush-greenery-market-exclusivegm1123sage-7341887.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "sawgrass": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "144": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/creamy-peach-leaves-bundle27874-694230.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "leaf": [
+          "peach",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "145": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/creamy-peach-eucalytpus-bundle27884-278503.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "peach",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "146": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/creamy-peach-blush-tipped-ranunculus-bundle26058-731029.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "ranunculus": [
+          "peach",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "generic": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "147": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/creamy-berries-and-leaves-bundle27891-412955.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "generic": [
+          "pink",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "pink",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "148": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/creamy-peach-fern-spray27879-638846.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "peach",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "149": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/creamy-wine-ranunculus-bundle26059-892719.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "ranunculus": [
+          "pink",
+          "red"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "150": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/autumn-orange-peach-peony-bush85323-coral-7433849.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "peony": [
+          "peach"
+        ],
+        "wildflower": [
+          "peach"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "gray"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "151": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/peony-spray-soft-orange27856-195006.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "peony": [
+          "orange"
+        ]
+      },
+      "leaves": {
+        "peony": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "152": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/rusty-brown-mini-rose-bundle27930-976084.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "orange",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "rose": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "153": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-orange-tipped-boxwood-greenery-x-2-bushes43235-959491.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "boxwood": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "154": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/mixed-berry-and-greenery-spray-beige-cream64434-418732.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "beige"
+        ],
+        "fern": [
+          "beige"
+        ],
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "white",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "155": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/gingko-and-berries-spray-yellow-orange235919-214305.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "gingko": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "156": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/orange-mini-velvet-pumpkin-spray40292-or-7835798.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "157": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/autumn-boxwood-seedum-bush57014ywbn-7626762.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "boxwood": [
+          "orange",
+          "green"
+        ],
+        "sedum": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "158": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/wheat-grass-bush-gold-cream26472-609248.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "grass": [
+          "cream",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "159": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/mixed-filler-and-broom-corn-bush-burgundy65171-bg-5947685.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "broomcorn": [
+          "burgundy"
+        ],
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "160": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/laurel-leaves-bush-flame84481-oryel-271463.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "laurel": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "161": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/green-nandina-leaf-spray-302751156gr-8711847.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "nandina": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "162": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/rust-orange-brown-nandina-leaf-spray-302751156ro-1548290.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "nandina": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "163": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/orange-satin-eucalyptus-mini-bush-95fl7052og-2527376.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "164": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/orange-yellow-leaf-bundle-20fl7094ogy-3144488.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "beech": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "165": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/gold-beech-leaf-spray-35fl7135go-3929778.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "beech": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "166": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/rust-beech-leaf-spray-35fl7135rt-9205608.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "beech": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "167": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/mustard-velvet-leaf-with-berry-bush-16xf686mus-3639212.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "leaf": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "purple"
+        ]
+      }
+    },
+    "error": null
+  },
+  "168": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/pumpkin-velvet-leaf-with-berry-bush-16xf686pum-3047432.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "169": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/orange-tipped-boxwood-greenery-fall-boxwood13137fa-8000027.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "boxwood": [
+          "green",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "170": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/orange-mixed-fern-bush85368-uv-or-1051540.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "171": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-brown-eucalyptus-bundle-282751116br-1240654.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "172": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/brown-larkspur-spray-342288029br-8456764.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "larkspur": [
+          "brown",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "173": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/light-brown-larkspur-spray-342288029lb-2584227.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "larkspur": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "174": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/rust-nandina-leaf-spray-302751156rt-6586201.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "nandina": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "175": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/fall-mixed-foliage-pumpkin-spraypm3498-481837.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "green",
+          "brown"
+        ],
+        "eucalyptus": [
+          "green"
+        ],
+        "ivy": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ],
+        "pinecone": [
+          "brown"
+        ],
+        "berry": [
+          "pink",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "176": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/fall-mixed-foliage-pumpkin-pickpm3499-512923.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "yellow",
+          "green"
+        ],
+        "eucalyptus": [
+          "cream",
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "177": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/leaf-bush-green-cream-edge-myrtle2320123gy-567145.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "myrtle": [
+          "green",
+          "cream"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "178": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/cream-mini-velvet-pumpkin-spray40292-cr-8452473.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "cream"
+        ]
+      }
+    },
+    "error": null
+  },
+  "179": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/cream-plastic-fern-bush85367-uv-wt-1334018.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "cream"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "180": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/berry-and-leaves-pick57161or-636122.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "beech": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "181": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/peony-and-hydrangea-mixed-bush-blue84567-bl-818152.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "peony": [
+          "blue"
+        ],
+        "hydrangea": [
+          "blue"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "gray"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "182": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-thistle-hydrangeas-bush-blue64299-bl-402786.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "thistle": [
+          "blue",
+          "gray"
+        ],
+        "hydrangea": [
+          "green",
+          "purple"
+        ],
+        "wildflower": [
+          "white"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green"
+        ],
+        "eucalyptus": [
+          "green",
+          "gray"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "183": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-cosmos-bush-purple84566-ltpu-2058076.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "cosmos": [
+          "purple",
+          "white"
+        ]
+      },
+      "leaves": {
+        "cosmos": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "184": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/mixed-greenery-spray-beige-cream64414-913872.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "cream",
+          "beige"
+        ],
+        "fern": [
+          "beige",
+          "pink"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "185": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/seed-bush-mustard-orange57095gdyw-8877543.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "186": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/wild-wheat-bush-rustyxvp4370-261718.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "wheat": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "187": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/fall-maples-leaves-bush73201-584256.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "188": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/green-velvet-pumpkin-spray84447-gn-242630.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "189": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/berry-leaves-cone-pick57163or-834425.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "generic": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "190": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/orange-fern-greenery-x-2-bushes43224-746217.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "191": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/orange-mini-flower-greenery-x-2-bushes43926-8721077.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "192": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/fall-leaves-and-berries-spray235917-8598774.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "193": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-magnolia-leaves-spray-beige-brown85320-beige-5226391.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "beige",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "194": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-magnolia-leaves-spray-green85320-gn-3465719.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "195": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-magnolia-leaves-spray-flame85320-yelor-6689463.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "196": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-birch-leaves-spray-beige-brown65210-bebrn-2718971.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "birch": [
+          "brown",
+          "beige"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "197": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-birch-leaves-spray-burgundy-brown65210-bgbrn-9965165.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "birch": [
+          "red",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "198": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-greenery-filler-bush-autumn65362-or-1570809.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "199": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-astilbe-grass-bush-peach65361-or-6657581.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "astilbe": [
+          "peach"
+        ]
+      },
+      "leaves": {
+        "grass": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "200": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/mixed-berry-and-greenery-spray-cream65198-4298616.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "brown",
+          "cream"
+        ],
+        "leaf": [
+          "cream",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "cream",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "201": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/pumpkin-and-maple-leaves-spray65195-8344116.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "brown",
+          "purple"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "peach"
+        ],
+        "berry": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "202": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/fern-and-heather-berry-floral-spray-60919-beige-6304863048-be-9997403.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "203": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/fall-pumpkin-spray-orangemth13086-anor-6121860.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "orange",
+          "brown"
+        ],
+        "eucalyptus": [
+          "red",
+          "pink"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ],
+        "berry": [
+          "green",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "204": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/cosmos-spray-golden5357-goor-740170.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "cosmos": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "cosmos": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "205": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-sunflower-flower-bush-yellow12003-344898.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "sunflower": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "206": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/mustard-and-green-eucalyptus-bush65369-4265334.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "207": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/autumn-bay-leaves-spray65190-yel-1951393.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "bay": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "208": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-brown-pvc-fern-bush85367-uv-brn-6787234.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "209": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-red-orange-pvc-leaf-bush85366-uv-8404585.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "bush": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "210": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-beige-tan-pvc-fern-bush85361-uv-9390094.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "beige",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "211": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-mixed-fall-filler-spray40302-4203910.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "orange"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green"
+        ],
+        "grass": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "212": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-fall-birch-berry-spray40373-2065497.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "birch": [
+          "brown",
+          "tan"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "213": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/green-pumpkin-pinecone-spray85353-gn-2231768.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ],
+        "unknown": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "green"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "214": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-brown-poppy-cattail-mixed-bush40375-brn-1135202.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "poppy": [
+          "brown"
+        ],
+        "cattail": [
+          "peach"
+        ]
+      },
+      "leaves": {
+        "grass": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "215": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/fall-foliage-berry-spray40321-9460364.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "leaf": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "216": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/gold-orange-fall-beech-spray-35fl7169gobrn-9339932.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "beech": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "217": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/burgundy-velvet-leaf-with-berry-bush-16xf686bu-6176165.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower fruit mix",
+      "flowers": {},
+      "leaves": {
+        "leaf": [
+          "red",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "black"
+        ]
+      }
+    },
+    "error": null
+  },
+  "218": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/mixed-maple-leaf-spray-autumn64488-rdor-7135144.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "219": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-burgundy-grape-leaf-spray-18fl7031bu-9918672.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "grape": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "220": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/fall-mixed-foliage-crater-berries-cone-pickpm3482-255973.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ],
+        "eucalyptus": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "221": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/creamy-orange-ranunculus-bundle26057-357948.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "ranunculus": [
+          "orange",
+          "cream"
+        ]
+      },
+      "leaves": {
+        "ranunculus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "222": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/autumn-sawgrass-hanging-greenery-bush-greenery-market-exclusivegm1122sage-1588247.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "sawgrass": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "223": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/sage-and-rusty-sawgrass-greenery-bush-greenery-market-exclusivegm1123sage-7341887.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "sawgrass": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "224": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/creamy-peach-leaves-bundle27874-694230.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "leaf": [
+          "peach",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "225": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/creamy-peach-eucalytpus-bundle27884-278503.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "peach"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "226": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/creamy-peach-blush-tipped-ranunculus-bundle26058-731029.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "ranunculus": [
+          "peach",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "generic": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "227": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/creamy-berries-and-leaves-bundle27891-412955.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "pink",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "pink",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "228": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/creamy-peach-fern-spray27879-638846.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "peach",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "229": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/creamy-wine-ranunculus-bundle26059-892719.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "ranunculus": [
+          "pink",
+          "red"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "230": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/autumn-orange-peach-peony-bush85323-coral-7433849.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "peony": [
+          "peach"
+        ],
+        "wildflower": [
+          "peach"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "231": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/peony-spray-soft-orange27856-195006.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "peony": [
+          "orange"
+        ]
+      },
+      "leaves": {
+        "peony": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "232": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/rusty-brown-mini-rose-bundle27930-976084.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "orange",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "rose": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "233": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-orange-tipped-boxwood-greenery-x-2-bushes43235-959491.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "boxwood": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "234": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/mixed-berry-and-greenery-spray-beige-cream64434-418732.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "beige"
+        ],
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "white",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "235": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/gingko-and-berries-spray-yellow-orange235919-214305.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "gingko": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "236": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/orange-mini-velvet-pumpkin-spray40292-or-7835798.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "237": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/autumn-boxwood-seedum-bush57014ywbn-7626762.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "boxwood": [
+          "orange",
+          "green"
+        ],
+        "sedum": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "238": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/wheat-grass-bush-gold-cream26472-609248.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wheat": [
+          "gold",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "wheat": [
+          "cream",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "239": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/mixed-filler-and-broom-corn-bush-burgundy65171-bg-5947685.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "broomcorn": [
+          "burgundy"
+        ],
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "240": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/laurel-leaves-bush-flame84481-oryel-271463.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "laurel": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "241": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/green-nandina-leaf-spray-302751156gr-8711847.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "nandina": [
+          "green",
+          "olive"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "242": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/rust-orange-brown-nandina-leaf-spray-302751156ro-1548290.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "nandina": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "243": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/orange-satin-eucalyptus-mini-bush-95fl7052og-2527376.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "244": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/orange-yellow-leaf-bundle-20fl7094ogy-3144488.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "245": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/gold-beech-leaf-spray-35fl7135go-3929778.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "beech": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "246": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/rust-beech-leaf-spray-35fl7135rt-9205608.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "beech": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "247": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/mustard-velvet-leaf-with-berry-bush-16xf686mus-3639212.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "leaf": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "purple"
+        ]
+      }
+    },
+    "error": null
+  },
+  "248": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/pumpkin-velvet-leaf-with-berry-bush-16xf686pum-3047432.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "249": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/orange-tipped-boxwood-greenery-fall-boxwood13137fa-8000027.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "boxwood": [
+          "green",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "250": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/orange-mixed-fern-bush85368-uv-or-1051540.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "251": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-brown-eucalyptus-bundle-282751116br-1240654.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "brown",
+          "tan"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "252": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/brown-larkspur-spray-342288029br-8456764.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "larkspur": [
+          "brown",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "253": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/light-brown-larkspur-spray-342288029lb-2584227.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "larkspur": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "254": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/rust-nandina-leaf-spray-302751156rt-6586201.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "nandina": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "255": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/fall-mixed-foliage-pumpkin-spraypm3498-481837.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "green",
+          "brown"
+        ],
+        "eucalyptus": [
+          "green",
+          "yellow"
+        ],
+        "ivy": [
+          "green",
+          "cream"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "green"
+        ],
+        "berry": [
+          "pink",
+          "white"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "256": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/fall-mixed-foliage-pumpkin-pickpm3499-512923.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "yellow",
+          "green"
+        ],
+        "eucalyptus": [
+          "cream",
+          "green"
+        ],
+        "ruscus": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "257": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/leaf-bush-green-cream-edge-myrtle2320123gy-567145.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "myrtle": [
+          "green",
+          "cream"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "258": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/cream-mini-velvet-pumpkin-spray40292-cr-8452473.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "cream"
+        ]
+      }
+    },
+    "error": null
+  },
+  "259": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/cream-plastic-fern-bush85367-uv-wt-1334018.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "cream"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "260": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/berry-and-leaves-pick57161or-636122.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "generic": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "261": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/peony-and-hydrangea-mixed-bush-blue84567-bl-818152.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "peony": [
+          "blue",
+          "white"
+        ],
+        "hydrangea": [
+          "blue",
+          "white"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "262": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-thistle-hydrangeas-bush-blue64299-bl-402786.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "thistle": [
+          "blue",
+          "gray"
+        ],
+        "hydrangea": [
+          "green",
+          "purple"
+        ],
+        "wildflower": [
+          "white"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "263": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-cosmos-bush-purple84566-ltpu-2058076.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "cosmos": [
+          "purple",
+          "white"
+        ]
+      },
+      "leaves": {
+        "cosmos": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "264": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/mixed-greenery-spray-beige-cream64414-913872.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "cream",
+          "beige"
+        ],
+        "fern": [
+          "beige",
+          "pink"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "265": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/seed-bush-mustard-orange57095gdyw-8877543.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "266": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/wild-wheat-bush-rustyxvp4370-261718.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "wheat": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "267": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/fall-maples-leaves-bush73201-584256.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "268": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/green-velvet-pumpkin-spray84447-gn-242630.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "269": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/berry-leaves-cone-pick57163or-834425.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "unknown": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "270": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/orange-fern-greenery-x-2-bushes43224-746217.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "271": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/orange-mini-flower-greenery-x-2-bushes43926-8721077.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "272": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/fall-leaves-and-berries-spray235917-8598774.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "273": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-magnolia-leaves-spray-beige-brown85320-beige-5226391.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "beige",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "274": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-magnolia-leaves-spray-green85320-gn-3465719.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "275": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-magnolia-leaves-spray-flame85320-yelor-6689463.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "276": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-birch-leaves-spray-beige-brown65210-bebrn-2718971.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "birch": [
+          "brown",
+          "beige"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "277": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-birch-leaves-spray-burgundy-brown65210-bgbrn-9965165.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "birch": [
+          "red",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "278": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-greenery-filler-bush-autumn65362-or-1570809.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "279": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-astilbe-grass-bush-peach65361-or-6657581.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "astilbe": [
+          "peach"
+        ]
+      },
+      "leaves": {
+        "grass": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "280": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/mixed-berry-and-greenery-spray-cream65198-4298616.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "brown",
+          "cream"
+        ],
+        "leaf": [
+          "cream",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "cream",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "281": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/pumpkin-and-maple-leaves-spray65195-8344116.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "brown",
+          "purple"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "peach"
+        ],
+        "berry": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "282": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/fern-and-heather-berry-floral-spray-60919-beige-6304863048-be-9997403.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "283": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/fall-pumpkin-spray-orangemth13086-anor-6121860.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "orange",
+          "brown"
+        ],
+        "eucalyptus": [
+          "red",
+          "pink"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ],
+        "berry": [
+          "green",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "284": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/cosmos-spray-golden5357-goor-740170.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "cosmos": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "cosmos": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "285": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-sunflower-flower-bush-yellow12003-344898.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "sunflower": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "286": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/mustard-and-green-eucalyptus-bush65369-4265334.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "287": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/autumn-bay-leaves-spray65190-yel-1951393.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "bay": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "288": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-brown-pvc-fern-bush85367-uv-brn-6787234.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "289": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-red-orange-pvc-leaf-bush85366-uv-8404585.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "bush": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "290": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-beige-tan-pvc-fern-bush85361-uv-9390094.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "green",
+          "tan"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "291": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-mixed-fall-filler-spray40302-4203910.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "orange"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green"
+        ],
+        "other": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "292": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-fall-birch-berry-spray40373-2065497.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "birch": [
+          "brown",
+          "tan"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "293": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/green-pumpkin-pinecone-spray85353-gn-2231768.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ],
+        "unknown": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "green"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "294": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-brown-poppy-cattail-mixed-bush40375-brn-1135202.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "poppy": [
+          "brown"
+        ],
+        "cattail": [
+          "peach"
+        ]
+      },
+      "leaves": {
+        "grass": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "295": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/fall-foliage-berry-spray40321-9460364.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "generic": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "296": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/gold-orange-fall-beech-spray-35fl7169gobrn-9339932.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "beech": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "297": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/burgundy-velvet-leaf-with-berry-bush-16xf686bu-6176165.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "leaf": [
+          "red",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "black"
+        ]
+      }
+    },
+    "error": null
+  },
+  "298": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/mixed-maple-leaf-spray-autumn64488-rdor-7135144.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "299": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-burgundy-grape-leaf-spray-18fl7031bu-9918672.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "grape": [
+          "red",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "300": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/fall-mixed-foliage-crater-berries-cone-pickpm3482-255973.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ],
+        "eucalyptus": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "301": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/creamy-orange-ranunculus-bundle26057-357948.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "ranunculus": [
+          "orange",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "ranunculus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "302": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/autumn-sawgrass-hanging-greenery-bush-greenery-market-exclusivegm1122sage-1588247.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "sawgrass": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "303": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/sage-and-rusty-sawgrass-greenery-bush-greenery-market-exclusivegm1123sage-7341887.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "sawgrass": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "304": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/creamy-peach-leaves-bundle27874-694230.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "leaf": [
+          "peach",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "305": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/creamy-peach-eucalytpus-bundle27884-278503.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "peach"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "306": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/creamy-peach-blush-tipped-ranunculus-bundle26058-731029.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "ranunculus": [
+          "peach",
+          "cream"
+        ]
+      },
+      "leaves": {
+        "generic": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "307": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/creamy-berries-and-leaves-bundle27891-412955.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "generic": [
+          "pink",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "pink",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "308": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/creamy-peach-fern-spray27879-638846.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "peach",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "309": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/creamy-wine-ranunculus-bundle26059-892719.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "ranunculus": [
+          "pink",
+          "red"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "310": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/autumn-orange-peach-peony-bush85323-coral-7433849.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "peony": [
+          "peach"
+        ],
+        "wildflower": [
+          "peach"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "311": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/peony-spray-soft-orange27856-195006.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "peony": [
+          "orange"
+        ]
+      },
+      "leaves": {
+        "peony": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "312": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/rusty-brown-mini-rose-bundle27930-976084.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "orange",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "rose": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "313": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/artificial-orange-tipped-boxwood-greenery-x-2-bushes43235-959491.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "boxwood": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "314": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/mixed-berry-and-greenery-spray-beige-cream64434-418732.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "beige",
+          "brown"
+        ],
+        "eucalyptus": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "white",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "315": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/gingko-and-berries-spray-yellow-orange235919-214305.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "gingko": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "316": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/orange-mini-velvet-pumpkin-spray40292-or-7835798.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "317": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/autumn-boxwood-seedum-bush57014ywbn-7626762.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "boxwood": [
+          "orange",
+          "green"
+        ],
+        "sedum": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "318": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/wheat-grass-bush-gold-cream26472-609248.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wheat": [
+          "gold",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "wheat": [
+          "cream",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "319": {
+    "img_link": "https://greenerymarket.com/cdn/shop/files/mixed-filler-and-broom-corn-bush-burgundy65171-bg-5947685.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "broomcorn": [
+          "burgundy"
+        ],
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  }
+}

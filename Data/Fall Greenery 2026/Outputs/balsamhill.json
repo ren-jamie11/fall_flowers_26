@@ -1,0 +1,2412 @@
+{
+  "0": {
+    "img_link": "https://source.widen.net/content/mte9vyti5l/webp/WRG-2131000_6ft-Halloween-Glitter-LED-Twig-Tree_LED_SSC.webp",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "tree": [
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "1": {
+    "img_link": "https://source.widen.net/content/q0qiqthtt7/webp/FGC-2431001_Lit-Wooden-Halloween-Countdown_Calendar_SSC.webp",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "2": {
+    "img_link": "https://source.widen.net/content/wlehfkuyod/webp/CDL-2331002_Outdoor-Spellbound-Floating-Candles-Set-of-6_SSC.webp",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "3": {
+    "img_link": "https://source.widen.net/content/xudsgjn0vu/webp/OUT-2331002_Outdoor-Stackable-Fairytale-Pumpkins_Set-of-4_SSC.webp",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "4": {
+    "img_link": "https://source.widen.net/content/hugataamqw/webp/ETT-2211000_Lit-Stackable-Grinning-Jack-o-Lanterns_Set-of-3_SSC.webp",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "5": {
+    "img_link": "https://source.widen.net/content/mwlmyxsy4m/webp/CDL-1841000_Solar-Powered-Jack-O-Lantern-Pathway-Lights-Set-of-4_SSC.webp",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "6": {
+    "img_link": "https://source.widen.net/content/6vaobfnpow/webp/FGC-2431001-1_Lit-Wooden-Pumpkin-Patch-Halloween-Countdown-Calendar_SSC.webp",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "7": {
+    "img_link": "https://source.widen.net/content/kmvsjcaisw/webp/ORN-2431000-3_Trick-or-Treat-Mummy-Critters-Felt-Ornaments-Set-of-6_SSCR.webp",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "8": {
+    "img_link": "https://source.widen.net/content/ianrvcivny/webp/ETT-2131003_Glowing-Glass-Pumpkins-Set-of-3_SSC.webp",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "gold"
+        ]
+      }
+    },
+    "error": null
+  },
+  "9": {
+    "img_link": "https://source.widen.net/content/uiu0xhme3h/webp/ORN-2431000_Howl-o-ween-Hounds-Felt-Ornaments-Set-of-6_SSCR.webp",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "10": {
+    "img_link": "https://source.widen.net/content/vo1z7rd9l3/webp/PCK-2531000-1_Velvet-Pumpkin-Patch-Picks-Set-of-12_SSC.webp",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "11": {
+    "img_link": "https://source.widen.net/content/y7nehrztmr/webp/OUT-2331003_Black-Outdoor-Lit-Cat-o-Lantern_SSC.webp",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "black"
+        ]
+      }
+    },
+    "error": null
+  },
+  "12": {
+    "img_link": "https://source.widen.net/content/0nlf6nmyly/webp/WRG-1931002_Rustic-Heirloom-Pumpkins-Set-of-3_SSC.webp",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "13": {
+    "img_link": "https://source.widen.net/content/nvj8ripe33/webp/WRG-2511005-4_Outdoor-Countryside-Pumpkin-Grove-Arrangement_SSC.webp",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "green"
+        ],
+        "fern": [
+          "green"
+        ],
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "cream"
+        ]
+      }
+    },
+    "error": null
+  },
+  "14": {
+    "img_link": "https://source.widen.net/content/l0ntmfdarp/webp/ETT-2031001_Faux-Wood-Pumpkins_Set-of-3_SSC.webp",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "15": {
+    "img_link": "https://source.widen.net/content/rkklxvzlvq/webp/ETT-2131000_LED-Cut-Out-Pumpkins-Set-of-3_SSC.webp",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "16": {
+    "img_link": "https://source.widen.net/content/2acyp72jnc/webp/OUT-2331004_Orange-Lit-Tabletop-Stacked-Jack-O-Lanterns_SSC.webp",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "17": {
+    "img_link": "https://source.widen.net/content/ulxdhotqgc/webp/ETT-2131001_Bronzed-Tabletop-Turkey_SSC.webp",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "18": {
+    "img_link": "https://source.widen.net/content/czxfzjqa6c/webp/ETT-2531000_Bountiful-Gatherings-Beaded-Table-Runner_SSC.webp",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "19": {
+    "img_link": "https://source.widen.net/content/pec4opnthw/webp/OUT-2131001_Outdoor-Illuminated-Jack-O-Lanterns-Silhouette_SSC.webp",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "20": {
+    "img_link": "https://source.widen.net/content/jzng2dzsog/webp/OUT-2131001_Outdoor-Illuminated-Spooky-Manor-Silhouette_SSC.webp",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "21": {
+    "img_link": "https://source.widen.net/content/uhhyl9n2rh/webp/ETT-2131002_Boo-Stacked-LED-Pumpkins_SSC.webp",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "22": {
+    "img_link": "https://source.widen.net/content/pace8oqvpn/webp/OUT-2211002_Tinted-Outdoor-Solar-Globe-Stake-Lights_Set-of-2_SSC.webp",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "23": {
+    "img_link": "https://source.widen.net/content/bln5gsorgx/webp/ETT-2031000_Tabletop-Heirloom-Pumpkins_Set-of-5_SSC.webp",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "24": {
+    "img_link": "https://source.widen.net/content/xr3mbmerqc/webp/4002354_Outdoor-Life-Size-Ghost-Dog-Candy-Bowl_Closeup-10.webp",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "25": {
+    "img_link": "https://source.widen.net/content/w1crpxunvc/webp/FLR-2131007_Gray-Outdoor-Woven-Basket_SSC.webp",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "26": {
+    "img_link": "https://source.widen.net/content/jljqzqvg40/webp/CDL-2241003_Brass-Fairy-Light-Lanterns_Set-of-2_SSC.webp",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "27": {
+    "img_link": "https://source.widen.net/content/5ofayvhh0x/webp/OUT-1741000_Outdoor-Heirloom-Pumpkins-Set-of-3_SSC-10.webp",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "28": {
+    "img_link": "https://source.widen.net/content/645zx83tgr/webp/OUT-2331001_Lit-Spellbound-Wire-Witch-Hat_SSC.webp",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "29": {
+    "img_link": "https://source.widen.net/content/mcp3obbc3j/webp/OUT-2341018_33in-Warm-White-Solar-Cluster-Light-String-Black-Cord_SSC.webp",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "30": {
+    "img_link": "https://source.widen.net/content/lhjy1kgcio/webp/CDL-1841002_Brass-Chamberstick-Candle-Set-of-2_SSC-20.webp",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "31": {
+    "img_link": "https://source.widen.net/content/maao6i3tvw/webp/CDL-21110013_Apple-Harvest-Scents-of-the-Season-Cartridges-Set-of-3_SSC-110.webp",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "32": {
+    "img_link": "https://source.widen.net/content/fdeqjiriyp/webp/CDL-2031004-3_Red-Classic-Fairy-Light-Lantern-16in_SSC.webp",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "33": {
+    "img_link": "https://source.widen.net/content/6qv9fyekkg/webp/CDL-1841002_Nickel-Chamberstick-Candle-Set-of-2_SSC-30.webp",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "34": {
+    "img_link": "https://source.widen.net/content/d1bz7jax0r/webp/CDL-21110013_Autumn-Woods-Scents-of-the-Season-Cartridges-Set-of-3_SSC-100.webp",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "35": {
+    "img_link": "https://source.widen.net/content/evb1kwbgzl/webp/CDL-21110013_Cinnamon-Scents-of-the-Season-Cartridges-Set-of-3_SSC-90.webp",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "36": {
+    "img_link": "https://source.widen.net/content/fajxl0iwvd/webp/CDL-21110013_Pumpkin-Spice-Scents-of-the-Season-Cartridges-Set-of-3_SSC-120.webp",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "37": {
+    "img_link": "https://source.widen.net/content/acbt6wsuea/webp/CDL-1941001_19.5ft-Warm-White-Connectable-Cluster-Micro-LED-Light-String_SSC.webp",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "38": {
+    "img_link": "https://source.widen.net/content/yspmonvkxh/webp/CDL-1841000_Solar-Black-Cat-Pathway-Lights-Set-of-4_SSC.webp",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "39": {
+    "img_link": "https://source.widen.net/content/pjamjpqszd/webp/OUT-2331001_Lit-Spellbound-Wire-Witch-Hat-Set-of-2_SSC.webp",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "40": {
+    "img_link": "https://source.widen.net/content/iramye87dm/webp/OUT-1741000-1_Outdoor-Fairytale-Heirloom-Pumpkins-Set-of-3_SSC.webp",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "41": {
+    "img_link": "https://source.widen.net/content/jgt7m5sujk/webp/OUT-1741000-2_Tabletop-Outdoor-Heirloom-Pumpkins-Set-of-3_SSC.webp",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "42": {
+    "img_link": "https://source.widen.net/content/dhcawnjdsf/webp/FGC-2441011_7in-Lit-Woodland-Glass-Owl_SSC.webp",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "43": {
+    "img_link": "https://source.widen.net/content/y08ocupqul/webp/OUT-2531000-2_OD-Haunted-Halloween-Bat-LED-Lights-Set-of-3_SSC.webp",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "44": {
+    "img_link": "https://source.widen.net/content/ynb11oxyxk/webp/OUT-2531000-1_Outdoor-Haunted-Halloween-Round-and-Corner-Spiderweb-LED-Lights-Set-of-2_SSC.webp",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "45": {
+    "img_link": "https://source.widen.net/content/r9gfkzbcqd/webp/WRG-1741009_Country-Fields-Garland_6ft-Unlit_SSC-20.webp",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ],
+        "pine": [
+          "brown",
+          "green"
+        ],
+        "corn": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "46": {
+    "img_link": "https://source.widen.net/content/0cpuvqmaku/webp/WRG-2131002-2_Persimmon-and-Pinecone-Garland_Unlit_SSC.webp",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ],
+        "maple": [
+          "yellow",
+          "red"
+        ]
+      },
+      "fruit": {
+        "persimmon": [
+          "orange",
+          "red"
+        ],
+        "berry": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "47": {
+    "img_link": "https://source.widen.net/content/byowzfalbg/webp/WRG-2431007-2_6ft-Outdoor-Sunset-Mums-Garland_SSC.webp",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "red",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "generic": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "48": {
+    "img_link": "https://source.widen.net/content/5stc04sqee/webp/WRG-1541004_Fall-Harvest-Garland_6ft-Unlit_SSC.webp",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "red",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "green"
+        ],
+        "gourd": [
+          "green",
+          "yellow"
+        ],
+        "berry": [
+          "red",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "49": {
+    "img_link": "https://source.widen.net/content/ngplgzb8pu/webp/WRG-2131004_Fall-Medley-Garland_Unlit_SSC.webp",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "gold"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "50": {
+    "img_link": "https://source.widen.net/content/fyuzu2x69r/webp/WRG-1841003_Briarwood-Cottage-Garland_6ft-Unlit_SSC.webp",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "hydrangea": [
+          "cream"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ],
+        "maple": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "51": {
+    "img_link": "https://source.widen.net/content/6w3xecckla/webp/WRG-1641011_Autumn-Abundance-Garland_Unlit_SSC.webp",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "brown"
+        ],
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ],
+        "berry": [
+          "cream"
+        ]
+      }
+    },
+    "error": null
+  },
+  "52": {
+    "img_link": "https://source.widen.net/content/3ly1gt6kol/webp/WRG-2031000_Outdoor-Autumn-Traditions-Garland_Unlit_SSC.webp",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ],
+        "oak": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ],
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "53": {
+    "img_link": "https://source.widen.net/content/svz5dixnrg/webp/WRG-2431006-1_6ft-Fall-Berries-%26-Blossoms-Garland_SSC.webp",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "chrysanthemum": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "54": {
+    "img_link": "https://source.widen.net/content/h47mzotxdj/webp/WRG-2511005-3_6ft-Outdoor-Countryside-Pumpkin-Grove-Garland_SSC.webp",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ],
+        "oak": [
+          "brown",
+          "orange"
+        ],
+        "eucalyptus": [
+          "green",
+          "blue"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ],
+        "gourd": [
+          "yellow",
+          "orange"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "55": {
+    "img_link": "https://source.widen.net/content/awppwi0ct8/webp/WRG-2511007-2_6ft-Golden-Harvest-Garland_SSC.webp",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ],
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "56": {
+    "img_link": "https://source.widen.net/content/ldjs1lliuo/webp/WRG-1931003_Fairytale-Pumpkin-Garland_Unlit_SSC.webp",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "ivy": [
+          "green",
+          "yellow"
+        ],
+        "eucalyptus": [
+          "green",
+          "gray"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "green",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "57": {
+    "img_link": "https://source.widen.net/content/ryyztor0sr/webp/FRR-W_BH-Fraser-Fir-Garland_6ft-LEDCL_SSC.webp",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fir": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "58": {
+    "img_link": "https://source.widen.net/content/psptsvaj3e/webp/NWW-W_Norway-Spruce-Garland_10ft-LEDCL_SSC.webp",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "spruce": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "59": {
+    "img_link": "https://source.widen.net/content/yhgaywkclr/webp/VWS-W_Vermont-White-Spruce-Garland_10ft-Clear_SSC.webp",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "spruce": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "60": {
+    "img_link": "https://source.widen.net/content/chgip07ct8/webp/WRG-2341012-2_Cedar-Woods-Garland_SSC.webp",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "cedar": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "61": {
+    "img_link": "https://source.widen.net/content/wjg2rvwk0m/webp/BLU-W-1_10ft-Classic-Blue-Spruce-Garland_SSC.webp",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "spruce": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "62": {
+    "img_link": "https://source.widen.net/content/jukjbavlbj/webp/BFR-W_BH-Balsam-Fir-Garland_10ft-Clear_SSC-50.webp",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fir": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "63": {
+    "img_link": "https://source.widen.net/content/ffhjl5etbv/webp/BER-W_Berkshire-Mountain-Fir-Garland_10ft-Clear_SSC-50.webp",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fir": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "64": {
+    "img_link": "https://source.widen.net/content/nhim23xcqs/webp/WRG-1741005_Sunburst-Mums-Garland_6ft-Unlit_SSC-20.webp",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "orange",
+          "yellow"
+        ],
+        "chrysanthemum": [
+          "orange",
+          "red"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "65": {
+    "img_link": "https://source.widen.net/content/sztss3wk45/webp/WRG-2131009_Orange-Outdoor-Sunset-Mums-Pot-Filler_Set-of-2_20in_SSC.webp",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "chrysanthemum": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "66": {
+    "img_link": "https://source.widen.net/content/dwfac7d9op/webp/WRG-2331009_Orange-Outdoor-Vibrant-Dahlias-Pot-Filler_SSC.webp",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "dahlia": [
+          "orange"
+        ]
+      },
+      "leaves": {
+        "dahlia": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "67": {
+    "img_link": "https://source.widen.net/content/sexwr6ompi/webp/WRG-2131009_Scarlet-Outdoor-Sunset-Mums-Pot-Filler_Set-of-2_20in_SSC.webp",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "red",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "chrysanthemum": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "68": {
+    "img_link": "https://source.widen.net/content/gtcmqvwmox/webp/WRG-2131009_Gold-Outdoor-Sunset-Mums-Pot-Filler_Set-of-2_20in_SSC.webp",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "chrysanthemum": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "69": {
+    "img_link": "https://source.widen.net/content/txpk2ty8mx/webp/WRG-2531003-3_Rustic-Hydrangea-Pot-Fillers-Set-of-2_SSC.webp",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "70": {
+    "img_link": "https://source.widen.net/content/vrcb2xmmnr/webp/WRG-2331009_Crimson-Outdoor-Vibrant-Dahlias-Pot-Filler_SSC.webp",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "dahlia": [
+          "red"
+        ]
+      },
+      "leaves": {
+        "dahlia": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "71": {
+    "img_link": "https://source.widen.net/content/cqrjlvyryr/webp/WRG-2131009_24in-Outdoor-Red-Potted-Mums_Unlit_SSC.webp",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "red",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "chrysanthemum": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "72": {
+    "img_link": "https://source.widen.net/content/gzdsaeronj/webp/WRG-2131009-1_28in-Gold-Outdoor-Sunset-Mums-Pot-Filler_SSC.webp",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "chrysanthemum": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "73": {
+    "img_link": "https://source.widen.net/content/rclm1ngp1j/webp/WRG-2531004-4_Pumpkin-Floral-Potted-Flowers_24in_SSC.webp",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "chrysanthemum": [
+          "orange",
+          "red"
+        ],
+        "dahlia": [
+          "orange",
+          "red"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "purple",
+          "red"
+        ],
+        "berry": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "74": {
+    "img_link": "https://source.widen.net/content/6r6a7vx5ed/webp/WRG-2531002-3_Outdoor-Marigold-Meadow-Potted-Flowers_SSC.webp",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "marigold": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "75": {
+    "img_link": "https://source.widen.net/content/bro4hlx2xw/webp/WRG-2131009_24in-Outdoor-Orange-Potted-Mums_Unlit_SSC.webp",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "chrysanthemum": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "76": {
+    "img_link": "https://source.widen.net/content/btuhihkpfm/webp/URN-2531002_24in-Outdoor-Sunflower-Fields-Pot-Filler_SSC.webp",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "77": {
+    "img_link": "https://source.widen.net/content/r1bs1lkvjo/webp/WRG-1641011_Autumn-Abundance-Arrangement_Unlit_SSC.webp",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "green"
+        ],
+        "fern": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "green"
+        ],
+        "berry": [
+          "cream"
+        ]
+      }
+    },
+    "error": null
+  },
+  "78": {
+    "img_link": "https://source.widen.net/content/val8uxjom6/webp/WRG-2131002_Persimmon-and-Pinecone-Arrangement_Unlit_SSC.webp",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ],
+        "maple": [
+          "red",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "persimmon": [
+          "orange"
+        ],
+        "apple": [
+          "red"
+        ],
+        "berry": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "79": {
+    "img_link": "https://source.widen.net/content/vbk4ala4uz/webp/WRG-1841001_Outdoor-Harvest-Bloom-Mailbox-Swag_UNLIT_SSC-30.webp",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "flower",
+      "flowers": {
+        "dahlia": [
+          "red",
+          "pink"
+        ],
+        "wildflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ],
+        "ivy": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "pink",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "80": {
+    "img_link": "https://source.widen.net/content/njf3o89g3y/webp/WRG-1541004_Fall-Harvest-Swag_SSC-30.webp",
+    "labels": {
+      "product_type": "teardrop",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "red",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "red",
+          "orange"
+        ],
+        "pine": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "green"
+        ],
+        "berry": [
+          "red",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "81": {
+    "img_link": "https://source.widen.net/content/uikddfi0kq/webp/WRG-1841003_Briarwood-Cottage-Arrangement_UNLIT_SSC-20.webp",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "hydrangea": [
+          "cream",
+          "white"
+        ],
+        "wildflower": [
+          "white",
+          "cream"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "red"
+        ],
+        "fern": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "82": {
+    "img_link": "https://source.widen.net/content/19xrnxhnky/webp/WRG-1841002_Apple-Spice-Arrangement_Unlit_SSC.webp",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {
+        "apple": [
+          "red",
+          "yellow"
+        ],
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "83": {
+    "img_link": "https://source.widen.net/content/29csdg4h6y/webp/WRG-1641011_Autumn-Abundance-Swag_Unlit_SSC-30.webp",
+    "labels": {
+      "product_type": "teardrop",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "green",
+          "yellow"
+        ],
+        "fern": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "green"
+        ],
+        "berry": [
+          "cream"
+        ]
+      }
+    },
+    "error": null
+  },
+  "84": {
+    "img_link": "https://source.widen.net/content/8aemk1vyy3/webp/WRG-1741005_Sunburst-Mums-Hanging-Basket_LEDCL_SSC-30.webp",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "chrysanthemum": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "85": {
+    "img_link": "https://source.widen.net/content/x0k5x9qwpt/webp/WRG-1931003_Fairytale-Pumpkin-Arrangement_Unlit_SSC.webp",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "hydrangea": [
+          "cream"
+        ]
+      },
+      "leaves": {
+        "ivy": [
+          "green",
+          "yellow"
+        ],
+        "oak": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "86": {
+    "img_link": "https://source.widen.net/content/hvnwbogh1g/webp/WRG-2241031_Orange-Outdoor-Sunset-Mums-Hanging-Basket_20in_SSC.webp",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "chrysanthemum": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "87": {
+    "img_link": "https://source.widen.net/content/ijf4j2kujl/webp/WRG-2241031_Gold-Outdoor-Sunset-Mums-Hanging-Basket_20in_SSC.webp",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "yellow"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "88": {
+    "img_link": "https://source.widen.net/content/5qhxxlhbnr/webp/WRG-2431006-3_Fall-Berries-%26-Blossoms-Arrangement_SSC.webp",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "chrysanthemum": [
+          "orange",
+          "red"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "yellow",
+          "green"
+        ],
+        "eucalyptus": [
+          "green",
+          "gray"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "yellow",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "89": {
+    "img_link": "https://source.widen.net/content/jo6059rsbx/webp/WRG-1841001_Outdoor-Harvest-Bloom-Hanging-Basket_LEDCL_SSC-40.webp",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "dahlia": [
+          "red"
+        ],
+        "wildflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ],
+        "ivy": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "90": {
+    "img_link": "https://source.widen.net/content/pmohoeaevf/webp/WRG-2241031_Scarlet-Outdoor-Sunset-Mums-Hanging-Basket_20in_SSC.webp",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "red"
+        ]
+      },
+      "leaves": {
+        "chrysanthemum": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "91": {
+    "img_link": "https://source.widen.net/content/v5auybqidx/webp/WRG-2131009-6_28in-Outdoor-Ivory-Sunset-Mums-Pot-Filler-2-Pack_SSC.webp",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "white",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "chrysanthemum": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "92": {
+    "img_link": "https://source.widen.net/content/215wqxtda6/webp/WRG-2131009-9_24in-Outdoor-Purple-Sunset-Mums-Pot-Filler-Set-of-2_SSC.webp",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "pink",
+          "white"
+        ]
+      },
+      "leaves": {
+        "chrysanthemum": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "93": {
+    "img_link": "https://source.widen.net/content/vnjrw2f4ro/webp/WRG-1931003-6_Fairytale-Pumpkin-Wreath_Unlit_SSCR.webp",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "hydrangea": [
+          "cream",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "ivy": [
+          "green",
+          "yellow"
+        ],
+        "eucalyptus": [
+          "green",
+          "blue"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "94": {
+    "img_link": "https://source.widen.net/content/a1kfnpxmes/webp/WRG-1841003_Briarwood-Cottage-Wreath_22in_SSCR.webp",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "hydrangea": [
+          "cream",
+          "yellow"
+        ],
+        "wildflower": [
+          "white"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "gray"
+        ],
+        "maple": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "95": {
+    "img_link": "https://source.widen.net/content/cvcpkpwc37/webp/WRG-1541004_Fall-Harvest-Wreath_28in-Unlit_SSCR.webp",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ],
+        "fern": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ],
+        "gourd": [
+          "orange",
+          "green"
+        ],
+        "berry": [
+          "red",
+          "orange"
+        ],
+        "apple": [
+          "red",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "96": {
+    "img_link": "https://source.widen.net/content/vsruoirxjy/webp/WRG-2431001-1_26in-Sunset-Harvest-Blooms-Wreath_SSCR.webp",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "dahlia": [
+          "peach",
+          "cream"
+        ],
+        "rose": [
+          "cream"
+        ],
+        "chrysanthemum": [
+          "purple"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "97": {
+    "img_link": "https://source.widen.net/content/xoo13zgwiy/webp/WRG-2031000_Outdoor-Autumn-Traditions-Wreath-24in_Unlit_SSCR.webp",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ],
+        "oak": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ],
+        "berry": [
+          "red",
+          "orange"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "98": {
+    "img_link": "https://source.widen.net/content/prjklzw22q/webp/WRG-1641011_Autumn-Abundance-Wreath-34in_Unlit_SSCR.webp",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "green"
+        ],
+        "berry": [
+          "cream"
+        ]
+      }
+    },
+    "error": null
+  },
+  "99": {
+    "img_link": "https://source.widen.net/content/bvyesiyvao/webp/WRG-2511007-1_26in-Golden-Harvest-Wreath_SSCR.webp",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ],
+        "oak": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ],
+        "berry": [
+          "orange",
+          "red"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "100": {
+    "img_link": "https://source.widen.net/content/oc0chg0oew/webp/WRG-2511005-2_28in-Outdoor-Countryside-Pumpkin-Grove-Wreath_SSCR.webp",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ],
+        "oak": [
+          "brown",
+          "green"
+        ],
+        "eucalyptus": [
+          "green",
+          "blue"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ],
+        "gourd": [
+          "orange",
+          "yellow"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "101": {
+    "img_link": "https://source.widen.net/content/99kjstlvxi/webp/WRG-1741009_Country-Fields-Wreath_30in-Unlit_SSCR-10.webp",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "red",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "yellow",
+          "red"
+        ],
+        "oak": [
+          "orange",
+          "brown"
+        ],
+        "grass": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "102": {
+    "img_link": "https://source.widen.net/content/1hzdzczk3u/webp/WRG-2131004_Fall-Medley-Wreath_Unlit_SSCR.webp",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "brown"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "103": {
+    "img_link": "https://source.widen.net/content/f1tzfgjloi/webp/WRG-2131007_Golden-Aspen-Wreath_Unlit_SSCR.webp",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "aspen": [
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "104": {
+    "img_link": "https://source.widen.net/content/dagh67pxo9/webp/WRG-1741005_Outdoor-Sunburst-Mums-Wreath-24in_Unlit_SSCR.webp",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "chrysanthemum": [
+          "orange",
+          "yellow"
+        ],
+        "sunflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "105": {
+    "img_link": "https://source.widen.net/content/pafw37hwvk/webp/WRG-1841001_Outdoor-Harvest-Bloom-Wreath_30in-UNLIT_SSCR-10.webp",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "dahlia": [
+          "red"
+        ],
+        "wildflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ],
+        "ruscus": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "pink",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "106": {
+    "img_link": "https://source.widen.net/content/ippuao7jlj/webp/WRG-2511006-1_26in-Orange-Berry-and-Pinecone-Wreath_SSCR.webp",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "other": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "107": {
+    "img_link": "https://source.widen.net/content/bvlanzvb0l/webp/WRG-2531002-1_24in-Outdoor-Marigold-Meadow-Wreath_SSCR.webp",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "marigold": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "108": {
+    "img_link": "https://source.widen.net/content/bael01r54u/webp/WRG-2131006_Burgundy-Leaves-Wreath_Unlit_SSCR.webp",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "burgundy",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "109": {
+    "img_link": "https://source.widen.net/content/cnpy5qswdk/webp/WRG-2211004_Sweet-Pear-Wreath_28in_SSCR.webp",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "chrysanthemum": [
+          "cream",
+          "peach"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ],
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pear": [
+          "yellow",
+          "green"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "110": {
+    "img_link": "https://source.widen.net/content/qp8pjde6oz/webp/WRG-2431002-1_26in-Autumn-Sunrise-Wreath_SSCR.webp",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "peony": [
+          "orange"
+        ],
+        "dahlia": [
+          "yellow",
+          "cream"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ],
+        "maple": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "111": {
+    "img_link": "https://source.widen.net/content/d232dygfqu/webp/WRG-2431007-1_26in-Outdoor-Sunset-Mums-Wreath_SSCR.webp",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "red",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "chrysanthemum": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "112": {
+    "img_link": "https://source.widen.net/content/hm7arzknxq/webp/WRG-2531004-2_26in-Pumpkin-Floral-Wreath_SSCR.webp",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "dahlia": [
+          "orange",
+          "red"
+        ],
+        "chrysanthemum": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ],
+        "ficus": [
+          "green",
+          "dark green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "purple",
+          "brown"
+        ],
+        "berry": [
+          "yellow",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "113": {
+    "img_link": "https://source.widen.net/content/gmuizzluco/webp/WRG-2531003-1_22in-Orange-Rustic-Hydrangea-Wreath_SSCR.webp",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "orange",
+          "red"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "114": {
+    "img_link": "https://source.widen.net/content/qizffdeqjn/webp/WRG-2431006-2_26in-Fall-Berries-%26-Blossoms-Wreath_SSCR.webp",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "dahlia": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "oak": [
+          "yellow",
+          "brown"
+        ],
+        "eucalyptus": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "yellow"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "115": {
+    "img_link": "https://source.widen.net/content/kkabkknunb/webp/BLU-W_Classic-Blue-Spruce-Wreath-Set-of-2_26in-LEDCL_SSC-10.webp",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "spruce": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "116": {
+    "img_link": "https://source.widen.net/content/6nylujxeuj/webp/FRR-W_BH-Fraser-Fir-Wreath_26in-LEDCL_SSCR.webp",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fir": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "117": {
+    "img_link": "https://source.widen.net/content/fwpx0myujh/webp/WRG-2341012_Cedar-Woods-Wreath_SSCR.webp",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "cedar": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "118": {
+    "img_link": "https://source.widen.net/content/jnkeqry32h/webp/VWS-W_Vermont-White-Spruce-Wreath_26in-LEDCL_SSCR.webp",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "spruce": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "119": {
+    "img_link": "https://source.widen.net/content/rjma1iqxht/webp/BFR-W_BH-Balsam-Fir_26in-LEDCL_SSCR.webp",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fir": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "120": {
+    "img_link": "https://source.widen.net/content/ljjyyyzyqb/webp/BER-W_22in-Double-Sided-Berkshire-Mountain-Wreath_LEDCL_SSCR.webp",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fir": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  }
+}

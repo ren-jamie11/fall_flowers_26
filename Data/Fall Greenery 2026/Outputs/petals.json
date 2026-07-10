@@ -1,0 +1,1249 @@
+{
+  "0": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/5480/6056/flb774-mp_zoom__20947.1619268911.jpg?c=1",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "orange",
+          "yellow"
+        ],
+        "rose": [
+          "orange",
+          "white"
+        ],
+        "chrysanthemum": [
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green"
+        ],
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "1": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/6115/6932/wra242-na__69148.1631471545.jpg?c=1",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "2": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/6481/9036/flc999-na__04698.1691179621.jpg?c=1",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "bittersweet": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "3": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/5422/6020/flb527-na_zoom__16892.1619268878.jpg?c=1",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "zinnia": [
+          "yellow"
+        ],
+        "gerbera": [
+          "yellow"
+        ],
+        "lily": [
+          "orange"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green"
+        ],
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "4": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/5521/6086/flb897-na_zoom__71048.1661217364.jpg?c=1",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "chrysanthemum": [
+          "orange",
+          "yellow"
+        ],
+        "calla lily": [
+          "brown",
+          "orange"
+        ],
+        "hydrangea": [
+          "orange",
+          "red"
+        ],
+        "dahlia": [
+          "red"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "purple",
+          "black"
+        ]
+      }
+    },
+    "error": null
+  },
+  "5": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/6477/9033/fla996-na__38665.1691178758.jpg?c=1",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "red"
+        ],
+        "chrysanthemum": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ],
+        "pine": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "6": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/6610/9360/wra372-na__45741.1755734040.jpg?c=1",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "chestnut": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "7": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/5830/6596/wra165-na_zoom__25674.1619269419.jpg?c=1",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "yellow"
+        ],
+        "acorn": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "8": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/6611/9358/pld416-na__55819.1755733897.jpg?c=1",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "9": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/6609/9356/flc436-yeo__87789.1755733721.jpg?c=1",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "orange"
+        ],
+        "daisy": [
+          "yellow",
+          "white"
+        ],
+        "wildflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "ivy": [
+          "green"
+        ],
+        "fern": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "10": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/6608/9354/flb434-na__04567.1755730766.jpg?c=1",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ],
+        "pine": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "green"
+        ],
+        "gourd": [
+          "yellow",
+          "green"
+        ],
+        "berry": [
+          "red",
+          "dark blue"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "11": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/6607/9348/fla921-mp__57690.1755729960.jpg?c=1",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "orange"
+        ],
+        "zinnia": [
+          "yellow"
+        ],
+        "wildflower": [
+          "red"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "brown"
+        ],
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "12": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/6598/9328/flb196-mp__09268.1742936425.jpg?c=1",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "lily": [
+          "orange",
+          "red"
+        ],
+        "ranunculus": [
+          "red",
+          "pink"
+        ],
+        "daisy": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "gray"
+        ],
+        "croton": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "purple",
+          "black"
+        ]
+      }
+    },
+    "error": null
+  },
+  "13": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/6606/9351/fla198-na__76909.1755730243.jpg?c=1",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "brown"
+        ],
+        "wildflower": [
+          "red",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "oak": [
+          "orange",
+          "green"
+        ],
+        "fern": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "14": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/6283/8119/flb317-mp__75217.1660766235.jpg?c=1",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "orange",
+          "red"
+        ],
+        "zinnia": [
+          "red",
+          "orange"
+        ],
+        "daisy": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "red",
+          "green"
+        ],
+        "eucalyptus": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "15": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/6117/6936/wra244-na__79675.1661954637.jpg?c=1",
+    "labels": {
+      "product_type": "teardrop",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ],
+        "eucalyptus": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ],
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "16": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/6539/9210/flc162-na__27117.1723590231.jpg?c=1",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "17": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/6543/9228/wra342-na__86071.1723591784.jpg?c=1",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ],
+        "eucalyptus": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pomegranate": [
+          "red",
+          "brown"
+        ],
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "18": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/6545/9202/flb161-na__68979.1723589709.jpg?c=1",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "chrysanthemum": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {
+        "pomegranate": [
+          "red",
+          "brown"
+        ],
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "19": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/6544/9230/wra344-na__71772.1723591836.jpg?c=1",
+    "labels": {
+      "product_type": "teardrop",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {
+        "pomegranate": [
+          "red",
+          "brown"
+        ],
+        "berry": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "20": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/5250/5895/fla671-mp_zoom__40756.1619268771.jpg?c=1",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "orange",
+          "red"
+        ],
+        "hydrangea": [
+          "orange",
+          "red"
+        ],
+        "sunflower": [
+          "orange",
+          "yellow"
+        ],
+        "aster": [
+          "purple"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green"
+        ],
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "21": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/6094/6881/flb247-na__92112.1630030269.jpg?c=1",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "yellow",
+          "orange"
+        ],
+        "fern": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "green"
+        ],
+        "berry": [
+          "red",
+          "yellow"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "22": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/6535/9199/flb159-mp__04879.1723589739.jpg?c=1",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "orange",
+          "yellow"
+        ],
+        "cosmos": [
+          "orange",
+          "yellow"
+        ],
+        "daisy": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "green"
+        ],
+        "ivy": [
+          "green",
+          "red"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "23": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/6479/9049/flb998-na__04951.1691209005.jpg?c=1",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "orange"
+        ],
+        "black-eyed susan": [
+          "yellow"
+        ],
+        "wildflower": [
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "yellow",
+          "green"
+        ],
+        "maple": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "24": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/6538/9207/flc157-mp__47773.1723590185.jpg?c=1",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "daisy": [
+          "red",
+          "pink"
+        ],
+        "lily": [
+          "orange",
+          "yellow"
+        ],
+        "wildflower": [
+          "purple",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "orange",
+          "green"
+        ],
+        "maple": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "25": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/6541/9225/wra304-na__99970.1723591663.jpg?c=1",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "26": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/6542/9231/wra305-na__58270.1723650786.jpg?c=1",
+    "labels": {
+      "product_type": "teardrop",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "yellow",
+          "orange"
+        ],
+        "leaf": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "27": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/6537/9204/flb163-na__47585.1723589823.jpg?c=1",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "daisy": [
+          "yellow",
+          "orange"
+        ],
+        "chrysanthemum": [
+          "orange",
+          "yellow"
+        ],
+        "wildflower": [
+          "orange",
+          "cream"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ],
+        "fern": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "28": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/6280/8077/flb327-mp__42450.1659016134.jpg?c=1",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "orange"
+        ],
+        "rose": [
+          "yellow",
+          "red"
+        ],
+        "dahlia": [
+          "red",
+          "orange"
+        ],
+        "wildflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ],
+        "fern": [
+          "brown",
+          "green"
+        ],
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "29": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/6096/6889/flc970-na__00850.1630032196.jpg?c=1",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "unknown": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "30": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/5528/6092/flb917-mp_zoom__42032.1619268940.jpg?c=1",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "alstroemeria": [
+          "white",
+          "yellow"
+        ],
+        "rose": [
+          "white",
+          "cream"
+        ],
+        "chrysanthemum": [
+          "orange",
+          "yellow"
+        ],
+        "wildflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green"
+        ],
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "31": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/5415/6016/flb475-na_zoom__36678.1619268875.jpg?c=1",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "green"
+        ],
+        "ivy": [
+          "green"
+        ],
+        "magnolia": [
+          "red",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "32": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/5339/5967/fla914-mp_zoom__50010.1619268830.jpg?c=1",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "orange"
+        ],
+        "zinnia": [
+          "yellow"
+        ],
+        "wildflower": [
+          "red",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "leaf": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "33": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/5419/6018/flb475-na_zoom__29338.1619268877.jpg?c=1",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "green"
+        ],
+        "ivy": [
+          "green"
+        ],
+        "magnolia": [
+          "red",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "34": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/5454/6040/flb717-mp_enlarge__18398.1619268897.jpg?c=1",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "red",
+          "yellow"
+        ],
+        "gerbera": [
+          "orange",
+          "yellow"
+        ],
+        "dahlia": [
+          "orange",
+          "yellow"
+        ],
+        "delphinium": [
+          "purple",
+          "blue"
+        ],
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "leaves": {
+        "ruscus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "35": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/5689/9434/pla328-na__63895.1766635677.jpg?c=1",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "croton": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "36": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/5503/6071/flb854-ye_zoom__44251.1661446210.jpg?c=1",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "sunflower": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "37": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/5693/7049/pla350-na__84342.1649283458.jpg?c=1",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "grass": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "38": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/5823/6584/trm312-05_zoom__93817.1619269404.jpg?c=1",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "39": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/6536/9201/flb160-na__66787.1723589663.jpg?c=1",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "chrysanthemum": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "yellow",
+          "red"
+        ],
+        "eucalyptus": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "40": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/6116/6934/wra243-na__96683.1632195426.jpg?c=1",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ],
+        "generic leaf": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "red"
+        ],
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "41": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/6641/9497/flb297-mp-__11420.1774881452.jpg?c=1",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "poppy": [
+          "yellow"
+        ],
+        "lily": [
+          "orange"
+        ],
+        "rose": [
+          "pink"
+        ],
+        "zinnia": [
+          "orange"
+        ],
+        "anemone": [
+          "purple"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ],
+        "ivy": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "42": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/6282/8122/flb289-mp__55430.1660766274.jpg?c=1",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "lily": [
+          "orange",
+          "yellow"
+        ],
+        "rose": [
+          "red",
+          "orange"
+        ],
+        "hydrangea": [
+          "red"
+        ],
+        "chrysanthemum": [
+          "white",
+          "cream"
+        ],
+        "wildflower": [
+          "purple",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ],
+        "ivy": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "43": {
+    "img_link": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/1280x1280/products/5435/6028/flb603-na_zoom__01909.1619268885.jpg?c=1",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "orchid": [
+          "red",
+          "orange"
+        ],
+        "calla lily": [
+          "purple",
+          "yellow"
+        ],
+        "bird of paradise": [
+          "orange",
+          "red"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green"
+        ],
+        "croton": [
+          "green",
+          "yellow"
+        ],
+        "palm": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  }
+}

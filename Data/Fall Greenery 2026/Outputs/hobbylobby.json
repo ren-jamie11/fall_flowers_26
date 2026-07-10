@@ -1,0 +1,6358 @@
+{
+  "0": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6322671-81234880-06032026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "cosmos": [
+          "red",
+          "brown"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "1": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6414023-81284441-05192026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "foliage": [
+          "red",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "2": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6322937-81234979-05292026-IMGSET",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "green"
+        ],
+        "maple": [
+          "orange",
+          "red"
+        ],
+        "fern": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "3": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6411219-81282870-06012026-IMGSET",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "4": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6037899-81184275-05282026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "plum": [
+          "red",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "5": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6414080-81284469-05142026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "brown",
+          "tan"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "6": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5685979-81070433-06122026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "dark blue",
+          "green"
+        ],
+        "foxtail": [
+          "brown",
+          "cream"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "7": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6033351-81183585-05292026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "red",
+          "orange"
+        ],
+        "chrysanthemum_2": [
+          "cream"
+        ]
+      },
+      "leaves": {
+        "generic": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "8": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6322986-81235045-06122026-IMGSET",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "laurel": [
+          "brown",
+          "tan"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "9": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5041801-80936118-05282026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "10": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5330501-80882535-05292026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "11": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6322887-81234972-05282026-IMGSET",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "beige"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "12": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5543103-81031725-05292026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "brown",
+          "cream"
+        ]
+      }
+    },
+    "error": null
+  },
+  "13": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6323034-81235058-06122026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "leaf": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "14": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6321665-81234096-05042026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "generic": [
+          "green",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "15": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6040950-81185729-05042026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "red",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "16": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5138391-80827000-05042026-IMGSET",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "acorn": [
+          "brown",
+          "green"
+        ],
+        "berry": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "17": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6037915-81184280-05292026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fig": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "18": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5693932-81234855-05212026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "brown"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "19": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5323407-80881754-04172026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "pittosporum": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "20": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6040885-81185723-05122026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "cosmos": [
+          "cream"
+        ]
+      },
+      "leaves": {
+        "cosmos": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "21": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6040539-81185283-05292026-IMGSET",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "brown",
+          "beige"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "22": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6412910-81284074-05122026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "thistle": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "generic": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "23": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6037782-81184255-06012026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "24": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6321053-81233600-05012026-IMGSET",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "25": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5307236-81137757-05112026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "black"
+        ]
+      }
+    },
+    "error": null
+  },
+  "26": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6322531-81234851-06122026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "brown",
+          "cream"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "27": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5022330-80149856-05012026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "28": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6321004-81233518-05282026-IMGSET",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "cream",
+          "orange"
+        ],
+        "wildflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "29": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5117981-80825941-05062026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "ranunculus": [
+          "orange",
+          "cream"
+        ],
+        "peony": [
+          "orange",
+          "red"
+        ],
+        "wildflower": [
+          "white",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "ruscus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "30": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5035142-80937396-05122026-IMGSET",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ],
+        "oak": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ],
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "31": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5543020-81031686-04232026-IMGSET",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "32": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6414312-81284530-06122026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "thistle": [
+          "cream",
+          "beige"
+        ]
+      },
+      "leaves": {
+        "thistle": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "33": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5946025-81138147-05292026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "generic": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "34": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6040810-81185722-06262026-IMGSET",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "red"
+        ],
+        "fern": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "brown",
+          "orange"
+        ],
+        "acorn": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "35": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6412175-81283564-06012026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "burgundy",
+          "cream"
+        ],
+        "chrysanthemum 2": [
+          "pink",
+          "cream"
+        ]
+      },
+      "leaves": {
+        "chrysanthemum": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "36": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5117213-80825934-05142026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "orange"
+        ],
+        "chrysanthemum": [
+          "orange",
+          "red"
+        ],
+        "peony": [
+          "orange"
+        ],
+        "wildflower": [
+          "white"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "yellow",
+          "green"
+        ],
+        "ruscus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "37": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5540869-81030071-05282026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "laurel": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "38": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6415640-81285038-05192026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "39": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5945670-81137828-05142026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "gold"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "40": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5334131-80883075-04162026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "brown",
+          "tan"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "41": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5156815-80830123-06122026-IMGSET",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "yellow"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "42": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/206321459-81252714-05042026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "pumpkin": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "43": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5138672-81137724-05292026-IMGSET",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "44": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5304688-80986743-05292026-IMGSET",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "peony": [
+          "orange",
+          "red"
+        ],
+        "hydrangea": [
+          "blue",
+          "gray"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "yellow",
+          "brown"
+        ],
+        "eucalyptus": [
+          "green",
+          "gray"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ],
+        "berry": [
+          "purple",
+          "blue"
+        ]
+      }
+    },
+    "error": null
+  },
+  "45": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5046073-80936568-04172026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "cream",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ],
+        "berry": [
+          "cream",
+          "purple"
+        ]
+      }
+    },
+    "error": null
+  },
+  "46": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5115779-80825888-04282026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "47": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6517353-80197867-05282026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "yellow"
+        ],
+        "acorn": [
+          "red",
+          "brown"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "48": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5047154-80936684-05042026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "orange",
+          "red"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "49": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5323480-80881774-05142026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "peony": [
+          "orange",
+          "red"
+        ]
+      },
+      "leaves": {
+        "peony": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "50": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5118096-80825946-04172026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "grass": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "yellow",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "51": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6322705-81234884-05192026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "yellow",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "52": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6322549-81234856-04212026-IMGSET",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "chrysanthemum": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "red",
+          "orange"
+        ],
+        "oak": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "53": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5042031-80936171-05282026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "54": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5334560-80883235-05292026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "croton": [
+          "blue",
+          "black"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "55": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5021415-80765315-05142026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ],
+        "berry": [
+          "red",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "56": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6320915-81233510-06162026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "hydrangea": [
+          "cream"
+        ]
+      },
+      "leaves": {
+        "oak": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "orange"
+        ],
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "57": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/306031751-81206490-05112026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "sunflower": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "58": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5032784-81137748-05012026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "heather": [
+          "green",
+          "gray"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "59": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5042106-80936178-05112026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "60": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5119946-80825999-05202026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "red",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "chrysanthemum": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "61": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6494447-80766639-05212026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "62": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5737432-80765846-05182026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "wildflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "63": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6888929-80201613-05142026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "64": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6322630-81234874-05142026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "65": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/106031751-81206488-05112026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "66": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6040760-81185689-05192026-IMGSET",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pinecone": [
+          "brown"
+        ],
+        "acorn": [
+          "brown",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "67": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5041819-80936129-05062026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "red"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "68": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5116561-80881761-04172026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "sunflower": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "69": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5092333-80825471-06162026-IMGSET",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "hydrangea": [
+          "cream"
+        ]
+      },
+      "leaves": {
+        "oak": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {
+        "gourd": [
+          "cream"
+        ],
+        "berry": [
+          "brown",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "70": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6322978-81235009-05122026-IMGSET",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "acorn": [
+          "brown",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "71": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6321574-81234044-04232026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "wildflower": [
+          "cream"
+        ]
+      },
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "72": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6041792-81186371-07122024-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "73": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6040752-81185668-05012026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "cream"
+        ]
+      }
+    },
+    "error": null
+  },
+  "74": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5945993-81138009-04162026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "blue"
+        ]
+      }
+    },
+    "error": null
+  },
+  "75": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5689138-81137608-06032026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "76": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5045927-80936557-04172026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "white"
+        ]
+      },
+      "leaves": {
+        "chrysanthemum": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "77": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5334115-80883073-05282026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "78": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5116850-80825928-05082026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "zinnia": [
+          "red",
+          "orange"
+        ],
+        "blackeyedsusan": [
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "generic": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "79": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5604731-80766634-05012026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "80": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5751433-80766608-06122026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wheat": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "wheat": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "81": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5737515-80765861-05182026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "acorn": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "82": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6322911-81234976-05282026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "heather": [
+          "cream",
+          "white"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "83": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6322606-81234863-06012026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "84": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6322580-81234862-05212026-IMGSET",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pinecone": [
+          "brown"
+        ],
+        "berry": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "85": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6322572-81234859-05262026-IMGSET",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "86": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6322564-81234858-06012026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "red"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "87": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6321582-81234048-04242026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "cream"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "88": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/406031751-81206492-05112026-IMGSET",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "89": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6040786-81185714-06122026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "90": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5945373-81137676-05282026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "blue",
+          "gray"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "91": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5944384-81136377-04172026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "92": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5686373-81070667-04212026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "caspia": [
+          "orange"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "93": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5686159-81070541-06012026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "dahlia": [
+          "black",
+          "gold"
+        ]
+      },
+      "leaves": {
+        "dahlia": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "94": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5541560-81030600-05282026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "cream",
+          "beige"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "95": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5307483-80987710-05222026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "thistle": [
+          "blue",
+          "brown"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "96": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5006523-80937319-05282026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "cream",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "sunflower": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "97": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5334149-80883076-04162026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ],
+        "apple": [
+          "red",
+          "green"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "98": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5333455-80882904-05122026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "99": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5330493-80882526-05292026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ],
+        "berry": [
+          "brown",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "100": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5326806-80882199-05062026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "red",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "101": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5122973-80826077-05062026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "white",
+          "cream"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "102": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5116264-80825906-05192026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "heather": [
+          "beige",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "heather": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "103": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5112958-80825697-06122026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "yellow",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "104": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5112875-80825686-05042026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "dahlia": [
+          "orange",
+          "yellow"
+        ],
+        "peony": [
+          "cream"
+        ],
+        "hydrangea": [
+          "orange",
+          "green"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "red",
+          "green"
+        ],
+        "eucalyptus": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "105": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5112149-80825645-05282026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "white",
+          "cream"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "106": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/205421433-80802650-06162026-IMGSET",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "107": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6518088-80766654-06222026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "108": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6496376-80766565-05182026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "grass": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "109": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5751946-80766564-05042026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "110": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6517361-80197868-05292026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "corn": [
+          "tan"
+        ]
+      },
+      "fruit": {
+        "corn": [
+          "red",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "111": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6517254-80197865-05012026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "112": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5542964-81072945-04242026-IMGSET",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "leaf": [
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "cream"
+        ]
+      }
+    },
+    "error": null
+  },
+  "113": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5118344-80825947-04172026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "114": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5020714-80825421-05062026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "115": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5304597-80986708-06012026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "116": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5117817-80825939-05122026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "yellow",
+          "orange"
+        ],
+        "daisy": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "117": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6041347-81185991-06222026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "leaf": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "black"
+        ]
+      }
+    },
+    "error": null
+  },
+  "118": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5138383-80826999-05012026-IMGSET",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "acorn": [
+          "brown",
+          "green"
+        ],
+        "berry": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "119": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5156823-80830120-06222026-IMGSET",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "red"
+        ],
+        "grape": [
+          "green",
+          "red"
+        ]
+      },
+      "fruit": {
+        "grape": [
+          "purple"
+        ]
+      }
+    },
+    "error": null
+  },
+  "120": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6032528-81183546-05142026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "121": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5116843-80825927-05182026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "lantern": [
+          "orange"
+        ]
+      },
+      "leaves": {
+        "lantern": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "122": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5304993-80986924-05082026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "123": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5156781-80883114-04242026-IMGSET",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "124": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5138458-80827001-04242026-IMGSET",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "yellow"
+        ],
+        "acorn": [
+          "brown",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "125": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5041942-80936168-05142026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "orange",
+          "red"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "126": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5122106-80826064-06222026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "red",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "sunflower": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "127": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5093000-81069780-04172026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "128": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6032213-81183540-05082026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "thistle": [
+          "cream"
+        ]
+      },
+      "leaves": {
+        "thistle": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "129": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5541735-81030727-05142026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "cream",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "white",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "130": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6412167-81283560-06222026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "pink"
+        ]
+      },
+      "leaves": {
+        "generic": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "131": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6320899-81233506-06152026-IMGSET",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "chrysanthemum": [
+          "orange",
+          "yellow"
+        ],
+        "rose": [
+          "red",
+          "pink"
+        ],
+        "hydrangea": [
+          "cream",
+          "white"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "purple"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ],
+        "berry": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "132": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5945985-81138008-05142026-IMGSET",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "ruscus": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "133": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5305883-80987237-04172026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "134": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5276662-80766603-06222026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "135": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5035084-80937382-06012026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "bittersweet": [
+          "orange"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "136": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6032205-81183539-06122026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "thistle": [
+          "brown"
+        ]
+      },
+      "leaves": {
+        "thistle": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "137": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6070270-81192436-06042026-IMGSET",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "138": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5604152-80641872-05042026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "white"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "139": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6322945-81234983-05182026-IMGSET",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "brown"
+        ],
+        "eucalyptus": [
+          "brown",
+          "green"
+        ],
+        "fern": [
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "gold"
+        ]
+      }
+    },
+    "error": null
+  },
+  "140": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6322929-81234978-05212026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "chrysanthemum": [
+          "orange"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "141": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/306410922-81288689-05112026-IMGSET",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "142": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/206410922-81288688-05112026-IMGSET",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "143": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/106410922-81288687-05112026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "144": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/206411854-81288686-05282026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "145": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/206411847-81288684-05192026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "146": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/106411847-81288683-05212026-IMGSET",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "147": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/206411839-81288682-05112026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "148": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/106411839-81288681-05062026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "149": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/306411813-81288680-06162026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "red"
+        ]
+      },
+      "leaves": {
+        "sunflower": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "150": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6415251-81284935-05182026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "chrysanthemum": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "151": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6414700-81284613-05062026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "grass": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "152": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6414056-81284462-06232026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "marigold": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "marigold": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "153": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6414049-81284451-06012026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "cream",
+          "peach"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "green",
+          "brown"
+        ],
+        "eucalyptus": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "154": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6412894-81284066-05282026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "cream",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "sunflower": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "155": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6411318-81282934-06012026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "fig": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ],
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "156": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6411300-81282932-06122026-IMGSET",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "fig": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ],
+        "berry": [
+          "orange",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "157": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6411292-81282928-06122026-IMGSET",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "fig": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ],
+        "berry": [
+          "orange",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "158": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6411284-81282923-06122026-IMGSET",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "159": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6411276-81282920-06032026-IMGSET",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "brown",
+          "gold"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "160": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6411268-81282917-06122026-IMGSET",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "161": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6411250-81282916-06032026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "brown",
+          "tan"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "162": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6411045-81282700-06012026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "orange"
+        ]
+      },
+      "leaves": {
+        "leaf": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "163": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6323018-81235052-05222026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "laurel": [
+          "brown",
+          "tan"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "cream"
+        ]
+      }
+    },
+    "error": null
+  },
+  "164": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6322960-81235007-05282026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "acorn": [
+          "brown",
+          "tan"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "165": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6322952-81234984-05132026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "brown"
+        ],
+        "eucalyptus": [
+          "orange",
+          "brown"
+        ],
+        "fern": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "cream",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "166": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6322903-81234975-05212026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "heather": [
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "grass": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "167": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6322879-81234971-05142026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "brown",
+          "green"
+        ],
+        "maple": [
+          "beige",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "168": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6322861-81234969-05292026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "hops": [
+          "red",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "leaf": [
+          "orange",
+          "pink"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "169": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6322846-81234967-05292026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "brown",
+          "cream"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "170": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6322812-81234942-05282026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "171": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6322648-81234876-06122026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "poppy": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "172": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6322523-81234849-06222026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "hops": [
+          "orange",
+          "red"
+        ]
+      },
+      "leaves": {
+        "hops": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "173": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6321079-81233602-05152026-IMGSET",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "174": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6320972-81233515-06012026-IMGSET",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "175": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6320956-81233512-06122026-IMGSET",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "orange"
+        ]
+      },
+      "leaves": {
+        "chrysanthemum": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "176": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6320873-81233496-06032026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "chrysanthemum": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "red",
+          "yellow"
+        ],
+        "oak": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ],
+        "berry": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "177": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/206031751-81206489-05112026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "178": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6042600-81187805-04242026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "cream",
+          "burgundy"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "179": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6041750-81186358-05142026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "180": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6041701-81186316-05212026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "cream"
+        ]
+      }
+    },
+    "error": null
+  },
+  "181": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6041636-81186154-05282026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "reed": [
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "182": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6041172-81185920-06032026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "acorn": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "183": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6040513-81185281-06222026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "wildflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "184": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6036313-81184051-06162026-IMGSET",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "dahlia": [
+          "cream"
+        ],
+        "wildflower": [
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ],
+        "eucalyptus": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ],
+        "pomegranate": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "185": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6033393-81183588-06012026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "cream",
+          "peach"
+        ]
+      },
+      "leaves": {
+        "chrysanthemum": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "186": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6032221-81183542-05122026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "thistle": [
+          "orange",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "187": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5944046-81150576-06222026-IMGSET",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "wheat": [
+          "yellow",
+          "white"
+        ],
+        "grass": [
+          "yellow",
+          "white"
+        ],
+        "leaf": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "188": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5947676-81139968-04212026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "cream"
+        ]
+      }
+    },
+    "error": null
+  },
+  "189": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5946009-81138010-04162026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "oat": [
+          "tan"
+        ]
+      }
+    },
+    "error": null
+  },
+  "190": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5945696-81137865-05132026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "brown",
+          "cream"
+        ]
+      },
+      "leaves": {
+        "grass": [
+          "tan",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "191": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5945423-81137729-06032026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "cosmos": [
+          "red",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "cosmos": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "192": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5542956-81137726-06092026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "grass": [
+          "cream"
+        ]
+      },
+      "leaves": {
+        "grass": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "193": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5333976-81137725-05282026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "silver dollar": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "194": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5943998-81135769-05282026-IMGSET",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "195": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5943980-81135764-05192026-IMGSET",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "wheat": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "196": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5943964-81135757-06152026-IMGSET",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "celosia": [
+          "orange",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "grass": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "197": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5686175-81070543-05292026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "orange",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "sunflower": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "198": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5543319-81031751-06222026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "gray"
+        ]
+      }
+    },
+    "error": null
+  },
+  "199": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5543111-81031727-06012026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "cream"
+        ]
+      },
+      "leaves": {
+        "sunflower": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "200": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5303847-80986171-05282026-IMGSET",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "201": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5006531-80937320-06032026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "202": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5738604-80882983-05112026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "acorn": [
+          "brown",
+          "gray"
+        ]
+      }
+    },
+    "error": null
+  },
+  "203": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5321393-80881275-06152026-IMGSET",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "brown"
+        ],
+        "eucalyptus": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ],
+        "berry": [
+          "orange",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "204": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5136825-80826602-06122026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "wildflower": [
+          "cream"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "cream",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "205": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5115647-80825878-05142026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "sunflower": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "206": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5112818-80825683-05192026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "oak": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "207": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5098579-80825524-06122026-IMGSET",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "leaf": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "208": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5097795-80825520-04292026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "marigold": [
+          "orange",
+          "yellow"
+        ],
+        "wildflower": [
+          "red",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "marigold": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "209": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/105421433-80802649-06162026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "210": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5739032-80767080-05292026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {
+        "acorn": [
+          "brown",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "211": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6494249-80766664-06122026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "212": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6494686-80766514-05292026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "213": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5737457-80765850-05282026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ],
+        "berry": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "214": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6502728-80765307-06222026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ],
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "215": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5945282-81137628-06222026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "beech": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "216": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6041404-81186001-06222026-IMGSET",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "cimicifuga": [
+          "red",
+          "burgundy"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "217": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6041362-81235090-06222026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "pink",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "218": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6041388-81185997-06222026-IMGSET",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "cimicifuga": [
+          "red",
+          "purple"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "219": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6041354-81185992-06222026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "cimicifuga": [
+          "red",
+          "burgundy"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "220": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5945654-81137824-06222026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "gypsophilla": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "221": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5686274-81070557-06172025-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "foxtail": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "blue",
+          "green"
+        ],
+        "leaf": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "222": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5047014-80936613-06252026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "hops": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "223": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5737531-80765876-06122025-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "224": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5541149-81030268-06252026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "flower",
+      "flowers": {
+        "astilbe": [
+          "red",
+          "green"
+        ]
+      },
+      "leaves": {
+        "grass": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "225": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6494819-80766652-07092025-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "226": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5308143-80987860-06252025-IMGSET",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "227": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6323059-81235067-06272025-IMGSET",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "orange",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "leaf": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "228": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6322713-81234912-06302026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "cream",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "229": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6040356-81185245-06132024-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "pink",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "230": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5944699-81136728-06302026-IMGSET",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "acorn": [
+          "brown"
+        ],
+        "berry": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "231": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5693692-81075464-06252026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "sorghum": [
+          "orange"
+        ]
+      },
+      "leaves": {
+        "sorghum": [
+          "beige",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "232": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5691795-81074743-04142025-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "bunny tail": [
+          "brown"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "233": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5033212-80937375-05222025-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "forsythia": [
+          "brown"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "234": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5333786-80882934-06252026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "235": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5738968-80767061-06192025-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "236": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5284542-80766624-06252026-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "birch": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "237": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5435995-80180224-04142025-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "238": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5308952-80168993-06252025-IMGSET",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "239": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/206037931-81207304-04142026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "240": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/106323489-81245130-04142026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "241": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6409585-81281967-05042026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "242": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6412092-81283530-04292026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "brown",
+          "gray"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "243": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5943691-81135211-05192026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "244": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5137344-80826841-05152026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "245": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6409577-81281966-04172026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "246": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6409130-81281705-05142026-IMGSET",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ],
+        "berry": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "247": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/206320584-81242980-05142026-IMGSET",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "248": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6409866-81282035-05042026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "brown",
+          "tan"
+        ]
+      }
+    },
+    "error": null
+  },
+  "249": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/206042022-81212697-05192026-IMGSET",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "250": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6037956-81184285-04142026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "251": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/305321286-81008409-05012026-IMGSET",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "252": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/106037931-81207303-04142026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "253": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6320444-81233182-05042026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "254": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6409775-81282025-06082026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "255": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/206409684-81288738-05152026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "256": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/206323489-81245131-04142026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "257": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5945324-81137667-06022026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "258": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/105047915-80970425-05192026-IMGSET",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "259": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/205047915-80970426-05192026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "260": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6409635-81281978-04292026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "261": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/206409544-81288736-05072026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "262": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6409668-81281981-05012026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "263": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/205545447-81059536-05142026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "264": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/205321286-81008408-05012026-IMGSET",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "265": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/306323489-81245132-04142026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "266": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/306037931-81207305-04142026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "267": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6409726-81281996-05292026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "268": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6409262-81281804-05132026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "269": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6415814-81285061-05122026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "270": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/206409940-81288728-06022026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "271": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6318422-81226854-06042026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "272": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/405946371-81162553-06012026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "273": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6409296-81281810-05012026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "green",
+          "gray"
+        ]
+      }
+    },
+    "error": null
+  },
+  "274": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/306042022-81212698-05192026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "275": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6042469-81187185-05062026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "276": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6042147-81186680-06222026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "277": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/106042022-81212696-05192026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "278": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5944194-81136053-05202026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "279": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/306409890-81288719-05282026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "280": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/206041578-81211948-05182026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "281": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/206042030-81208239-05192026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "282": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/306320493-81258752-05192026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "283": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/305047915-80970427-05192026-IMGSET",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "284": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/305141205-80854882-05082026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "285": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6409601-81281969-04292026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "286": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/105321286-81008407-05012026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "287": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6323547-81235260-04292026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "288": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5942503-81134483-05182026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "289": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/105943709-81159234-05122026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "green",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "290": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6323620-81235268-05012026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "291": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/205304423-81009848-05042026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ],
+        "gourd": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "292": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6323653-81281803-05282026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "293": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/306320501-81258805-05282026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "294": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6323570-81235264-04292026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "295": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6323596-81235265-04142026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "296": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6320469-81233184-05062026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "297": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/206323646-81288765-05012026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "298": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/106323646-81288764-05012026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "299": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/306412274-81288753-05282026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "300": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/206412274-81288752-05282026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "301": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/106412274-81288751-05282026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "302": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/206412241-81288745-04282026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "303": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/106412241-81288744-04282026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "leaf": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "304": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/106409544-81288735-05122026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "305": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/206409569-81288732-04142026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "306": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/106409569-81288731-04142026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "307": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/206409957-81288730-06052026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "308": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/106409940-81288727-06022026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "green",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "309": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/306409932-81288726-06012026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "310": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/406409924-81288723-06012026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "311": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/206409924-81288721-06022026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "brown",
+          "cream"
+        ]
+      }
+    },
+    "error": null
+  },
+  "312": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/106409924-81288720-06022026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "brown",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "313": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6415830-81285063-05122026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "314": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6412001-81283314-05082026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "315": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6410914-81282586-04292026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "bronze"
+        ]
+      }
+    },
+    "error": null
+  },
+  "316": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6409965-81282051-05132026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "317": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6409858-81282034-05042026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "318": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6409833-81282032-04222026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "319": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6409791-81282027-05132026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "green",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "320": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6409742-81282002-05192026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "321": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6409718-81281994-06012026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "322": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6409700-81281992-06112026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "323": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6409692-81281991-05142026-IMGSET",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "324": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6409643-81281980-05012026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "325": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6409627-81281977-04292026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "326": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6409551-81281963-05012026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "gold"
+        ]
+      }
+    },
+    "error": null
+  },
+  "327": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6409304-81281812-05012026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "328": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6409270-81281806-05042026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "329": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6409254-81281801-04292026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "330": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6409239-81281798-05012026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ],
+        "gourd": [
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "331": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6409155-81281707-05142026-IMGSET",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "gold"
+        ],
+        "acorn": [
+          "gold"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "332": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6409122-81281703-05142026-IMGSET",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "succulent": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "green"
+        ],
+        "berry": [
+          "green",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "333": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6409114-81281702-05152026-IMGSET",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "gourd": [
+          "yellow",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "334": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6409106-81281701-06222026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "green"
+        ],
+        "gourd": [
+          "orange",
+          "green"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "335": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6409098-81281699-04282026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "336": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6409080-81281698-05182026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "337": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6409072-81281697-05042026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "338": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6409023-81281658-06032026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "339": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/306322234-81243003-06222026-IMGSET",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "340": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/206320600-81242982-05122026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "gold",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "341": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/305943709-81159236-05142026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "342": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/205943709-81159235-05122026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "343": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/405692082-81108329-06042026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "344": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/306039556-81206798-06252026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "345": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/406327191-81245108-06302026-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "346": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/306323513-81245141-06172025-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "tan"
+        ]
+      }
+    },
+    "error": null
+  },
+  "347": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/306323497-81245135-06262025-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "348": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/205943691-81160155-06132025-IMGSET",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "349": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/105943691-81160154-06132025-IMGSET",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "350": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/5315031-80989735-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "gray"
+        ]
+      }
+    },
+    "error": null
+  },
+  "351": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/306323505-81245138-06182025-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "352": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/205306196-81008030-06022025-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "353": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/206323638-81245143-08072025-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "354": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/206321954-81256942-06112025-IMGSET",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "355": {
+    "img_link": "https://cdn.media.amplience.net/s/hobbylobby/6320451-81233183-05232025-IMGSET",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "green"
+        ],
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  }
+}

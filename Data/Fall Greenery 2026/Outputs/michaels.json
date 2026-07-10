@@ -1,0 +1,9152 @@
+{
+  "0": {
+    "img_link": "https://imgs.michaels.com/6a2faac6-c067-4e4e-84d8-86f5205b461f.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "1": {
+    "img_link": "https://imgs.michaels.com/e6a3c673-5411-48a5-ad12-bcd6291efe86.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "pine": [
+          "black"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "2": {
+    "img_link": "https://imgs.michaels.com/2ea13cb2-9946-47e4-8713-61867d59bf97.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "nandina": [
+          "green",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "3": {
+    "img_link": "https://imgs.michaels.com/8175d49c-0b75-4786-bfdb-645572050b14.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "cedar": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "4": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/157809166373744.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "5": {
+    "img_link": "https://imgs.michaels.com/bfd155b8-ba27-4666-9f36-e579738111a9.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "birch": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "6": {
+    "img_link": "https://imgs.michaels.com/8f482263-f66f-4eeb-b30b-26de5a0fff61.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "7": {
+    "img_link": "https://imgs.michaels.com/719fbd44-08b1-4d02-8111-20f91580f6f2.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ],
+        "oak": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "8": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/99736268965936.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "light green"
+        ],
+        "rosemary": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "9": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/235400304185392.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "tulip": [
+          "white"
+        ],
+        "lavender": [
+          "purple"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ],
+        "boxwood": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "10": {
+    "img_link": "https://imgs.michaels.com/6ed1f875-d46c-448b-b0b9-f6488e852049.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "ficus": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "11": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/483998229849264.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "cream"
+        ],
+        "dahlia": [
+          "cream"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "green",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "12": {
+    "img_link": "https://imgs.michaels.com/8e4bde19-2a00-4f76-b0e9-f60dc40597e4.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "boxwood": [
+          "green",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "13": {
+    "img_link": "https://imgs.michaels.com/ca02c091-aa94-4bba-b214-3c3d31fceed6.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "ficus": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "14": {
+    "img_link": "https://imgs.michaels.com/45a494ed-dc1b-428a-9bb1-e687be94c0f0.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "cedar": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "15": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/174829584836688.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "16": {
+    "img_link": "https://imgs.michaels.com/35bcda4d-964e-4d2d-8921-66bb167cd1fb.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "17": {
+    "img_link": "https://imgs.michaels.com/92a7d592-c117-484c-bee6-18a8765c1f71.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "18": {
+    "img_link": "https://imgs.michaels.com/c1b7ea68-3d49-4c5b-891d-2166cf651f0c.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "19": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/390313758043344.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "20": {
+    "img_link": "https://imgs.michaels.com/82b2b7fc-a0e6-4cdc-b7d7-b5d4868c1785.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "21": {
+    "img_link": "https://imgs.michaels.com/c2c5fa84-9f44-4c44-baf8-df7a5b37a363.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "willow": [
+          "black"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "22": {
+    "img_link": "https://imgs.michaels.com/6873ce82-0c9f-4be2-b100-f9593d146a9e.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "nandina": [
+          "green",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "23": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/251568448717960.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "grass": [
+          "orange"
+        ],
+        "eucalyptus": [
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "24": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/562769408935048.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "red",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "acorn": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "25": {
+    "img_link": "https://imgs.michaels.com/1e21df04-0be3-4fd9-8c35-a73356253792.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "sumac": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "26": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/88858298214480.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "27": {
+    "img_link": "https://imgs.michaels.com/a328f0ff-8a42-4a57-b8ff-42e819461d11.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "birch": [
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "28": {
+    "img_link": "https://imgs.michaels.com/f722e7d1-bf9c-486b-8cf6-ab844c64f563.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "ficus": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "29": {
+    "img_link": "https://imgs.michaels.com/9c9493eb-1486-45d7-acfd-31baa9e003c7.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "cherryblossom": [
+          "red"
+        ]
+      },
+      "leaves": {
+        "cherryblossom": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "30": {
+    "img_link": "https://imgs.michaels.com/f5a1348a-ad2d-4a7f-a6a5-7b01edf89d15.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "31": {
+    "img_link": "https://imgs.michaels.com/a80612ad-7af3-40b1-8e13-aa7938efba68.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "32": {
+    "img_link": "https://imgs.michaels.com/658e4345-d2cc-4cd1-a43e-93d01adff7b8.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "33": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/4611706860362352864.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "34": {
+    "img_link": "https://imgs.michaels.com/28396c20-9659-41bc-9836-1d432f73966e.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "birch": [
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "35": {
+    "img_link": "https://imgs.michaels.com/3183f533-c263-48fe-89ce-e06d204c07c1.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "36": {
+    "img_link": "https://imgs.michaels.com/940e700b-8407-42b0-9a19-41372830fd0a.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "37": {
+    "img_link": "https://imgs.michaels.com/70b42097-aca8-496c-9fc7-3b9cb3cf755c.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "38": {
+    "img_link": "https://imgs.michaels.com/39d5cb8a-50c7-4044-8a09-9b1b7651c5e9.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "39": {
+    "img_link": "https://imgs.michaels.com/8171721e-5efb-488c-bc68-9ef2adf538fe.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "40": {
+    "img_link": "https://imgs.michaels.com/f492d45f-eedc-44d6-862d-a3ea34327ed6.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "sumac": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "41": {
+    "img_link": "https://imgs.michaels.com/6f96f638-08b8-4580-939d-6bdb66aa26f4.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "42": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/226163572485328.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "43": {
+    "img_link": "https://imgs.michaels.com/2f75ac00-ad45-47aa-a90d-c0c0bcaf19af.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "44": {
+    "img_link": "https://imgs.michaels.com/93aabcbe-e5c1-40f4-abb0-1ff0014bd0d4.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "45": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/526727406936240.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "white",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "46": {
+    "img_link": "https://imgs.michaels.com/ab56c265-8255-49d8-b874-79d778be1be2.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "47": {
+    "img_link": "https://imgs.michaels.com/8dd1da29-313c-4874-a137-4a7f4550373b.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "48": {
+    "img_link": "https://imgs.michaels.com/105af33a-5bce-4d68-a38e-59cf31be8e12.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "nandina": [
+          "green",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "49": {
+    "img_link": "https://imgs.michaels.com/0a3d17c9-db53-40cc-b408-8da518f55eea.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "tree": [
+          "black"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "50": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/90223430844552.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "51": {
+    "img_link": "https://imgs.michaels.com/3441f43a-7882-43f0-8a87-993a6bf663ec.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "52": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/280131854031984.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "olive": [
+          "green",
+          "dark green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "53": {
+    "img_link": "https://imgs.michaels.com/098670a0-7d0b-4706-a0ed-dc12be8ed4ac.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "54": {
+    "img_link": "https://imgs.michaels.com/58c96eb2-c69e-4c50-bf4f-bca31c031cc3.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "twig": [
+          "black"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "55": {
+    "img_link": "https://imgs.michaels.com/75fdc9b6-ce71-43d7-b6b2-b9c2bfc28ec7.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "white",
+          "cream"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "brown",
+          "green"
+        ],
+        "eucalyptus": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ],
+        "berry": [
+          "yellow",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "56": {
+    "img_link": "https://imgs.michaels.com/0522ae26-1bde-4bc3-9849-e327cb18929b.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "yellow"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "57": {
+    "img_link": "https://imgs.michaels.com/995f992d-b4ef-4114-851e-564f7179b103.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "58": {
+    "img_link": "https://imgs.michaels.com/f160019f-d967-4b44-b351-e003a9dcafa2.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "59": {
+    "img_link": "https://imgs.michaels.com/6a594a2b-bd14-4300-bbe8-f4912cc45215.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hibiscus": [
+          "red",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "hibiscus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "60": {
+    "img_link": "https://imgs.michaels.com/89f57d6b-0006-4df7-89ac-94025bdb182e.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "birch": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "61": {
+    "img_link": "https://imgs.michaels.com/22bdec24-3fdb-470d-8d02-cb882300aa7f.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "red",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "62": {
+    "img_link": "https://imgs.michaels.com/74d4de74-54cb-40cd-89d9-9500c008ca95.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "63": {
+    "img_link": "https://imgs.michaels.com/7b602db2-c706-4122-99a8-1ad8f1a26ee9.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "ficus": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "64": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/497164489219184.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "cedar": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "65": {
+    "img_link": "https://imgs.michaels.com/2df66c9c-d85a-4f20-b14f-6d8bc0b80824.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "orange",
+          "red"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "66": {
+    "img_link": "https://imgs.michaels.com/160189d7-0772-4618-831d-6d83af2ec778.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "67": {
+    "img_link": "https://imgs.michaels.com/bacea117-eece-4daa-8a49-5a6695c2060f.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "grass": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "sorghum": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "68": {
+    "img_link": "https://imgs.michaels.com/ab679302-2af4-4329-b79c-4b3a015cdbff.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "dogwood": [
+          "brown",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "69": {
+    "img_link": "https://imgs.michaels.com/5064c51a-e758-4b4c-9100-6759998b29e8.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "70": {
+    "img_link": "https://imgs.michaels.com/fde82fed-ea50-4b9c-b136-09c88a4bbc5f.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "nandina": [
+          "green",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "71": {
+    "img_link": "https://imgs.michaels.com/0abfa03d-60c3-4a8a-8227-e75fee577e42.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "72": {
+    "img_link": "https://imgs.michaels.com/6a7e48d0-672c-4838-8c2b-dba439149f96.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "73": {
+    "img_link": "https://imgs.michaels.com/2a163280-4fde-4d8e-89bc-cef2a3e1b237.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "cherryblossom": [
+          "red"
+        ]
+      },
+      "leaves": {
+        "cherryblossom": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "74": {
+    "img_link": "https://imgs.michaels.com/fd0c57e6-f981-4130-aed7-a0b1c01fbd93.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "75": {
+    "img_link": "https://imgs.michaels.com/0c8f31c8-c590-44a7-9033-2d1601396e4c.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "76": {
+    "img_link": "https://imgs.michaels.com/84d228d4-4c83-4ff5-8290-c60a6b0bdc2a.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "77": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/252849598913648.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "olive": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "olive": [
+          "green",
+          "black"
+        ]
+      }
+    },
+    "error": null
+  },
+  "78": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/157491422190704.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "79": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/238239116943536.jpg",
+    "labels": {
+      "product_type": "teardrop",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "sorghum": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "80": {
+    "img_link": "https://imgs.michaels.com/3e20a0ad-3173-43ec-8c40-39ac1be52e40.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "81": {
+    "img_link": "https://imgs.michaels.com/29e35ecc-9af3-49d7-b702-7ad192c252ef.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "82": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/392720395164784.png",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "83": {
+    "img_link": "https://imgs.michaels.com/f851512b-1a3e-47c0-b0fd-0e3fe290b140.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "84": {
+    "img_link": "https://imgs.michaels.com/0a45ed97-71ed-4b3d-9eb7-3a5953dfdf52.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "85": {
+    "img_link": "https://imgs.michaels.com/9a2886ce-4dd5-457f-b674-d0bd968f8cd7.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "tree": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "86": {
+    "img_link": "https://imgs.michaels.com/fdca8e76-ce24-463f-8f08-7b37dcf03986.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "87": {
+    "img_link": "https://imgs.michaels.com/b74d64a9-4981-4f2e-a5c6-7dcc2e422267.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "88": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/32280211250288.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "succulent": [
+          "green",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "89": {
+    "img_link": "https://imgs.michaels.com/80a7ba5a-040a-4eda-b00e-f0e7c34f074c.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "90": {
+    "img_link": "https://imgs.michaels.com/0bd88a91-ba9e-47ac-8156-7abec9489c34.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "twig": [
+          "black"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "91": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/347667216454640.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "orchid": [
+          "peach",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "orchid": [
+          "dark green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "92": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/179458837732464.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "cedar": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "93": {
+    "img_link": "https://imgs.michaels.com/00aab234-68cd-4bd2-89a1-b9b3c7d52dc5.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "94": {
+    "img_link": "https://imgs.michaels.com/903c5886-eed2-42b1-8885-063d9c5867a3.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "twig": [
+          "black"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "95": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/4612183184460110960.jpeg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "96": {
+    "img_link": "https://imgs.michaels.com/9e3acbd3-11bd-43c2-b590-3cd8be2752b2.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "97": {
+    "img_link": "https://imgs.michaels.com/742869ed-0f56-48e6-973f-4f8d910103b1.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "98": {
+    "img_link": "https://imgs.michaels.com/6d400150-01a2-487c-83c9-8c594203af37.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "99": {
+    "img_link": "https://imgs.michaels.com/aabb0c0f-57bc-4e7e-afa4-cdc638cd2c08.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "100": {
+    "img_link": "https://imgs.michaels.com/6414d076-99e3-41e7-9834-30376b33316a.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "101": {
+    "img_link": "https://imgs.michaels.com/39b4ebb1-5c6f-4a85-a471-17d17d15e421.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "black"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "102": {
+    "img_link": "https://imgs.michaels.com/7f00dda3-2abf-4a1a-9162-c93650ed6ddf.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "green",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "103": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/169496030204912.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "snake plant": [
+          "green",
+          "dark green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "104": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/414566674541744.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "lily": [
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "lily": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": "APIConnectionError: Connection error."
+  },
+  "105": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/280132189576304.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "citrus": [
+          "green"
+        ],
+        "eucalyptus": [
+          "green",
+          "light green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "106": {
+    "img_link": "https://imgs.michaels.com/7f7b2556-ea06-408f-b7de-3f8a41653f54.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "107": {
+    "img_link": "https://imgs.michaels.com/3076f1b6-6255-4fad-b107-c17a648ae2c1.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "108": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/129655583826864.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ],
+        "berry": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "109": {
+    "img_link": "https://imgs.michaels.com/9ee7ac62-82a5-4095-b82e-35efc5be3df8.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "110": {
+    "img_link": "https://imgs.michaels.com/8aa57e0f-17d0-444a-a0ea-c2915e5e5875.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "willow": [
+          "black"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "111": {
+    "img_link": "https://imgs.michaels.com/38775b49-4ae9-41d6-826c-31ea9fbca1ea.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "112": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/233126855011464.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "orchid": [
+          "white",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "succulent": [
+          "green"
+        ],
+        "orchid": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "113": {
+    "img_link": "https://imgs.michaels.com/24af9278-d840-47b7-bdb4-fd60a3264ae7.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": "APIConnectionError: Connection error."
+  },
+  "114": {
+    "img_link": "https://imgs.michaels.com/11b0ec99-d8ae-4739-a37e-6d837adfc387.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "115": {
+    "img_link": "https://imgs.michaels.com/db7a794a-c184-4df8-86cd-f7b01030a22a.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "ficus": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "116": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/2306121768738746480.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "117": {
+    "img_link": "https://imgs.michaels.com/97d7c175-3092-4b1a-ba8c-bbcb4f2ffec7.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "118": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/350375450664048.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "pine": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "119": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/302455338747016.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ],
+        "acorn": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "120": {
+    "img_link": "https://imgs.michaels.com/108f9740-a8b3-403b-882c-c91a9ba486c7.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "121": {
+    "img_link": "https://imgs.michaels.com/5bfb0e98-84eb-4b31-94aa-0f09a852ec1a.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "ficus": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "122": {
+    "img_link": "https://imgs.michaels.com/bc3622a5-775d-4cf1-a3cb-dc6c5aa09bc4.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "123": {
+    "img_link": "https://imgs.michaels.com/8ccac47e-ae6b-4d32-8373-409af9dc6d2f.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "birch": [
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "124": {
+    "img_link": "https://imgs.michaels.com/8266ef89-4cbe-47e2-bebb-fd29e7546f3c.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "125": {
+    "img_link": "https://imgs.michaels.com/8f846bf9-f318-4ad5-80c2-51e694a59a8c.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "126": {
+    "img_link": "https://imgs.michaels.com/f5a274cd-593a-4601-beb6-42b913e37311.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "birch": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "127": {
+    "img_link": "https://imgs.michaels.com/302adeab-3825-459a-8508-e1824b1027a4.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hibiscus": [
+          "red"
+        ]
+      },
+      "leaves": {
+        "hibiscus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "128": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/157189885716560.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "birch": [
+          "white",
+          "gray"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "129": {
+    "img_link": "https://imgs.michaels.com/37bb7d25-c453-4fe1-8cc4-88208a6f5669.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "130": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/280132659113072.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "cedar": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "131": {
+    "img_link": "https://imgs.michaels.com/bedfb60e-57d3-4ea7-aab9-3c9aa9d4d9b3.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "132": {
+    "img_link": "https://imgs.michaels.com/1003e6c8-88df-4d18-aa0e-434ce5361ec9.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "133": {
+    "img_link": "https://imgs.michaels.com/b6961025-7368-4aa4-b695-43a44b528f10.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "134": {
+    "img_link": "https://imgs.michaels.com/6dec3942-3775-436d-8fab-9d911125b802.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "birch": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "135": {
+    "img_link": "https://imgs.michaels.com/906c3e95-1203-4739-a674-45de52431602.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "cherryblossom": [
+          "red"
+        ]
+      },
+      "leaves": {
+        "cherryblossom": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "136": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/4611899742967621712.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "137": {
+    "img_link": "https://imgs.michaels.com/1fd9a646-1786-4322-9937-d61c353c303f.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "138": {
+    "img_link": "https://imgs.michaels.com/ccad42ca-3433-4fab-913c-b63185e6173b.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "139": {
+    "img_link": "https://imgs.michaels.com/b2116b25-bd90-4811-af94-15454dab4bda.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "140": {
+    "img_link": "https://imgs.michaels.com/47653a2f-65f7-46fd-a474-ac9ac318ffd8.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "twig": [
+          "black"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "141": {
+    "img_link": "https://imgs.michaels.com/5fb1bdba-8265-42e1-90d1-796cf360a53e.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "142": {
+    "img_link": "https://imgs.michaels.com/8a9bd0cb-28be-478c-ba56-6fecd0c95d74.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "sumac": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "143": {
+    "img_link": "https://imgs.michaels.com/6eed29de-19dd-44fa-82eb-bc8ba3c084ec.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "144": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/105183594306672.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "orchid": [
+          "white",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "orchid": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "145": {
+    "img_link": "https://imgs.michaels.com/9a7efcfa-3ee6-4214-9ca1-7b0e2605e41a.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "146": {
+    "img_link": "https://imgs.michaels.com/7cea2038-ac97-467e-bf29-c61ac1cf8585.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "ficus": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "147": {
+    "img_link": "https://imgs.michaels.com/30fb9569-fee0-4d1e-a7a4-dd1d3bfdf778.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "148": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/279093929956208.jpeg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "149": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/290205591258248.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "acorn": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "150": {
+    "img_link": "https://imgs.michaels.com/9ec70e7a-d1d2-4aca-87b2-6c8d66062540.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "151": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/179459466878064.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "orchid": [
+          "pink",
+          "white"
+        ]
+      },
+      "leaves": {
+        "orchid": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "152": {
+    "img_link": "https://imgs.michaels.com/ae2c3e9c-ea93-46f2-8135-cb30d7e3e891.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "153": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/414565453849264.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "black"
+        ]
+      }
+    },
+    "error": null
+  },
+  "154": {
+    "img_link": "https://imgs.michaels.com/8566d990-a67e-4d67-9b23-222319a0f5fe.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "155": {
+    "img_link": "https://imgs.michaels.com/49f8ee67-cbf4-4f05-a503-404b0998dbdd.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "sumac": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "156": {
+    "img_link": "https://imgs.michaels.com/fc23bcf0-fc88-4a70-82b7-1f88b0eb679b.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "birch": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "157": {
+    "img_link": "https://imgs.michaels.com/206a723a-a191-4ee2-93eb-71a3a657295e.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "158": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/1396783340656.jpeg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "pine": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "159": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/497164470344816.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "cedar": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "160": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/487649953864816.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "green",
+          "brown"
+        ],
+        "eucalyptus": [
+          "green"
+        ],
+        "pine": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "161": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/446708526090352.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "162": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/179460727565424.jpeg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "163": {
+    "img_link": "https://imgs.michaels.com/14ae3920-fd92-4226-a749-7df4dee1ec13.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {
+        "acorn": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "164": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/179460197865584.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "165": {
+    "img_link": "https://imgs.michaels.com/4264d8f5-834c-4987-8583-a6c15d11f5e6.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "166": {
+    "img_link": "https://imgs.michaels.com/37a60268-2f75-4e37-bca0-7780b5494b34.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fiddle": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "167": {
+    "img_link": "https://imgs.michaels.com/159b7f56-ffa5-48e0-b9ce-1af47f5f18f3.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "168": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/179460269168752.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "169": {
+    "img_link": "https://imgs.michaels.com/1b455ba8-17a8-437a-b8b4-1b42f1c5f594.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "170": {
+    "img_link": "https://imgs.michaels.com/70ca3a87-f96e-48cf-be02-f435d1c9f988.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "171": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/71448381500624.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "172": {
+    "img_link": "https://imgs.michaels.com/177dd82c-27a6-4045-90ad-92b420948e65.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "173": {
+    "img_link": "https://imgs.michaels.com/89c01ef3-efaf-4006-a0df-06ab2286cbb8.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "174": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/226164109356240.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "175": {
+    "img_link": "https://imgs.michaels.com/8b949ef9-b049-456c-9200-3afdaf6612e7.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "176": {
+    "img_link": "https://imgs.michaels.com/a9ee0f96-339d-4840-a46a-659520137169.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "177": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/2306017839066966096.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "178": {
+    "img_link": "https://imgs.michaels.com/95267e01-9b4a-44a2-b907-4018edf19996.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "179": {
+    "img_link": "https://imgs.michaels.com/5076b1b1-933b-46bd-8291-47cd6f36a169.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "180": {
+    "img_link": "https://imgs.michaels.com/9df9c27d-3b28-413b-8a50-f59b00568c0e.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "181": {
+    "img_link": "https://imgs.michaels.com/d0643773-6f94-4e16-ba96-99bba123df6e.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "182": {
+    "img_link": "https://imgs.michaels.com/04067d5f-6828-494f-a9b8-738673991fac.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "pieris": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "183": {
+    "img_link": "https://imgs.michaels.com/ce4bbe1b-5688-43ea-b8be-c7717ab96e9f.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "184": {
+    "img_link": "https://imgs.michaels.com/4397df68-8fa2-43d3-be3a-2acea72bac40.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "185": {
+    "img_link": "https://imgs.michaels.com/3326f16c-4deb-4607-b5d8-bb25e2a6fd3b.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "birch": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "186": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/270088811207792.png",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "snake plant": [
+          "green"
+        ],
+        "fern": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "187": {
+    "img_link": "https://imgs.michaels.com/64df3fd3-e772-4a6b-badf-14f684980229.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "188": {
+    "img_link": "https://imgs.michaels.com/cfcaeda5-2c64-4325-94e9-a14642f38ccd.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "189": {
+    "img_link": "https://imgs.michaels.com/548cb16a-7e05-47ff-a92c-223ebaf9b0f3.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "190": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/183189471898832.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "191": {
+    "img_link": "https://imgs.michaels.com/c1bcbdb5-fc7c-4cae-a56d-a95626531353.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "192": {
+    "img_link": "https://imgs.michaels.com/5bf22fbe-2f12-4e9d-862e-f3740ee39ad7.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "193": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/7366097693808.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "rosemary": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "194": {
+    "img_link": "https://imgs.michaels.com/df78ab1a-452f-4abc-a58f-e8af02b669e5.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "195": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/392719101222000.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "succulent": [
+          "green",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "196": {
+    "img_link": "https://imgs.michaels.com/3a158c6b-3d9e-4341-8aaa-769e302aad6e.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "197": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/4612237675020111472.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "198": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/320692210261104.jpeg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "199": {
+    "img_link": "https://imgs.michaels.com/9ecb2a78-69b4-4800-a633-0925c43c0908.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "200": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/179459499289712.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "cherryblossom": [
+          "pink",
+          "white"
+        ]
+      },
+      "leaves": {
+        "cherryblossom": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "201": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/57106309209200.jpeg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "cedar": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "202": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/251568202171528.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "acorn": [
+          "brown",
+          "gray"
+        ]
+      }
+    },
+    "error": null
+  },
+  "203": {
+    "img_link": "https://imgs.michaels.com/b6ca913a-06f7-4a01-b175-3dba39349c4d.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "204": {
+    "img_link": "https://imgs.michaels.com/5a35b5a9-6dda-4bee-98c2-5e8f4d105eb5.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "205": {
+    "img_link": "https://imgs.michaels.com/b861ffbb-2dad-4d6c-bc4b-5c8309fa3d19.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "sumac": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "206": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/105183731632752.png",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "207": {
+    "img_link": "https://imgs.michaels.com/1884a155-22da-4a06-aeab-5916517018b6.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {
+        "acorn": [
+          "brown"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "208": {
+    "img_link": "https://imgs.michaels.com/ec58e380-693c-4a43-a348-dd945e7ef9a3.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "dogwood": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "209": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/226163304049872.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "twig": [
+          "white"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "210": {
+    "img_link": "https://imgs.michaels.com/513ff3d7-9a3e-45b1-9021-bce5223cd499.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "birch": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "211": {
+    "img_link": "https://imgs.michaels.com/a71f283e-673c-4025-85f9-f2987d6c0f89.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "birch": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "212": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/213724194203728.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "213": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/276550742286344.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "214": {
+    "img_link": "https://imgs.michaels.com/dde52e6d-1fd3-49f0-80ee-33ea4a2774da.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "215": {
+    "img_link": "https://imgs.michaels.com/2f304f99-33a7-44a1-9ddd-ffe68f4e9616.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "yellow",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "216": {
+    "img_link": "https://imgs.michaels.com/2665dd13-4c2b-43fb-870f-665625a6ffdb.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "cedar": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "217": {
+    "img_link": "https://imgs.michaels.com/48f888be-84f4-4125-af43-57555f40cfe9.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "birch": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "218": {
+    "img_link": "https://imgs.michaels.com/3768f5fe-c3d7-4146-bb8d-b8738355bc7d.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "twig": [
+          "black"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "219": {
+    "img_link": "https://imgs.michaels.com/354b2416-e192-4d4f-ace0-2aab81629ee8.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "220": {
+    "img_link": "https://imgs.michaels.com/5ef19488-5080-4246-8548-4b61e6e27335.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "221": {
+    "img_link": "https://imgs.michaels.com/7198c484-e6e2-494d-819c-99abee3e9fc4.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "birch": [
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "222": {
+    "img_link": "https://imgs.michaels.com/8004f2b0-5865-45a2-998b-91f8d89c65a4.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "acorn": [
+          "brown"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "223": {
+    "img_link": "https://imgs.michaels.com/c7d62deb-7d6a-4b8e-9198-9fafb995d868.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "224": {
+    "img_link": "https://imgs.michaels.com/72c418ea-ff35-4eea-9a12-8bb232588050.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "225": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/419016418107400.jpeg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "226": {
+    "img_link": "https://imgs.michaels.com/6bcba39f-25d7-40c0-b3bd-d9947e66da76.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "227": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/438085464498576.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "palm": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "228": {
+    "img_link": "https://imgs.michaels.com/af392788-b6e0-4343-bd8c-c067b31af69c.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "229": {
+    "img_link": "https://imgs.michaels.com/acb718b2-4c6a-414e-a1ce-c7835c2606f4.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "230": {
+    "img_link": "https://imgs.michaels.com/9f02ee7c-bf46-4e9c-b77f-d23f8fbd09a6.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "231": {
+    "img_link": "https://imgs.michaels.com/3ada7ca3-576f-4d22-b400-013e205f25d4.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "232": {
+    "img_link": "https://imgs.michaels.com/81baf1b5-45d0-4ab0-93cc-615f272484be.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "233": {
+    "img_link": "https://imgs.michaels.com/38c3270b-9b33-4911-a761-e3832618fe44.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "234": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/350376214027376.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "orchid": [
+          "white"
+        ]
+      },
+      "leaves": {
+        "orchid": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "235": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/280131451153520.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "cedar": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "236": {
+    "img_link": "https://imgs.michaels.com/f4c6b383-5511-4ba3-a292-5d3eb4fb68f2.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "237": {
+    "img_link": "https://imgs.michaels.com/c24c1713-1a7d-410e-8862-6314d2c96fc5.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "238": {
+    "img_link": "https://imgs.michaels.com/a0d6836e-4131-4a5c-8d36-b227c0f6b39c.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "239": {
+    "img_link": "https://imgs.michaels.com/78132c75-2e3b-41ad-8719-899b0e6ff923.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "240": {
+    "img_link": "https://imgs.michaels.com/de0b36e2-f92d-4b06-b5df-fb0da8870fcd.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "241": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/334785663097968.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "orchid": [
+          "pink"
+        ]
+      },
+      "leaves": {
+        "orchid": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "242": {
+    "img_link": "https://imgs.michaels.com/764408f2-3eb4-486d-b6f7-7685b5feb7c9.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "243": {
+    "img_link": "https://imgs.michaels.com/e3291877-3285-4aab-b2ad-8f1503faa485.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "244": {
+    "img_link": "https://imgs.michaels.com/0a435885-4ffb-4d07-a99e-96a81df27787.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "ficus": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "245": {
+    "img_link": "https://imgs.michaels.com/4084a7a1-d9e9-4304-bc0c-af02837b2b94.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "246": {
+    "img_link": "https://imgs.michaels.com/41c751b7-29cf-4818-9f26-cc720dc1dc27.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "birch": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "247": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/497165101587568.jpeg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "pine": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "248": {
+    "img_link": "https://imgs.michaels.com/40e62624-6fad-41e7-82fb-a899cc4629e8.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "249": {
+    "img_link": "https://imgs.michaels.com/11473670-ab6a-4f13-8fc1-64f1b244d265.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "250": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/400954461373576.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "251": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/475664720128080.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "252": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/1398001224304.png",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "253": {
+    "img_link": "https://imgs.michaels.com/2a5f9da2-9854-4e74-b452-0c3edad89d96.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "254": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/4612076333005417680.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "255": {
+    "img_link": "https://imgs.michaels.com/a10c8277-6135-4ba3-ba0b-31ae0a60b2e5.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "pieris": [
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "256": {
+    "img_link": "https://imgs.michaels.com/87a3505d-52db-4077-823c-c23534fe792d.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "sumac": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "257": {
+    "img_link": "https://imgs.michaels.com/69aefa32-f9b4-4fd0-9c58-912077daae80.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "twig": [
+          "black"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "258": {
+    "img_link": "https://imgs.michaels.com/ae08fb2c-2b68-4a2f-bae2-2509bdc16c51.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wheat": [
+          "orange"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "259": {
+    "img_link": "https://imgs.michaels.com/b8f59aba-43aa-4ebc-9a6f-cd8c53934470.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "foxtail": [
+          "red"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "260": {
+    "img_link": "https://imgs.michaels.com/ed906f21-c6f8-42ab-a7d3-450d2bacdac1.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "261": {
+    "img_link": "https://imgs.michaels.com/064c5f42-fe6d-47c0-99ae-cff219080cea.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "262": {
+    "img_link": "https://imgs.michaels.com/311b1283-c989-4ef9-a36f-f640b80cc4ed.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "263": {
+    "img_link": "https://imgs.michaels.com/91c99490-9704-477d-afc4-9414f3e67663.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "264": {
+    "img_link": "https://imgs.michaels.com/8bb04cef-5d2d-4740-9468-4888d8e13095.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "red",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "265": {
+    "img_link": "https://imgs.michaels.com/3934d4d4-09b4-48a1-9aed-c4c9fc69bfe0.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "266": {
+    "img_link": "https://imgs.michaels.com/3390f33d-c75f-465d-a71f-82c2a16a226a.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "wheat": [
+          "tan",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "267": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/280130672061552.jpeg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "reed": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "268": {
+    "img_link": "https://imgs.michaels.com/9ffd7d0c-4d32-42f6-afcc-9179ebd40ed9.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "foxtail": [
+          "yellow"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "269": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/334785909288048.jpeg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "amaranthus": [
+          "red"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "270": {
+    "img_link": "https://imgs.michaels.com/0a84035c-33f7-463c-af6b-fa98bd5f8eb4.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "foxtail": [
+          "pink"
+        ]
+      },
+      "leaves": {
+        "grass": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "271": {
+    "img_link": "https://imgs.michaels.com/2787c21a-d5fa-4e26-bb13-8761a755635b.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "foxtail": [
+          "blue"
+        ]
+      },
+      "leaves": {
+        "grass": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "272": {
+    "img_link": "https://imgs.michaels.com/f8462dee-b531-4633-884c-f3e404481002.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "foxtail": [
+          "orange"
+        ]
+      },
+      "leaves": {
+        "grass": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "273": {
+    "img_link": "https://imgs.michaels.com/de73f43b-ae6a-4d5c-9df7-295ea991b36e.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "cream",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "274": {
+    "img_link": "https://imgs.michaels.com/81ff77b1-2e2c-4d9f-a16c-40be5800e9ec.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "foxtail": [
+          "cream"
+        ]
+      },
+      "leaves": {
+        "grass": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "275": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/7367499639920.jpeg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "reed": [
+          "red",
+          "brown"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "276": {
+    "img_link": "https://imgs.michaels.com/da7aeb89-4997-487a-845d-f9d84057e0aa.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "hydrangea": [
+          "red",
+          "orange"
+        ],
+        "hydrangea 2": [
+          "cream"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "cream"
+        ]
+      }
+    },
+    "error": null
+  },
+  "277": {
+    "img_link": "https://imgs.michaels.com/73b4ed8f-a723-4a6d-ad4c-561ca4a87bf6.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "peony": [
+          "orange"
+        ],
+        "dahlia": [
+          "green"
+        ],
+        "sunflower": [
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "generic": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "278": {
+    "img_link": "https://imgs.michaels.com/e8782b40-1e03-4d5f-9d68-3216f33a92d0.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "leaf": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "gourd": [
+          "orange",
+          "yellow"
+        ],
+        "berry": [
+          "orange"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "279": {
+    "img_link": "https://imgs.michaels.com/224917ce-8467-42a2-a589-e9bf67340df4.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "sunflower": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "280": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/92853956994656.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "bittersweet": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "281": {
+    "img_link": "https://imgs.michaels.com/9c34d5f5-dbdc-4766-8458-c4acc0daf8cb.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "grain": [
+          "cream",
+          "tan"
+        ]
+      }
+    },
+    "error": null
+  },
+  "282": {
+    "img_link": "https://imgs.michaels.com/bdae96bf-5d12-4b9e-8c8d-fbe1ed60aece.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ],
+        "gourd": [
+          "orange",
+          "yellow"
+        ],
+        "berry": [
+          "red",
+          "purple"
+        ]
+      }
+    },
+    "error": null
+  },
+  "283": {
+    "img_link": "https://imgs.michaels.com/5cae43bf-7a81-4450-b30b-365b35614295.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "peony": [
+          "cream"
+        ],
+        "hydrangea": [
+          "red"
+        ],
+        "dahlia": [
+          "red",
+          "green"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "284": {
+    "img_link": "https://imgs.michaels.com/6917c7a0-3120-4772-b191-47eae0c44e38.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "peony": [
+          "pink",
+          "cream"
+        ],
+        "hydrangea": [
+          "pink"
+        ],
+        "wildflower": [
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "pink",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "285": {
+    "img_link": "https://imgs.michaels.com/98107aa6-f10c-4f6d-b1d3-7316bbea033a.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "calla lily": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "286": {
+    "img_link": "https://imgs.michaels.com/45859f60-3f71-4204-8c43-18c68d0addfa.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "peony": [
+          "cream"
+        ],
+        "hydrangea": [
+          "cream",
+          "brown"
+        ],
+        "dahlia": [
+          "purple"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "287": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/280132632112240.jpeg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "palm": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "288": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/7366966963312.jpeg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "grass": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "289": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/312335803330608.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "amaryllis": [
+          "pink",
+          "white"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "290": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/7366607826032.jpeg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "291": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/487830069425072.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "orange",
+          "teal"
+        ],
+        "peony": [
+          "orange",
+          "teal"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "gold",
+          "brown"
+        ],
+        "eucalyptus": [
+          "green",
+          "gray"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "292": {
+    "img_link": "https://imgs.michaels.com/a45f152d-ab0e-4070-8f5a-579bc94f231c.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ],
+        "gourd": [
+          "orange",
+          "yellow"
+        ],
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "293": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/270087918391920.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "lantern": [
+          "orange"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "294": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/162401138749488.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "gypsophila": [
+          "green"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "295": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/179460522316400.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "lantern": [
+          "orange"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "296": {
+    "img_link": "https://imgs.michaels.com/1bd0b309-773c-4fde-b3ce-f82014e7fb02.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "pink",
+          "cream"
+        ],
+        "chrysanthemum": [
+          "burgundy",
+          "white"
+        ],
+        "wildflower": [
+          "yellow",
+          "white"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "red",
+          "green"
+        ],
+        "ruscus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "297": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/90222720200840.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "orange",
+          "yellow"
+        ],
+        "rose": [
+          "red",
+          "orange"
+        ],
+        "chrysanthemum": [
+          "red",
+          "orange"
+        ],
+        "peony": [
+          "red",
+          "orange"
+        ],
+        "hydrangea": [
+          "red",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "brown",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "298": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/487829934683056.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "white",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "rose": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "299": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/44915132532232.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "boxwood": [
+          "green",
+          "light green"
+        ],
+        "eucalyptus": [
+          "green",
+          "light green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "300": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/497372424097712.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "301": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/257154637226672.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "302": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/261806010978224.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "303": {
+    "img_link": "https://imgs.michaels.com/4ff8d18d-e426-4bf6-a832-ca8f93e53b9e.jpg",
+    "labels": {
+      "product_type": "teardrop",
+      "plant_type": "flower",
+      "flowers": {
+        "plum": [
+          "red"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "304": {
+    "img_link": "https://imgs.michaels.com/e7afe4e5-ced7-40ea-9196-44dc6cb8c442.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "red"
+        ],
+        "gourd": [
+          "orange",
+          "green"
+        ],
+        "berry": [
+          "red",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "305": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/400952821119112.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "pink",
+          "white"
+        ],
+        "chrysanthemum": [
+          "pink"
+        ],
+        "wildflower": [
+          "white"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ],
+        "fern": [
+          "gold"
+        ],
+        "ficus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "306": {
+    "img_link": "https://imgs.michaels.com/0aa7377e-dbe4-4552-9e8c-35fec9d8355a.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ],
+        "oak": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "307": {
+    "img_link": "https://imgs.michaels.com/20347d55-ee4a-41ed-a6fa-d47b8cbc4084.jpg",
+    "labels": {
+      "product_type": "teardrop",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "chrysanthemum": [
+          "red",
+          "burgundy"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green",
+          "brown"
+        ],
+        "grape": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pomegranate": [
+          "red",
+          "brown"
+        ],
+        "berry": [
+          "purple",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "308": {
+    "img_link": "https://imgs.michaels.com/c2753377-be0f-4d23-a77f-4cfe05acc7b8.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "309": {
+    "img_link": "https://imgs.michaels.com/a8892d25-116f-4aef-8147-df628081fed6.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "yellow",
+          "red"
+        ],
+        "pomegranate": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "310": {
+    "img_link": "https://imgs.michaels.com/e653f08d-9765-4945-83f1-eeacda25fb8e.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "chrysanthemum": [
+          "red"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pomegranate": [
+          "red"
+        ],
+        "berry": [
+          "brown",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "311": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/455448513528144.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "ficus": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "312": {
+    "img_link": "https://imgs.michaels.com/44bf7ca8-714a-4ba4-8ef2-2b214d7c2426.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ],
+        "gourd": [
+          "orange",
+          "yellow"
+        ],
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "313": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/129655688582064.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "pampas": [
+          "tan"
+        ],
+        "wildflower": [
+          "orange"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "purple"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "314": {
+    "img_link": "https://imgs.michaels.com/81e510b9-c7f5-4f55-9eab-22c58c4c8d71.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "315": {
+    "img_link": "https://imgs.michaels.com/3579a84f-bf29-40d2-8233-2f6daf76463c.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "pomegranate": [
+          "red",
+          "brown"
+        ],
+        "berry": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "316": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/92853699143264.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "317": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/178989346111752.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ],
+        "apple": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "318": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/317716768018352.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "pothos": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "319": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/203159491761072.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "acorn": [
+          "brown",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "320": {
+    "img_link": "https://imgs.michaels.com/82b1cd32-9067-4822-baa2-e5f9d741cb8e.jpg",
+    "labels": {
+      "product_type": "teardrop",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "red",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "321": {
+    "img_link": "https://imgs.michaels.com/ce3e4d09-655b-46f4-ab34-9e5e6f2d8e65.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "chrysanthemum": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ],
+        "oak": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "322": {
+    "img_link": "https://imgs.michaels.com/f0d73432-ad33-450a-a750-79dd3c39c847.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ],
+        "berry": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "323": {
+    "img_link": "https://imgs.michaels.com/6ae6e09b-b0e2-417f-a7db-1f8efd855e7e.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "peony": [
+          "orange",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "green",
+          "yellow"
+        ],
+        "succulent": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "yellow",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "324": {
+    "img_link": "https://imgs.michaels.com/bf5f64c2-3b5b-4f82-9e1a-de0eeb12a9c4.jpg",
+    "labels": {
+      "product_type": "teardrop",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ],
+        "olive": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "green"
+        ],
+        "berry": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "325": {
+    "img_link": "https://imgs.michaels.com/56d7f508-b54a-4a43-ba71-93262d56a9a8.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ],
+        "oak": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "blue"
+        ]
+      }
+    },
+    "error": null
+  },
+  "326": {
+    "img_link": "https://imgs.michaels.com/d9254e61-4286-4847-ac04-a3badfc0a0d3.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "green",
+          "brown"
+        ],
+        "cypress": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "327": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/29791215682608.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "purple",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "rose": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "328": {
+    "img_link": "https://imgs.michaels.com/ad732907-c3ab-4268-927c-951da57a8c15.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "yellow"
+        ],
+        "beech": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "pod": [
+          "brown",
+          "tan"
+        ]
+      }
+    },
+    "error": null
+  },
+  "329": {
+    "img_link": "https://imgs.michaels.com/858ff3b5-7d50-4f95-93c6-a4c9c41696da.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "pink",
+          "red"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "330": {
+    "img_link": "https://imgs.michaels.com/316410e5-623e-4429-8af7-f8f9298721d7.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "white",
+          "green"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green",
+          "yellow"
+        ],
+        "palm": [
+          "beige",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "331": {
+    "img_link": "https://imgs.michaels.com/a7f3871b-7598-414e-9170-74c9b7244c01.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "cream"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ],
+        "maple": [
+          "green",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "332": {
+    "img_link": "https://imgs.michaels.com/43f6080f-0111-4713-b028-fc8de4249ac0.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "red"
+        ],
+        "gourd": [
+          "orange",
+          "yellow"
+        ],
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "333": {
+    "img_link": "https://imgs.michaels.com/b51df922-9b8a-4994-a896-41028c2a9a22.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ],
+        "berry": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "334": {
+    "img_link": "https://imgs.michaels.com/fd2e9080-cb06-4da2-b672-1f1fdc868e6e.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "grass": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "335": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/40797550855304.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "336": {
+    "img_link": "https://imgs.michaels.com/cf3b9d2c-3bca-4655-a033-4b6e124cf6a6.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "orange",
+          "yellow"
+        ],
+        "hydrangea": [
+          "white"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ],
+        "leaf": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "337": {
+    "img_link": "https://imgs.michaels.com/74f94789-268f-46e6-abdf-5cab7bc5d2ed.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "ivy": [
+          "green",
+          "red"
+        ],
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "338": {
+    "img_link": "https://imgs.michaels.com/21cf395c-bf9a-491b-8780-1282b60e8af9.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "brown",
+          "beige"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ],
+        "berry": [
+          "orange",
+          "brown"
+        ],
+        "pinecone": [
+          "brown"
+        ],
+        "cotton": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "339": {
+    "img_link": "https://imgs.michaels.com/881f6255-8d86-4478-a54f-7fe95e57c6b1.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ],
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "340": {
+    "img_link": "https://imgs.michaels.com/ad80cdc9-0df5-4392-a700-4bb2e9a04af4.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "341": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/4611726815190066312.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ],
+        "acorn": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "342": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/440466223149192.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "orange",
+          "red"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "343": {
+    "img_link": "https://imgs.michaels.com/8c7ac332-65db-4614-b63f-1626d3dd1e93.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "rose": [
+          "red"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "gold"
+        ]
+      }
+    },
+    "error": null
+  },
+  "344": {
+    "img_link": "https://imgs.michaels.com/b606137d-3306-44e8-a5c5-d32cd6acba81.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "peony": [
+          "red",
+          "orange"
+        ],
+        "sedum": [
+          "orange"
+        ]
+      },
+      "leaves": {
+        "peony": [
+          "red",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "345": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/422819833225776.png",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "white"
+        ]
+      },
+      "leaves": {
+        "wildflower": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "346": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/487830431912880.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "347": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/471486025336432.jpeg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "beige",
+          "brown"
+        ],
+        "beech": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "348": {
+    "img_link": "https://imgs.michaels.com/a0bcf126-8ddd-4080-87a0-0110b9ad7e7f.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ],
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "349": {
+    "img_link": "https://imgs.michaels.com/ff1c6d57-3259-444f-a18e-28b8ba1f7393.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "yellow",
+          "purple"
+        ]
+      },
+      "leaves": {
+        "grass": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "350": {
+    "img_link": "https://imgs.michaels.com/1c616aba-9ca4-409d-a07c-7d1f8ad55019.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ],
+        "berry": [
+          "cream"
+        ]
+      }
+    },
+    "error": null
+  },
+  "351": {
+    "img_link": "https://imgs.michaels.com/9f4bdfb3-a5a8-43fd-801a-e02007fdf227.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "daisy": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ],
+        "berry": [
+          "orange"
+        ]
+      }
+    },
+    "error": "BadRequestError: Error code: 400 - {'error': {'message': 'Timeout while downloading https://imgs.michaels.com/9f4bdfb3-a5a8-43fd-801a-e02007fdf227.jpg.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_image_url'}}"
+  },
+  "352": {
+    "img_link": "https://imgs.michaels.com/97744bff-76ad-4d0d-a970-757574df1fd6.jpg",
+    "labels": {
+      "product_type": "teardrop",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "pine": [
+          "green"
+        ],
+        "cypress": [
+          "green"
+        ],
+        "magnolia": [
+          "brown",
+          "red"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red"
+        ],
+        "pomegranate": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "353": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/44916426457352.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "354": {
+    "img_link": "https://imgs.michaels.com/eb27593b-b8e1-4dcf-b366-3241fa27a5a2.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "355": {
+    "img_link": "https://imgs.michaels.com/b6f0144c-1a49-4603-8819-82af8153ca48.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "green",
+          "orange"
+        ],
+        "fern": [
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ],
+        "berry": [
+          "yellow",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "356": {
+    "img_link": "https://imgs.michaels.com/6caf8777-dfdf-46fa-9fc8-5c7de495bec8.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "red"
+        ],
+        "gourd": [
+          "yellow",
+          "orange"
+        ],
+        "berry": [
+          "red"
+        ],
+        "pinecone": [
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "357": {
+    "img_link": "https://imgs.michaels.com/bc1ba8a7-ddcc-41fe-9f30-33f1f4a8c3be.jpg",
+    "labels": {
+      "product_type": "teardrop",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "white",
+          "yellow"
+        ],
+        "hydrangea": [
+          "cream",
+          "green"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ],
+        "gourd": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "358": {
+    "img_link": "https://imgs.michaels.com/57358891-ec29-4a15-a6bf-d17c0f34d8e0.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "light green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "359": {
+    "img_link": "https://imgs.michaels.com/32301bf9-1baa-46ec-b613-ad013e51d632.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "lambs ear": [
+          "gray",
+          "green"
+        ],
+        "leaf": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "360": {
+    "img_link": "https://imgs.michaels.com/c681e680-c561-4260-9f45-94ea1d16a1c4.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "leaf": [
+          "orange",
+          "gold"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "361": {
+    "img_link": "https://imgs.michaels.com/13b94676-ecbe-445b-96e2-f2aaea6be200.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "grass": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "seed": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "362": {
+    "img_link": "https://imgs.michaels.com/5085bb63-3a6d-4d1a-9954-d1ccdc243087.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "hydrangea": [
+          "red",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "magnolia": [
+          "brown",
+          "green"
+        ],
+        "pine": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pear": [
+          "yellow",
+          "red"
+        ],
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "363": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/518353125980784.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "364": {
+    "img_link": "https://imgs.michaels.com/8082444a-5eb8-4cb5-844e-c9526d1ea6f4.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "generic": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pomegranate": [
+          "red",
+          "brown"
+        ],
+        "berry": [
+          "yellow",
+          "purple"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "365": {
+    "img_link": "https://imgs.michaels.com/48e6f4e8-0ed7-4a8c-8212-0eda4b829295.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ],
+        "berry": [
+          "red",
+          "cream"
+        ]
+      }
+    },
+    "error": null
+  },
+  "366": {
+    "img_link": "https://imgs.michaels.com/24b13241-98d5-4da7-8e4f-cf37ddbfc4cf.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ],
+        "oak": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ],
+        "berry": [
+          "red",
+          "purple"
+        ]
+      }
+    },
+    "error": null
+  },
+  "367": {
+    "img_link": "https://imgs.michaels.com/436f98fc-ac3d-4402-8bf8-1cdbb74b84ee.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "leaf": [
+          "green",
+          "white"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "gold",
+          "white"
+        ],
+        "berry": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "368": {
+    "img_link": "https://imgs.michaels.com/a131401f-b5c6-42c9-83cd-633b53488643.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "369": {
+    "img_link": "https://imgs.michaels.com/f11e7969-1e6f-409f-853f-7e2c60dd1252.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "daisy": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ],
+        "berry": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "370": {
+    "img_link": "https://imgs.michaels.com/4a295a24-dc78-4a13-b6cc-5d9870902090.jpg",
+    "labels": {
+      "product_type": "teardrop",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "orange"
+        ],
+        "magnolia": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "371": {
+    "img_link": "https://imgs.michaels.com/f2a11467-9ffd-480e-877b-17a80814ffab.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "372": {
+    "img_link": "https://imgs.michaels.com/dd333bbd-b9d3-42af-a27f-90226c19ee30.jpg",
+    "labels": {
+      "product_type": "teardrop",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "green",
+          "red"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ],
+        "acorn": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "373": {
+    "img_link": "https://imgs.michaels.com/b0ea7850-fa21-4d3d-90df-87f91bebcde8.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "leaf": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "374": {
+    "img_link": "https://imgs.michaels.com/383e2d72-3517-4577-bb51-6144eccf5c40.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "375": {
+    "img_link": "https://imgs.michaels.com/f5364298-b693-4ccf-85a2-6541c22a5508.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "generic": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "376": {
+    "img_link": "https://imgs.michaels.com/3a4daf44-9220-4399-9f79-77cde65cc4e8.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "377": {
+    "img_link": "https://imgs.michaels.com/995790e9-1325-466b-9cc9-adae184766f3.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "red"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "378": {
+    "img_link": "https://imgs.michaels.com/5479c7a5-5ca7-4f39-95f4-5697a3407739.JPG",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "379": {
+    "img_link": "https://imgs.michaels.com/57612191-f0bd-4b2d-911e-14246894a795.JPG",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ],
+        "oak": [
+          "brown",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "380": {
+    "img_link": "https://imgs.michaels.com/0e53d8c3-44c1-47bf-b4af-de03bdbacfd9.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "381": {
+    "img_link": "https://imgs.michaels.com/c010b16b-2723-441c-aa14-dab94271a68b.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "yellow",
+          "red"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ],
+        "acorn": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "382": {
+    "img_link": "https://imgs.michaels.com/f6c23603-12d9-4ebb-9c43-1a351eebfb09.JPG",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "383": {
+    "img_link": "https://imgs.michaels.com/4eb6d757-d3d5-4209-89b4-64cdfe225edf.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "384": {
+    "img_link": "https://imgs.michaels.com/8dcda7d6-e224-484d-851c-a091a9aae2c9.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "385": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/549526813460080.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "chrysanthemum": [
+          "cream",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ],
+        "berry": [
+          "white",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "386": {
+    "img_link": "https://imgs.michaels.com/cfac5991-cf15-49b4-beee-993aa11861b3.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "387": {
+    "img_link": "https://imgs.michaels.com/10eae823-2ae9-4763-88fb-a38594dbfa33.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "388": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/497463979198064.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "plum": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "389": {
+    "img_link": "https://imgs.michaels.com/56deab3c-5b20-4f8d-a085-df1aef3cf081.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ],
+        "oak": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "390": {
+    "img_link": "https://imgs.michaels.com/337f1b9b-98b3-4cc8-b7ee-0c3c5ad36626.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ],
+        "fern": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "green"
+        ],
+        "berry": [
+          "white",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "391": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/104938301232048.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "willow": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "392": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/167506617605552.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "willow": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "393": {
+    "img_link": "https://imgs.michaels.com/a3f1fa4f-cdba-4f4f-ae82-587c19619ef7.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "white",
+          "cream"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "brown"
+        ],
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "394": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/58447859652784.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "395": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/295945856092424.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "black"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "396": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/87742477215664.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "397": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/487829446808496.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "willow": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "398": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/290929993631344.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "cedar": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "399": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/162198140725168.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "400": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/549526329722480.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "401": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/457517819336880.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "grape": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "402": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/4611990915011233392.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "403": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/74653024064432.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "beige",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "white"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "404": {
+    "img_link": "https://imgs.michaels.com/4e9aecec-bb21-436d-8ced-fe7340ef7ddf.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "dahlia": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "green"
+        ],
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "405": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/203159992751024.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "406": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/20436379180464.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "407": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/489244772727376.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "408": {
+    "img_link": "https://imgs.michaels.com/10e848b3-9404-45df-9744-c4b63c4bd13b.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "409": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/487829014959024.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "410": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/380647374166192.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "grape": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "411": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/221549580194736.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "412": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/561548415149616.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "willow": [
+          "red",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "413": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/289054410090032.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ],
+        "berry": [
+          "yellow",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "414": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/185104314342832.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "415": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/335527424335280.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "beige",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ],
+        "berry": [
+          "yellow",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "416": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/4611889178756633520.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "chrysanthemum": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ],
+        "fern": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ],
+        "gourd": [
+          "green",
+          "yellow"
+        ],
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "417": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/104938538472368.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "418": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/19795712349104.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "419": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/358946557588656.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow"
+        ],
+        "daisy": [
+          "white",
+          "yellow"
+        ],
+        "wildflower": [
+          "purple",
+          "white"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "gray"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "420": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/167507462659504.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "beige",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "421": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/155161854224520.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "beige",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "422": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/400953610539144.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "423": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/19796576113584.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "424": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/24020815026352.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "425": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/453920172770928.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "426": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/4612235544883988080.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "427": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/20436893506992.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "428": {
+    "img_link": "https://imgs.michaels.com/cbea6b86-e660-409b-b37f-77db680dda99.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "429": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/98080452646832.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "430": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/104937559626672.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "431": {
+    "img_link": "https://imgs.michaels.com/85b9574a-f86a-4275-8473-02a17b725060.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "brown"
+        ],
+        "eucalyptus": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ],
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "432": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/160191529030576.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "433": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/517586097577136.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "purple",
+          "red"
+        ]
+      },
+      "leaves": {
+        "rose": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "434": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/457517345380528.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "435": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/118523971968432.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "436": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/167507349413296.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "437": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/167507511942576.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "beige",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "438": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/487829277184944.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "439": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/6829345605896.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "ivy": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "440": {
+    "img_link": "https://imgs.michaels.com/6e265d2f-6845-4901-bfe8-3f9d068282bc.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "441": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/290205012994184.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "442": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/405296581548208.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "443": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/335528106859952.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "beige",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "444": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/61347964499888.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "dark green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "445": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/215845673521376.jpeg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "446": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/146173293093552.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "brown"
+        ],
+        "daisy": [
+          "white",
+          "yellow"
+        ],
+        "wildflower": [
+          "pink",
+          "purple"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ],
+        "ruscus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "447": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/122558408525424.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "448": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/295945915861256.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "blue"
+        ],
+        "gypsophila": [
+          "blue",
+          "white"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "449": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/156749785912240.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "450": {
+    "img_link": "https://imgs.michaels.com/8387a849-e57f-4733-9543-73a1aadca290.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "flower",
+      "flowers": {
+        "peony": [
+          "orange",
+          "yellow"
+        ],
+        "wildflower": [
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green"
+        ],
+        "oak": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "451": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/267003985532848.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "452": {
+    "img_link": "https://imgs.michaels.com/85738e98-9749-473d-b9c2-0797906ebdac.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "brown",
+          "white"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ],
+        "gourd": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "453": {
+    "img_link": "https://imgs.michaels.com/1e924485-56a9-464e-a7dd-81b31f77d24c.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "yellow"
+        ],
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pinecone": [
+          "brown"
+        ],
+        "berry": [
+          "orange"
+        ],
+        "acorn": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "454": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/358946459415728.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "455": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/98081343936432.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "456": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/400953302040712.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "black",
+          "purple"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "457": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/2579909543536.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "hydrangea": [
+          "blue"
+        ],
+        "hydrangea_2": [
+          "pink"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "brown"
+        ],
+        "ficus": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "blue",
+          "orange"
+        ],
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "458": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/238239163413680.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "459": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/24020553668784.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "460": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/4611846209336185776.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "461": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/169140448975368.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "ivy": [
+          "green",
+          "light green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "462": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/167328085579696.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "463": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/24020212881584.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "464": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/267003770574768.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ],
+        "berry": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "465": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/497463690184304.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "pink",
+          "cream"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "466": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/19796625396656.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "467": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/348911326666160.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "468": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/453920445793904.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "469": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/212308051496880.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "470": {
+    "img_link": "https://imgs.michaels.com/2c685922-2110-4223-8c2d-6992bed3c052.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ],
+        "grass": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ],
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "471": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/288331187333040.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "472": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/245457586951088.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "473": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/67834411320944.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "474": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/57806388074416.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "475": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/445157558216624.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "black"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "476": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/457517358487728.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "477": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/24021311789232.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "478": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/221551470777264.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "479": {
+    "img_link": "https://imgs.michaels.com/a70d8e4b-4e41-47bb-8d35-196202538a2b.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "480": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/238239645014192.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "pink"
+        ],
+        "oak": [
+          "brown",
+          "orange"
+        ],
+        "leaf": [
+          "green",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "481": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/489245978860112.jpeg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "482": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/57806387550128.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "483": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/118524561268144.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "484": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/167329263238064.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "485": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/4611924257230943408.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "orange",
+          "red"
+        ],
+        "gerbera": [
+          "yellow",
+          "pink"
+        ],
+        "hydrangea": [
+          "orange"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ],
+        "fern": [
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "486": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/348910396054960.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "cream",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "487": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/358946726606000.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "sunflower": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "488": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/57808026081200.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "489": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/414566947891888.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "red"
+        ]
+      },
+      "leaves": {
+        "rose": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "490": {
+    "img_link": "https://imgs.michaels.com/873026e4-3746-46b6-8102-833054c271fe.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "pine": [
+          "green"
+        ],
+        "fern": [
+          "green"
+        ],
+        "maple": [
+          "beige",
+          "red"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "black"
+        ],
+        "apple": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "491": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/346223545992816.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "wildflower": [
+          "white",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "green"
+        ],
+        "eucalyptus": [
+          "green",
+          "gray"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "492": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/57807673104304.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "white",
+          "cream"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "493": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/520098591676336.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "brown"
+        ],
+        "eucalyptus": [
+          "green",
+          "light green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "green"
+        ],
+        "berry": [
+          "red",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "494": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/167329300617136.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "495": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/238239411008688.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "sunflower": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "496": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/304897363641968.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "yellow",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "497": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/58588194067376.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ],
+        "fern": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "green"
+        ],
+        "berry": [
+          "orange",
+          "pink"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "498": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/4611784099467475888.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "beige",
+          "brown"
+        ],
+        "eucalyptus": [
+          "green",
+          "gray"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "499": {
+    "img_link": "https://static.platform.michaels.com/2c-prd/en_US/216542384593520.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "dahlia": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "cream"
+        ],
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  }
+}

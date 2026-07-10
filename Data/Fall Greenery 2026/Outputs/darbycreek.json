@@ -1,0 +1,7523 @@
+{
+  "0": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FAR1665RealTouchBrownLeafMagnolia_SiennaFallRose_OakLeaf_EucalyptusFallWaterIllusionArrangementinFootedBowlVase_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "orange",
+          "cream"
+        ],
+        "magnolia": [
+          "white",
+          "cream"
+        ]
+      },
+      "leaves": {
+        "oak": [
+          "yellow",
+          "orange"
+        ],
+        "eucalyptus": [
+          "green"
+        ],
+        "magnolia": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "1": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1281_22CashmereRadiance-CafeauLaitPeony_BrownSunflower_OakLeafwithFuddyPuffPodsFallFrontDoorWreath_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "peony": [
+          "cream",
+          "peach"
+        ],
+        "sunflower": [
+          "brown",
+          "red"
+        ]
+      },
+      "leaves": {
+        "oak": [
+          "brown",
+          "cream"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "2": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1404Peonies_Pumpkins-MixedCream_Beige_NeutralFauxFloralFallFrontDoorWreathwithLifelikeBrownMagnoliaLeaves_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "peony": [
+          "beige",
+          "cream"
+        ]
+      },
+      "leaves": {
+        "magnolia": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "3": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1406VisionofAutumn-MixedRedYellowMapleLeaf_Gooseberry_DahliaBloom_WheatGrassonTwistedBroadVineBaseFallFrontDoorWreat_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "dahlia": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "red",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "yellow",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "4": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/GAR1232PumpkinMeadow_BeigeNorfolkPine_Peony_GreenHydrangea_CreamBrownPumpkinsFallMantleGarlandThanksgivingTableRunner-5Fo_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "peony": [
+          "peach",
+          "cream"
+        ],
+        "hydrangea": [
+          "green",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "pine": [
+          "brown",
+          "green"
+        ],
+        "maple": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "cream",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "5": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1408FallMedley-RedOrangeMapleLeaf_BrownOakLeaf_GreenClusterBerry_WheatGrassFallFrontDoorWreath_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "orange"
+        ],
+        "oak": [
+          "brown",
+          "red"
+        ],
+        "grass": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "6": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1407HauntingBeauty-MidnightEucalyptus_BlackHydrangea_GlitterGhoulHand_SkullsHalloweenFallWreath_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "black"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "gray"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "7": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1130Lamb_sEar_OakLeaf_MixedPumpkin_BerryFrontDoorFallFrontDoorWreath_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "brown"
+        ],
+        "lambsear": [
+          "green",
+          "gray"
+        ],
+        "fern": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "green"
+        ],
+        "berry": [
+          "green",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "8": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1280Spellbound-PurpleCabbage_BeadedBerry_TealPumpkin_EucalyptusFrontDoorHalloweenFallWreath_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "cabbage": [
+          "purple",
+          "green"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "gray"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "teal"
+        ],
+        "berry": [
+          "pink"
+        ]
+      }
+    },
+    "error": null
+  },
+  "9": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1955_L_AR1955_SDeepBlueFauxHydrangeaBushOutdoorSummerFallArrangementUrnFiller-Availablein2Sizes_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "blue",
+          "purple"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "10": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FAR1659AutumnElegance-MauveHydrangea_BeautyDahlia_OrangeSunflower_CreamRose_GoldenBerryLargeFallFauxFloralArrangeme_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "pink",
+          "purple"
+        ],
+        "dahlia": [
+          "red",
+          "pink"
+        ],
+        "sunflower": [
+          "orange",
+          "yellow"
+        ],
+        "rose": [
+          "cream"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "11": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1350FirstFrost-FlockedFoxtail_AutumnCabbage_WeatheredPumpkinThanksgivingFallFrontDoorWreath_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ],
+        "fern": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ],
+        "acorn": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "12": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FAR1660RedRudbeckiaConeFlowerBloomsinTallGoldRimBottleSmallSpringFallWaterIllusionArrangement_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "rudbeckia": [
+          "red"
+        ]
+      },
+      "leaves": {
+        "rudbeckia": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "13": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FDS136RealTouchMagnoliaLeaf_RedPomegranateHangingFrontDoorChristmasSwagHolidayWallDecor_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "teardrop",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pomegranate": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "14": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1403-PMBurgundyAspenLeafAutumnFallFrontDoorWreath_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "aspen": [
+          "red",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "15": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/VAS1197WeatheredGrayConcreteCompoteFruitBowlPlanterVessel_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "16": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1941-LAR1941-SRedFauxZinniaMumBushOutdoorFallArrangementUrnFiller_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "zinnia": [
+          "red",
+          "orange"
+        ],
+        "chrysanthemum": [
+          "red",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "chrysanthemum": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "17": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1978FlameRoseBushSpringFallOutdoorFauxUrnFillerArrangement_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "red",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "rose": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "18": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1017ThePumpkinPatch-WineHydrangea_OrangeDaisies_PumpkinswithAutumnGreeneryFallFrontDoorFallWreath_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "hydrangea": [
+          "burgundy"
+        ],
+        "daisy": [
+          "orange"
+        ]
+      },
+      "leaves": {
+        "ivy": [
+          "green",
+          "purple"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "19": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/GAR1066WildBittersweetBerry_TwigMantleFallGarlandTableRunner_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "20": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1944-LAR1944-S_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "chrysanthemum": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "21": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FLWSTM3383OrangeCreamPumpkinonVineFauxFallBranchStem-13_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "pumpkin": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "cream"
+        ]
+      }
+    },
+    "error": null
+  },
+  "22": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/WheatWaterfalls-BerryMapleIvyLeaf_OrangePumpkinFallFrontDoorWreathFW1277_5_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ],
+        "ivy": [
+          "green",
+          "yellow"
+        ],
+        "wheat": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ],
+        "berry": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "23": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FAR1662CreamMixedRudbeckiaWildFlowersinGoldRimBottleVaseSmallSpringFallWaterIllusionArrangement_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "rudbeckia": [
+          "cream",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "rudbeckia": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "24": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/VAS1198LightweightTexturedSandFlutedUrnPot_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "25": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1942-S_AR1942-L_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "zinnia": [
+          "cream"
+        ]
+      },
+      "leaves": {
+        "zinnia": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "26": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1943-LAR1943-S_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "cream",
+          "white"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "27": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1977LifelikeBeigeFawnPompomMumSpringFallOutdoorFauxUrnFillerArrangement_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "beige",
+          "peach"
+        ]
+      },
+      "leaves": {
+        "chrysanthemum": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "28": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/HMD1720-6inch_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "29": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1887Lifestyle_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "mum": [
+          "cream",
+          "peach"
+        ],
+        "dahlia": [
+          "cream",
+          "peach"
+        ],
+        "aster": [
+          "pink",
+          "peach"
+        ]
+      },
+      "leaves": {
+        "generic": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "30": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1954_L_AR1954_SSageGreenFauxHydrangeaBushOutdoorSummerFallArrangementUrnFiller-Availablein2Sizes_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "green",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "31": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1085AutumnontheCoast-TealPumpkin_OakLeaves_PoppyPods_BerryAsymmetricalFallFrontDoorWreath_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "pink",
+          "brown"
+        ],
+        "eucalyptus": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "teal",
+          "green"
+        ],
+        "berry": [
+          "purple",
+          "gray"
+        ],
+        "poppy": [
+          "teal",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "32": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1206Sage_Orange_BrownPumpkinswithOakLeaf_KaleGrassAsymmetricalFallFrontDoorWreath_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "yellow",
+          "orange"
+        ],
+        "kale": [
+          "green",
+          "yellow"
+        ],
+        "fern": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "green"
+        ],
+        "berry": [
+          "white",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "33": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1988-LAR1988-SRealisticMauveGreenAspenLeafFallFoliageVinePottedOutdoorUrnFillerArrangement_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "aspen": [
+          "pink",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "34": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1392FairyGardenFungi-FauxMushroom_WildVine_Chestnut_PompomonRattanBaseEverydayFallFrontDoorWreath_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "peach"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "35": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/GAR1168AllSeasonsFauxEnglishIvyLeafMantleGarlandEverydayGreeneryTableRunner_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "ivy": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "36": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1986-LAR1986-SAutumnTerracottaPrivetBushFauxFoliageOutdoorUrnFillerSummerFallFrontPorchArrangement_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "privet": [
+          "orange",
+          "pink"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "37": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/HMD1279SageWeatheredThanksgivingHarvestHalloweenColorfulPumpkinSet5_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "green",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "38": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1405_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "peony": [
+          "black"
+        ],
+        "lavender": [
+          "purple"
+        ]
+      },
+      "leaves": {
+        "willow": [
+          "black"
+        ],
+        "eucalyptus": [
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "39": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/GAR1227-PMBlackGlitterTwigBranchHalloweenFallMantleGarlandTableRunner-6.5_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "twig": [
+          "black"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "40": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/FAR1171ParisianNight-MidnightEucalyptus_PurpleThistle_FauxThornBranchesinCutGeometricalSmokeGlassVase_5_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "thistle": [
+          "purple"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "dark green",
+          "gray"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "41": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1299TheNevermore-FeatheredRavenBird_BlackMagic_GildedBranchHalloweenWreath_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "black"
+        ]
+      },
+      "leaves": {
+        "ivy": [
+          "black"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "42": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/HMD1592_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "43": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/HMD1352BlackFeatheredCrowStandingRavenHalloweenDecorationPropSetof2_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "44": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/GAR1231WitchesBrew-PurplePumpkin_Berry_MapleLeafwithGreenAmaranthus_GreyEucalyptusFallMantleGarlandHalloweenTableRunner_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "brown",
+          "purple"
+        ],
+        "eucalyptus": [
+          "gray",
+          "green"
+        ],
+        "amaranthus": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "purple",
+          "gray"
+        ],
+        "berry": [
+          "pink",
+          "purple"
+        ]
+      }
+    },
+    "error": null
+  },
+  "45": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/VAS1181TexturedBlackTerracottaJugVasewithHandles_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "46": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1074_26WitchesBrew-PurplePumpkin_Berries_Roses_DarkGreyEucalyptuswithGreenAmaranthusFallFrontDoorWreath_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "rose": [
+          "purple"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "dark_gray",
+          "green"
+        ],
+        "oak": [
+          "brown",
+          "green"
+        ],
+        "amaranthus": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "silver",
+          "purple"
+        ],
+        "berry": [
+          "pink",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "47": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FAR1661PurpleWineMixedRudbeckiaWildFlowersinGoldRimBottleSmallSpringFallWaterIllusionArrangement_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "rudbeckia": [
+          "pink",
+          "purple"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "48": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1987LifelikePurpleCabbageKaleBloom_MidnightEucalyptus_FittoniaVineOutdoorSpringFallFauxUrnFillerPottedPlantArrangement_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "kale": [
+          "purple",
+          "green"
+        ],
+        "wildflower": [
+          "purple"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "dark green",
+          "gray"
+        ],
+        "fittonia": [
+          "green",
+          "white"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "49": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/HMD1090PurpleWeatheredThanksgivingHarvestHalloweenColorfulPumpkinSet_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "purple"
+        ]
+      }
+    },
+    "error": null
+  },
+  "50": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/GAR1188DarkPlumFauxCimicifugaRamosaLeafMantleGarlandFallCenterpieceTableRunner_4_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "cimicifuga": [
+          "purple",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "purple"
+        ]
+      }
+    },
+    "error": null
+  },
+  "51": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1996NightshadeGarden-VenusFlytrap_TealPumpkins_BlackPine_Tillandsia_MiniSucculentHalloweenPottedUrnFillerArrangement_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "pine": [
+          "black"
+        ],
+        "tillandsia": [
+          "green"
+        ],
+        "succulent": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "teal"
+        ],
+        "berry": [
+          "gray"
+        ]
+      }
+    },
+    "error": null
+  },
+  "52": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FAR1367BlackMagicOrchidArrangementInSmokeGlassChandelierVase_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "orchid": [
+          "black"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "53": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1396BlackBeetle-Orchid_Peony_Rose_DaisyinBlack_WhiteStripedColumnVaseHalloweenFloral_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "orchid": [
+          "black"
+        ],
+        "peony": [
+          "black"
+        ],
+        "rose": [
+          "black"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "gray"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "54": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1625GothicRomance-BlackMagicHydrangea_Peony_RedRoseArrangementwithBerri_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "hydrangea": [
+          "black"
+        ],
+        "peony": [
+          "black"
+        ],
+        "rose": [
+          "red"
+        ]
+      },
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "55": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FAR1573NightshadeGarden-LustrousMagnoliaLeafwithBlackMagicPeony_HydrangeaHalloweenFloralWaterIl_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "peony": [
+          "black"
+        ],
+        "hydrangea": [
+          "black"
+        ]
+      },
+      "leaves": {
+        "magnolia": [
+          "dark green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "56": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/GAR1060MidnightEucalyptusFallHalloweenTableRunnerMantleGarland_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "gray",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "57": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FAR1479NoirEleganxe-MidnightPampasGrass_EternalRoseHalloweenFallWaterIllusionA_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "black"
+        ],
+        "pampas": [
+          "black"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "58": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FAR1478GothicRomance-RedQueenRose_BlackMagicOrchid_Peony_Hydrangea_PokesberryH_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "rose": [
+          "red",
+          "black"
+        ],
+        "orchid": [
+          "black"
+        ],
+        "peony": [
+          "black"
+        ],
+        "hydrangea": [
+          "black"
+        ]
+      },
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "black",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "59": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/HMD1531-Amber_5_MovingFlamelessLEDAmberGlassVotiveCandleswithRemote-Setof4_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "60": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FAR1664Lifestyle_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "red"
+        ],
+        "ranunculus": [
+          "red"
+        ]
+      },
+      "leaves": {
+        "other": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "61": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1034FallAspenLeaveswithMetallicCopperBerriesFallFrontDoorWreath_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "aspen": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "copper",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "62": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/HMD1647BronzedMerriamTurkeyThanksgivingCenterpieceFallTabletopDecor_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "63": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FAR1657LifelikeGoldenYellowAspenLeafBranchEverydayFallWaterIllusionArrangementinTallCylinderVase_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "aspen": [
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "64": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/DarbyCreek_Holiday_24_1390_copy_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "boxwood": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "65": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1781CreamHarvestPeony_MapleLeaf_GoldBerry_AutumnFoliageThanksgivingFallCornucopia_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "peony": [
+          "cream",
+          "peach"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "brown",
+          "gold"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "gold",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "66": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/AntiquedGoldLumbarSpineGothicCandleHolderHalloweenDecorativeObjectHMD15017561075611_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "67": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/GAR1230BrownOakLeafPineconeFallMantleGarlandThanksgivingTableRunner_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "red",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "68": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/GAR1184Wire-WrappedRaintight120LEDLightedTwigBranchGarlandFallMantleDecor_3_ae55d7e4-f8e4-473c-b1fa-91a52b2e7511_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "69": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1344UndertheSpreadingChestnutWreathAutumnFrontDoorWreathFallWallDecor_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "yellow"
+        ],
+        "grass": [
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "70": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/HMD1492_4_NaturalGrapevineTwigPumpkinHalloweenTabeltopMantleFallHomeDecorSetof2_1800x1800.png",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "71": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1390EarthtoneElegance-OakLeafwithAcorns_Okra_DriedAstilbeAsymmetricFallFrontDoorWreathwithVelvetRibbonBow_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "green",
+          "brown"
+        ],
+        "magnolia": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {
+        "acorn": [
+          "brown",
+          "beige"
+        ],
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "72": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/GAR1110AutumnButternutSquashCrabappleFauxFallMantleGarlandThanksgivingTableRunn_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "crabapple": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "73": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1068FallSangria-YellowRanunculus_MauvePeony_WineHydrangeaFallFrontDoorWreath_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "peony": [
+          "pink",
+          "peach"
+        ],
+        "ranunculus": [
+          "yellow",
+          "orange"
+        ],
+        "hydrangea": [
+          "purple",
+          "red"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "white"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "74": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1097WineMiniCosmosWispyBirchTwigFrontDoorFallWreath_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "cosmos": [
+          "red",
+          "pink"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "75": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/27649_DarbyCreekTrading_17315SQ_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "76": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/FDS1057MaroonMapleLeafTeardropFallSwag_6_1800x1800.jpg",
+    "labels": {
+      "product_type": "teardrop",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "77": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FAR1581GradientBlooms-Burgundy_Beauty_MauveMixedDahliaFallFloralWaterIllusionArrangement_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "dahlia": [
+          "red",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "dahlia": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "78": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1994Lifestyle_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "red",
+          "burgundy"
+        ],
+        "ranunculus": [
+          "yellow",
+          "red"
+        ],
+        "wildflower": [
+          "pink"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "purple",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "79": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1892AutumnGrapevineFoliageBurgundyBeetrootLeafPottedOutdoorFallUrnFiller_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "grape": [
+          "red",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "80": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FAR1357MoonlitVineyard-WineHydrangea_MauveRose_BurgundySpide_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "burgundy"
+        ],
+        "rose": [
+          "mauve",
+          "pink"
+        ],
+        "chrysanthemum": [
+          "burgundy"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "81": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/GAR1209AutumnEvenings-RedJapaneseMapleLeaf_DustyWineBotanicalEucalyptusFallMantleGarlandTableRunner_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "orange"
+        ],
+        "eucalyptus": [
+          "purple",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "82": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1889ExtraLargeMixedMochaDahlia_MumBloomsPottedOutdoorFallUrnFiller_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "dahlia": [
+          "peach",
+          "tan"
+        ],
+        "chrysanthemum": [
+          "peach",
+          "tan"
+        ]
+      },
+      "leaves": {
+        "generic": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "83": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1340MerlotIvyMedleywithFallBerry_HydrangeaClassicAutumnFrontDoorWreath_4_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "hydrangea": [
+          "purple",
+          "pink"
+        ],
+        "hellebore": [
+          "green",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "ivy": [
+          "green",
+          "brown"
+        ],
+        "grape": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "purple"
+        ]
+      }
+    },
+    "error": null
+  },
+  "84": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/HMD1593ClassicOvertheDoorBlackMetalWreath_CandleHo_4_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "85": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/HMD1468StandingBlack_GrayFauxFeatheredOwlFamilyTableTopDecor-SetofThree_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "86": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/51296-51295_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "black"
+        ]
+      }
+    },
+    "error": null
+  },
+  "87": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/HMD1281BlackWeatheredHarvestHalloweenBlackPumpkinSetof2_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "black",
+          "white"
+        ],
+        "gourd": [
+          "black",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "88": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/D.StevensBlack_GreyCanvasSpiderwebHalloweenWiredBow_SpoolofRibbon-ORNAM1114_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "89": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1666TallBlackSugarBranchHolidayArrangementinLargeBlackCylinderGlass_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "branch": [
+          "black"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "90": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/GAR1058GothicRomance-RedQueenRose_BlackOrchid_Peony_ChineseLantern_MidnightEucalyptusTableRunnerMantelGarland_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "red"
+        ],
+        "orchid": [
+          "black"
+        ],
+        "peony": [
+          "black"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "gray",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "91": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/GAR1211Lifestyle_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "92": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1876PumpkinsbytheSea-TurquoiseSunflower_BlueHydrangea_GoldBerry_FallOakLeafUrnFillerArrangement_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "turquoise",
+          "blue"
+        ],
+        "hydrangea": [
+          "blue",
+          "white"
+        ]
+      },
+      "leaves": {
+        "oak": [
+          "yellow",
+          "orange"
+        ],
+        "sage": [
+          "green",
+          "white"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "yellow",
+          "orange"
+        ],
+        "pumpkin": [
+          "white",
+          "blue"
+        ]
+      }
+    },
+    "error": null
+  },
+  "93": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1387PumpkinsbytheSea-TurquoiseSunflower_Cream_TealPumpkins_GoldBerry_OakLeafFallFrontDoorWreath_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "turquoise",
+          "blue"
+        ]
+      },
+      "leaves": {
+        "oak": [
+          "yellow",
+          "orange"
+        ],
+        "eucalyptus": [
+          "green",
+          "white"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "cream",
+          "turquoise"
+        ],
+        "berry": [
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "94": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/GAR1195RealTouchMagnoliaLeaf_RedPomegranateOutdoorHangingFrontDoorGarlandHolidayTableRun_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pomegranate": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "95": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FAR1586AutumnSunriseBlooms-RedPeony_FlameRose_OrangeMums_OakLeafFallWaterIllusionArrangement_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "peony": [
+          "red",
+          "orange"
+        ],
+        "rose": [
+          "orange",
+          "yellow"
+        ],
+        "chrysanthemum": [
+          "orange",
+          "yellow"
+        ],
+        "wildflower": [
+          "white"
+        ]
+      },
+      "leaves": {
+        "oak": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "96": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/GAR1207FallCelebration-RedOrangeOakLeaf_AcornwithMiniPumpkinFallMantleGarlandTableRunner_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ],
+        "acorn": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "97": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/GAR1209_FW1399Lifestyle_f6d3ac5c-3ecf-4138-9e64-b311a42e2993_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "orange"
+        ],
+        "eucalyptus": [
+          "purple",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "98": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/HMD1531-Red_2_MovingFlamelessLEDRedGlassRechargeableVotiveCandleswithRemote-Setof4_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "99": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/GAR1054-PM4_3_WaterproofRedBerryFrontDoorChristmasHolidayFrontDoorWreath_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "100": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FAR1580MixedFallBrown_BurgundyRedMapleLeaf_RustAstilbeinFacticeVaseFloralWaterIllusionArrangement_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "astilbe": [
+          "brown",
+          "red"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "101": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/FDS-1047MidnightEucalyptusFallHalloweenMantleSwag_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "gray",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "102": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1374DeepRedAutumnFoliagewithGreyBurgundyEucalyptus_OrangePumpkin_GourdThanksgivingDecorFrontDoorFallWreath_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "purple",
+          "green"
+        ],
+        "oak": [
+          "brown",
+          "green"
+        ],
+        "maple": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "red"
+        ],
+        "gourd": [
+          "orange",
+          "yellow"
+        ],
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "103": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/F1298DarkEnchantment-Black_WhiteVelvetPumpkin_MidnightEucalyptusFallHalloween_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "gray",
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "black",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "104": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1312WhiteWashedWickerWillowWreathwithBlack_GreyCanvasSpiderwebHalloweenBow_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "105": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1313-ORGNaturalGrapevineTwigWreathWithOrangeHalloweenBow_FauxBlackCrow_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "grapevine": [
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "106": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1296MacabreMagnolia-BlackJaggedPine_MagnoliaLeafwithMiniVelvetPumpkins_BlackVelvetRibbonAsymmetricalHalloween_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "pine": [
+          "black"
+        ],
+        "magnolia": [
+          "black"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "black"
+        ],
+        "pinecone": [
+          "silver",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "107": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/NaturalFallTwigWreathWithPurpleHalloweenBow_FauxBlackCrowFW1313_4_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "grapevine": [
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "108": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/GAR1212DarkEnchantment-DarkGreyEucalyptuswithCreamandBlackVelvetPumpkinFallMantleGarlandTableRunner_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "gray",
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "cream",
+          "black"
+        ]
+      }
+    },
+    "error": null
+  },
+  "109": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FDS154Fall-O-Ween-MiniOrange_BlackVelvetPumpkinFallPineSwagwithRibbon_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "teardrop",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "pine": [
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "black"
+        ]
+      }
+    },
+    "error": null
+  },
+  "110": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/FW1163CreamAstilbe_WheatGrass_LunariaDried-LookFallFrontDoorWreath_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "astilbe": [
+          "cream"
+        ],
+        "wheat": [
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "lunaria": [
+          "beige",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "111": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1890ExtraLargeMixedSweetCreamDahlia_MumBloomsPottedOutdoorFallUrnFiller_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "dahlia": [
+          "cream",
+          "peach"
+        ],
+        "chrysanthemum": [
+          "cream",
+          "peach"
+        ]
+      },
+      "leaves": {
+        "generic": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "112": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1368DesertSandDunes-BleachedQueenFlower_FanPalm_PineAllSeasonsFrontDoorFallWreath_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "queen flower": [
+          "cream",
+          "brown"
+        ],
+        "hydrangea": [
+          "cream"
+        ]
+      },
+      "leaves": {
+        "palm": [
+          "cream"
+        ],
+        "fern": [
+          "cream"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "cream"
+        ]
+      }
+    },
+    "error": null
+  },
+  "113": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1385SunflowerSerenade-MixedCream_IvorySunflowerBuds_BloomsFallEverydayFloralFrontDoorWreath_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "white",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "sunflower": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "114": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1100FallWheat_WispyBirchTwigFallFrontDoorWreath_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "wheat": [
+          "yellow",
+          "brown"
+        ],
+        "birch": [
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "115": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1304BleachedCreamOakLeaf_ToffeeBrownBerryFallAutumnMantleFrontDoorWreath_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "cream"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "116": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/GAR1205BlushingAutumn-MixedCreamPumpkin_GourdNeutralToneMapleLeaf_FauxHuskFallMantleGarlandTableRunner_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "brown"
+        ],
+        "eucalyptus": [
+          "green",
+          "gray"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "green"
+        ],
+        "gourd": [
+          "yellow",
+          "white"
+        ],
+        "berry": [
+          "red",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "117": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1379GildedHarvestSoiree-AutumnPear_Burgundy_GoldPomegranate_GoldFeathersThanksgivingFa_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pear": [
+          "yellow",
+          "orange"
+        ],
+        "pomegranate": [
+          "red",
+          "gold"
+        ]
+      }
+    },
+    "error": null
+  },
+  "118": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/FDS1059AntiquedGoldBayLeafChristmasHolidayMantleSwag_4_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "bay": [
+          "gold"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "119": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/ORNAM1326GoldenBrownTaffetaWire-LinedHand-KnottedDrapeLoopBow_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "120": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FAR1578AutumnGlow-MixedFallOakLeaf_GoldAspenBranchinAmberToneBallVaseLargeFallCenterpieceArrangement_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "yellow",
+          "green"
+        ],
+        "aspen": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "121": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1358MagnoliaFieldsofGoldFrontDoorFallWreath_5_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "yellow",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "122": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1886MixedGold_Rust_FallGreenAspenLeafFoliageinMediumPotDropinUrnFillerArrangement_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "aspen": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "123": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1388MapleMedley-FlameRose_MixedFallRanunculuswithRedYellowGreenFoliageFallFrontDoorSideWreath_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "yellow",
+          "orange"
+        ],
+        "ranunculus": [
+          "yellow",
+          "green"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "red",
+          "yellow"
+        ],
+        "fern": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "124": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1389OrangePumpkinSpice-FallGreenEucalyptus_Wheat_BerryAsymmetricalAutumnFrontDoorWreath_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "yellow"
+        ],
+        "maple": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ],
+        "berry": [
+          "white",
+          "brown"
+        ],
+        "acorn": [
+          "brown",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "125": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1623FieryPampasPlumes-OrangeYellowOmbreFountainGrassInBlackWhiteColumn_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "pampas": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "126": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1891ExtraLargeMixedRustOrangeDahlia_MumBloomsPottedOutdoorFallUrnFiller_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "dahlia": [
+          "orange",
+          "red"
+        ],
+        "chrysanthemum": [
+          "orange",
+          "red"
+        ]
+      },
+      "leaves": {
+        "generic": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "127": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/HMD1545Orange_BrownLuxuryVelveteenClassicFallHarvestMiniPumpkinBoxSetof_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "128": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/GAR1208GoldenHarvest-Yellow_OrangePearwithGoldLeaf_MixedBrownFoliageFallMantleGarlandTableRunner_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "red"
+        ],
+        "maple": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "pear": [
+          "yellow",
+          "orange"
+        ],
+        "berry": [
+          "green",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "129": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1719SageGreenFauxBotanicalEucalyptusInMatteGreyJugVase_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "130": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1159CreamPumpkin_Eucalyptus_Gourd_Lamb_sEarFallHarvestFrontDoorWreath-AvailableIn2Sizes_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "gray"
+        ],
+        "lamb's ear": [
+          "green",
+          "gray"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "cream",
+          "green"
+        ],
+        "gourd": [
+          "cream",
+          "green"
+        ],
+        "berry": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "131": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/hmd1544RustOrangePumpkin_GourdThanksgivingFa_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "red"
+        ],
+        "gourd": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "132": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FLWSTM1411SageGreenMiniFauxPumpkinStemSpray-12_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "green",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "133": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1853LifelikeAmalfiOliveBranchesinCeramicGreyMatteVaseEverydayCenterpieceArrangement_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "olive": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "olive": [
+          "green",
+          "purple"
+        ]
+      }
+    },
+    "error": null
+  },
+  "134": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FAR1472Neutral_SageWheatGrassSpraysinIndustrialBottleVase_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "wheat": [
+          "tan",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "135": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/HMD1546LuxuryVelveteenClassicFallHarvestPumpkinSet_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "green",
+          "ivory"
+        ]
+      }
+    },
+    "error": null
+  },
+  "136": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/Capture_b82addb6-4461-4560-884b-69ebd1c1c542_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "137": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FDS130BleachedWheatGrass_Pinecone_AutumnOakLeafFallFrontDoorSwag_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "teardrop",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "yellow",
+          "orange"
+        ],
+        "wheat": [
+          "tan",
+          "brown"
+        ],
+        "pine": [
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "138": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/HMD1728AssortedSetof5Orange_GreenPumpkin_GourdsClassicFallThanksgivingHomeDecor_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ],
+        "gourd": [
+          "green",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "139": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/HMD1675WovenNaturalMoss_Twig_VineCornucopiaBasketThanksgivingFallDecor_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "140": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FallFlame-BurgundyRedAutumnOakLeafwithFlockedFountainGrass_AcornsFallTableRunnerMantleGarlandsquare_1800x1800.png",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "red",
+          "orange"
+        ],
+        "grass": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {
+        "acorn": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "141": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1740AutumnPrivetUrnFiller_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "privet": [
+          "brown",
+          "pink"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "142": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/HMD1591FlameOrangePumpkin_GourdThanksgivingF_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "red"
+        ],
+        "gourd": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "143": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/GAR1122BurgundyRedAutumnOakLeaf_FauxAcornsFallTableRunnerMantleGarland_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "144": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/FDS1048MixedPumpkin_GourdCornHuskFallHarvestFrontDoorSwag_4_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "yellow",
+          "brown"
+        ],
+        "corn": [
+          "tan",
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ],
+        "gourd": [
+          "tan",
+          "green"
+        ],
+        "berry": [
+          "purple"
+        ]
+      }
+    },
+    "error": null
+  },
+  "145": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/HMD1538CrystalGlassGothicSkullHalloweenCatchallVesselTabletopDecor-2ColorsAvailable_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "146": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/HMD1360Turquoise_White_PowderBlueThanksgivingHarvestHalloweenStuddedPumpkinSetof3_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "blue",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "147": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/AR1393ElementsofFall-Orange_RedMapleLeaf_BrownSpongeMushroom_Pinecones_DriedPodsFloralArrangementCenterpieceinGlossyWhiteFiberstoneVessel_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ],
+        "fern": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "148": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1845DriedLookTranslucentCreamLunariaBranchesinGreyMatteLargeJugVaseEverydayArrangement_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "lunaria": [
+          "cream",
+          "white"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "149": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/GAR1210HarvestShimmer-BleachedOakLeaf_AcornwithMixedCreamSparkleBerryFallMantleGarlandTableRunner_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "cream",
+          "beige"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "cream"
+        ],
+        "acorn": [
+          "cream",
+          "beige"
+        ]
+      }
+    },
+    "error": null
+  },
+  "150": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/GAR1213HarvestWheat-MixedCream_NeutralPumpkin_Gourd_Berry_RaffiaFallMantleGarlandTableRunner_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "wheat": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "cream",
+          "yellow"
+        ],
+        "gourd": [
+          "cream",
+          "yellow"
+        ],
+        "berry": [
+          "yellow",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "151": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/CreamFauxMiniPumpkinStemSpray-12FLWSTM1493_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "cream"
+        ]
+      }
+    },
+    "error": null
+  },
+  "152": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/HMD1359SeeHearSpeakNoEvilResinJointedSkeletonFigurinesHalloweenShelfSitterMantleDecorSetof3_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "153": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/53830-00_2__2CeramicSkeletonSkullSucculentPlanterPotHalloweenDecor_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "154": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/51315-0051317CreepyCrawlerCeramicBlackWidowSpiderHalloweenBowlDecor-PRESALESHIPSBY930_4_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "155": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/cfimg-7004165543350176091_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "156": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/PPT1036AssortedThanksgivingHarvestOmbrePumpkinSetof6_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "cream"
+        ]
+      }
+    },
+    "error": null
+  },
+  "157": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FAR1346MauveMarvel-BurgundyHydrangea_Cosmos_PinkDahliawithB_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "red"
+        ],
+        "cosmos": [
+          "red"
+        ],
+        "dahlia": [
+          "pink"
+        ],
+        "rose": [
+          "white"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "158": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/HMD1364Hand-DippedSkinnyTaperLuxuryWaxCandle-MidnightBlack_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "159": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/77649-00DavinaCollectionBlackMetalModernCandlestickCandleholder_Candelabra-AvailableinMultipleSizes_a4b50ce3-3abc-4cc6-9798-5b02966accd2_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "160": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/FW1191_4_FreshDried-LookCreamOliveLeafFrontDoorFallWreath_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "olive": [
+          "brown",
+          "cream"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "161": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/HMD1560CreamBoucleFabricPumpkinSetThanksgivingFallDecor_2_51d340d0-ce75-47b3-a47e-224b99995b5b_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "cream"
+        ]
+      }
+    },
+    "error": null
+  },
+  "162": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/FW1189MixedPumpkin_WheatGrass_LunariaDried-LookFallFrontDoorWreath_c8b9d1ab-eee5-46a0-b316-4586c40c688c_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "cream",
+          "green"
+        ],
+        "corn": [
+          "tan",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "cream",
+          "green"
+        ],
+        "gourd": [
+          "cream",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "163": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/WildWheatGrassPumpkinCenterpieceonBirchDiscFallDecorArrangement_1800x1800.png",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "grass": [
+          "tan"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "cream"
+        ]
+      }
+    },
+    "error": null
+  },
+  "164": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1333DeluxeBeigeCreamMapleLeaf22FallMantleWreath_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "beige",
+          "cream"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "165": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/Autumn_sSplendor-MixedMapleLeafFoliage_BittersweetBerryFallCenterpieceTableRunnerMantleGarlandsquare_1800x1800.png",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "166": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1082AutumnGlow-CreamRose_DarkOrangeMagnolia_RanunculusFrontDoorFallWreath_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "peony": [
+          "cream"
+        ],
+        "hydrangea": [
+          "orange"
+        ],
+        "zinnia": [
+          "orange"
+        ]
+      },
+      "leaves": {
+        "birch": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "167": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/PlushPumpkinLuxuryVelvetRealStemPumpkinFallDecor-PP1011Apricot3_1800x1800.webp",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "168": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1748ArtfulAutumnBlooms-BurgundyEnglishRose_GoldenrodPeony_BronzedHolly_RustMagnoliaFallCenterp_5_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "red",
+          "burgundy"
+        ],
+        "peony": [
+          "yellow",
+          "orange"
+        ],
+        "wildflower": [
+          "orange",
+          "red"
+        ]
+      },
+      "leaves": {
+        "holly": [
+          "brown",
+          "green"
+        ],
+        "magnolia": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "169": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/HMD1460EcclecticHandPaintedTinToleworkFinishOrnateStandingFlowerDecor_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "lotus": [
+          "white",
+          "pink"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "170": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/PlushPumpkinLuxuryVelvetRealStemPumpkinFallDecorGunmetalDotPP1007_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "gray",
+          "blue"
+        ]
+      }
+    },
+    "error": null
+  },
+  "171": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/SW1294DreamyCoralFernOnAWispyBirchTwigFrontDoorWreath_5_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "orange",
+          "yellow"
+        ],
+        "birch": [
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "172": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/HMD1236NaturalGrapevineTwigChristmasTreeTopiaryHolidayTabletopMantleDecorCenterpiece-Setof2_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "grapevine": [
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "173": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/53807-00_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "174": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/GAR1052-PM6_2_MixedPumpkin_GourdCornHuskFallHarvestMantleGarlandTableRunner_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "green"
+        ],
+        "gourd": [
+          "white",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "175": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/GAR1229BeigeOakLeafPineconeFallMantleGarlandThanksgivingTableRunner_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "beige",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "176": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1371TiramisuLayers-AutumnPeony_PampasGrass_RattanBall_PineFrontDoorFallWreath_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "peony": [
+          "beige",
+          "cream"
+        ],
+        "chrysanthemum": [
+          "brown",
+          "beige"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "beige",
+          "brown"
+        ],
+        "fern": [
+          "brown",
+          "gold"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "brown",
+          "white"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "177": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FAR1584ToastedMeadow-DriedLookHydrangea_Rose_Dahlia_BrownEucalyptusFallFloralWaterIllusionArrangement_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "green",
+          "brown"
+        ],
+        "rose": [
+          "orange",
+          "yellow"
+        ],
+        "dahlia": [
+          "peach",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "brown",
+          "beige"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "178": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/CornucopiaBasket_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "179": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FLWSTM3182ToffeeBrownDutchessRoseBloomFauxFloralSpray-21_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "rose": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "180": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1271Cashmere_Pinecones-BleachedPine_LunariaOakLeaf_FeatherGrassFallFrontDoorWreath_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "beige"
+        ],
+        "lunaria": [
+          "white"
+        ]
+      },
+      "fruit": {
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "181": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1879EarthtoneElegance-BrownSunflower_OakLeaves_AcornswithOkra_DriedGrassOutdoorUrnPotFillerPlanterArra_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "brown",
+          "orange"
+        ],
+        "wildflower": [
+          "cream"
+        ]
+      },
+      "leaves": {
+        "oak": [
+          "brown",
+          "green"
+        ],
+        "grass": [
+          "brown"
+        ]
+      },
+      "fruit": {
+        "acorn": [
+          "brown"
+        ],
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "182": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/HMD1150MovingFlamelessLEDSmokeyGlassPillarCandleswithRemote-Setof3_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "183": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/Halloweendecor_04_copy_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "184": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/Acorn_FallLeavesFrontDoorTwigAutumnWreath10_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "acorn": [
+          "brown",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "185": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/HMD1358ResinYogiSkeletonFigurinesHalloweenShelfSittersMantleDecorSetof3_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "186": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/78440BrownSpookyHauntedHouseCandleHolderwithMildlyFriendly_YetTortured_BooingGhosts_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "187": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1724AR1725AR1726LargeBloomGardenHydrangeaBushOutdoorUrnFi_360e6313-ca7e-4705-8eb2-251bf0dda950_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "green",
+          "pink"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "188": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1946-L-AR1946-S_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "pink",
+          "white"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "189": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FLWSTM3174DustyRoseTwo-toneSilkDahliaBloom_BudFauxFloralStemSpray-20_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "dahlia": [
+          "pink",
+          "peach"
+        ]
+      },
+      "leaves": {
+        "dahlia": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "190": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1657BlushingFall-PinkDahlia_PampasGrass_RhubarbIvyThanksgivingCornucopiaCenterpieceBask_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "dahlia": [
+          "pink",
+          "white"
+        ],
+        "wildflower": [
+          "pink",
+          "purple"
+        ]
+      },
+      "leaves": {
+        "ivy": [
+          "green",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "191": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FAR1575SunflowerSpectacle-Golden_RustOrangeMixedMiniSunflowerBloomsinPyramidVaseFallWaterIllus_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "red",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "sunflower": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "192": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1372BlushingBeautyFrontDoorFallWreathClassicEverydayWallDecor_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "ivy": [
+          "mauve",
+          "green"
+        ],
+        "magnolia": [
+          "green",
+          "white"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "193": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/HMD1455Medium-SizedOrangePumpkinFallHalloweenDecoration_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "194": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1396FallGrandeur-OrangeMiniPumpkin_BittersweetBerry_Mum_Dahlia_MapleLeafFallFrontDoorWreathwithVelvetLoop_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "dahlia": [
+          "orange",
+          "red"
+        ],
+        "chrysanthemum": [
+          "orange",
+          "red"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "red",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ],
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "195": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/MCW1085-PMBittersweetAutumnLeaf_BerryFallAccentMiniCandleWr_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "bittersweet": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "196": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/GAR1125ClassicFallHarvestMapleLeafTableRunnerMantelGarland_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "197": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FLWSTM3191AssortedCream_GreenMiniPumpkinPicksSetof6Stems-10_1800x1800.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "green",
+          "cream"
+        ]
+      }
+    },
+    "error": null
+  },
+  "198": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/EDW1112AllSeasonsFauxBladeEucalyptusLeafEverydayF_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "199": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FAR1495WoodlandEnchantment-LongNeedlePine_EucalyptusBranch_BronzeSeededBerry_HollyWi_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "pine": [
+          "green"
+        ],
+        "euonymus": [
+          "green",
+          "white"
+        ],
+        "holly": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "brown"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "200": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1727_19_FauxHydrangeaBushOutdoorFallArrangementUrnFiller-AvailableIn_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "green",
+          "peach"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "201": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/D69A3944_1800x1800.jpg",
+    "labels": {
+      "product_type": "teardrop",
+      "plant_type": "flower",
+      "flowers": {
+        "magnolia": [
+          "white"
+        ]
+      },
+      "leaves": {
+        "magnolia": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "202": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/GAR1206VerdantHarvest-Green_CreamPumpkinBleachedOakLeaf_EucalyptusFallMatteGarlandTableRunner_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "cream",
+          "brown"
+        ],
+        "eucalyptus": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "green",
+          "cream"
+        ]
+      }
+    },
+    "error": null
+  },
+  "203": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/FDS1094MixedBelgium_ScotchPineTeardropSwagwithFauxPinecone_Branches_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "teardrop",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "pine": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "204": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1980-LAR1980-SFauxTriticumWheatBushOutdoorFallUrnFillerPottedBushArrangement_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "wheat": [
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "205": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/HMD1419LongNaturalWoodenTablePlanterwithMetalHandles_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "206": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/Real_Touch_Magnolia_Leaf_All_Seasons_Teardrop_Front_Door_Swag_5_1800x1800.jpg",
+    "labels": {
+      "product_type": "teardrop",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "207": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/MCW1080-PM14_2_WispyTwigRoundFallMiniWreathorCandleRingCenterpieces_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "twig": [
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "208": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/CornucopiaBasketwithHandle_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "209": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/EDW1129-PMAllSeasonsNaturalBroadVineBrownTwigEverydayWreath_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "210": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1622FauxTriticumWheatLargeOutdoorUrnFillerFallArrangement_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "grass": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "wheat": [
+          "tan",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "211": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/16016NaturalGrapevineTwigPumpkinHalloweenFallDecor_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "212": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/GAR1045AmberWavesofGrainAutumnWheatFallHarvestTableRunnerMantleGarland_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "flower",
+      "flowers": {
+        "wheat": [
+          "brown",
+          "tan"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "213": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/IvoryWhitePumpkin_GourdThanksgivingFallHarvestHomeDecor-Setof6HMD1537_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ],
+        "gourd": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "214": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1395MauveMist-GreenPeony_PurpleBerry_PuffBallSeedPods_MauveAspenLeafonWickerBaseFallFrontDoorWreath_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "peony": [
+          "green",
+          "cream"
+        ]
+      },
+      "leaves": {
+        "aspen": [
+          "pink",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "purple",
+          "pink"
+        ]
+      }
+    },
+    "error": null
+  },
+  "215": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1366ClassicRealTouchGoldenBrownMagnoliaBloom_BudAllSeasonsFallFrontDoorWreath_4_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "magnolia": [
+          "cream",
+          "white"
+        ]
+      },
+      "leaves": {
+        "magnolia": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "216": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/VAS1138Green_WhitePaintedChinoiserieCeramicBulbFlowerBudvase_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "217": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/VAS1141Green_WhiteFloralPaintedChinoiserieCeramicPlumVase_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "218": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FLWSTM3184AutumnPear_Berry_FallMaple_MetallicGoldLeafPick-24_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ],
+        "leaf": [
+          "gold",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pear": [
+          "yellow",
+          "orange"
+        ],
+        "berry": [
+          "green",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "219": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1885FallGrandeur-OrangeMiniPumpkin_BittersweetBerry_Mum_DahliaMixedFallFoliageLargeOutdoorUrnPotFiller_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "dahlia": [
+          "orange",
+          "red"
+        ],
+        "chrysanthemum": [
+          "orange",
+          "red"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ],
+        "beech": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ],
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "220": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1355U-Pick-FallOrange_PurplePumpkin_MixedBerry_NeedleLeafEucalyptusFrontDoorAutumnWreath_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ],
+        "maple": [
+          "green",
+          "brown"
+        ],
+        "cedar": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "purple"
+        ],
+        "berry": [
+          "white",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "221": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/HMD1531-Smoke_6_MovingFlamelessLEDSmokeGlassRechargeableVotiveCandleswithRemote-Set_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "222": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/VAS1137_3_ClearBubbleTexturedRecycledGlassFloorVase_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "223": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/HMD1242TallGoldGildedFacetedGeometricRetroGlassBottleVase_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "224": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1354TransitionalAutumnGreenOakLeaf_BrownAcronFallFrontDoorWreath_4_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "acorn": [
+          "brown",
+          "gray"
+        ]
+      }
+    },
+    "error": null
+  },
+  "225": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1373HarvestBounty-Cream_GreenPumpkinswithAutumnCabbageHeadFrontDoorFallWreath_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "green",
+          "yellow"
+        ],
+        "cabbage": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "cream",
+          "green"
+        ],
+        "berry": [
+          "cream"
+        ]
+      }
+    },
+    "error": null
+  },
+  "226": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1292_5_FallWatercolors-MixedWine_MauveHydrangeaAutumnBloomFrontDoorMantle_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "pink",
+          "green"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "227": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/HMD1091TealWeatheredThanksgivingHarvestHalloweenColorfulPumpkinSet_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "teal"
+        ]
+      }
+    },
+    "error": null
+  },
+  "228": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/GAR1114MagnoliaLeaf_FauxCedarMantleGreeneryGarlandWinterTa_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "green",
+          "brown"
+        ],
+        "cedar": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "229": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FLWSTM2941GreenHangingLeafFoliageFauxBushSpray-31_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "ivy": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "230": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FLWSTM3291Brown_GreenOakLeafHangingBushwithAcornsFauxFallGreeneryStemSpray-25_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "acorn": [
+          "red",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "231": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/HMD1539LargeYellow_OrangeTexturedThanksgivingHarvestGourdFallHomeDecor_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "gourd": [
+          "orange",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "232": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1724AR1725AR1726LargeBloomGardenHydrangeaBushOutdoorUrnFi_4_ba3ba679-3564-4f20-b8fd-f33240e03254_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "purple",
+          "cream"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "233": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/MiniMumGold_Purple_andIvoryFrontDoorFallFloralAutumnWreath3_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "yellow",
+          "purple"
+        ],
+        "chrysanthemum_2": [
+          "white",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "generic": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "234": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1319AutumnRomance-HarvestHydrangea_MauveRanunculus_SeededEucalyptusFallFrontDoorWreath_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "purple",
+          "red"
+        ],
+        "ranunculus": [
+          "pink",
+          "red"
+        ],
+        "chrysanthemum": [
+          "peach",
+          "cream"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "cream",
+          "brown"
+        ],
+        "eucalyptus": [
+          "green",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "235": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/CandlelitFallEvenings-FauxDustyGreenSilverDollarEucalptus_PineconeWinterFrontDoorWreathFW129_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "gray"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "236": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/HMD1700PlumRaisinVelvet10Yd.Wire-LinedRibbonSpool_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "237": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/LargeMovingFlamelessLEDSmokeyGlassPillarCandleswithRemote-Setof3HMD1489_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "238": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/GAR1108CandlelitFallEvenings-FauxDustyGreenSilverDollarEucalyptus_PineconeWinterMantleGarlandor_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "gray"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "239": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1990FallMedley-OakLeaf_Acorn_TerracottaBirchLeafwithWildBittersweetTwigFauxPottedFallOutdoorUrnFillerArrangement_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "green",
+          "brown"
+        ],
+        "birch": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "240": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1877FallFoliageFiesta-Red_Orange_YellowMixedOak_Maple_BirchLeaf_BotanicalEucalyptusFallUrnFillerArrange_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "red",
+          "yellow"
+        ],
+        "maple": [
+          "red",
+          "orange"
+        ],
+        "birch": [
+          "yellow",
+          "orange"
+        ],
+        "eucalyptus": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "241": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/HMD1717MovingFlamelessLEDSilver14TaperCandleswithRemoteSetof2_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "242": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FAR1574FallSangria-MauvePinkSunflower_WineHydrangea_GoldenHawthornBerry_RustMiniConeWaterIllus_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "pink",
+          "red"
+        ],
+        "hydrangea": [
+          "burgundy"
+        ],
+        "wildflower": [
+          "orange"
+        ]
+      },
+      "leaves": {
+        "leaf": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "243": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1394FrightNight-VenusFlytrap_GhoulHands_Pokeberry_SparkleEucalyptusHalloweenFrontDoorWreath_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "hydrangea": [
+          "cream"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "black"
+        ],
+        "venus flytrap": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "244": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1287_3_AutumnMedleyofYellow_Orange_WhiteFauxSunflowersFrontDoorFallWreath_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "orange"
+        ],
+        "daisy": [
+          "white"
+        ]
+      },
+      "leaves": {
+        "sunflower": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "245": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/78425OilRubbedBronzedMetalRavenBirdPoeHalloweenCandleHolder_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "246": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/GAR1214BronzeGoldBrushedRoundEucalyptusMantleGarlandTableRunner-5Foot_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "gold",
+          "bronze"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "247": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/GAR1056-PM6SeededEucalyptus_PineWinterHolidayMantleGarlandTableRunner_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "pine": [
+          "green"
+        ],
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "248": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/AR1551WeatheredPumpkin_CreamSunflower_WheatThanksgivingFallCornucopiaArra_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "white",
+          "cream"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "cream"
+        ]
+      }
+    },
+    "error": null
+  },
+  "249": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FDS1134GreenSpruce_MiniaturePineconeHangingJuteWrappedFallSwag_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "spruce": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "250": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/EDW1085_5_SeededEucalyptus_PineWinterFrontDoorHolidayWreath-2SizesAvailable_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "gray"
+        ],
+        "pine": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "251": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/GAR1111Dried-LookBleachedLunariawithMixedPumpkin_Pinecone_BerryFallMantelGarla_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "lunaria": [
+          "cream"
+        ],
+        "ruscus": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "green"
+        ],
+        "berry": [
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "252": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/HMD1298RealTouchMagnoliaLooseLeavesBowlFillerFallDecorBoxof24_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "253": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/Pumpkin_GourdFallHarvestGarlandTableRunner_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "ivy": [
+          "green"
+        ],
+        "eucalyptus": [
+          "green",
+          "gray"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "cream",
+          "green"
+        ],
+        "gourd": [
+          "cream"
+        ],
+        "berry": [
+          "white",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "254": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/HMD1541TallWeatheredGreenThanksgivingHarvestPumpkinFallHomeDecor_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "gourd": [
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "255": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/ClassicRealTouchGoldenBrownMagnoliaFallFrontDoorWreathEDW1081_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "brown",
+          "gold"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "256": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FAR1475AutumnWildflowerBouquet-RustLarkspur_CafeAuLatte_PomPom_MauveCosmosin_40420ce4-1f96-46a5-accc-dd784be7024c_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "larkspur": [
+          "pink",
+          "red"
+        ],
+        "cosmos": [
+          "mauve",
+          "pink"
+        ],
+        "chrysanthemum": [
+          "tan",
+          "brown"
+        ],
+        "wildflower": [
+          "cream",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "ruscus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "257": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1146CreamPumpkin_Eucalyptus_Pinecone_Lamb_sEarFallHarvestCenterpieceArrangementWoodPlanter_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "gray"
+        ],
+        "lambs ear": [
+          "green",
+          "gray"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "cream",
+          "green"
+        ],
+        "berry": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "258": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FAR1585WarmBlooms-BrownDriedLookArtichoke_Foxtails_MixedTanMumsWaterIllusionArrangementinSilverBottleV_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "tan",
+          "peach"
+        ],
+        "artichoke": [
+          "brown",
+          "orange"
+        ],
+        "foxtail": [
+          "tan"
+        ]
+      },
+      "leaves": {
+        "leaf": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "259": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FDS153WildHarvest-FauxOrange_OliveGreenEucalyptus_WheatFallDoorHandingSwag_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "teardrop",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ],
+        "berry": [
+          "brown",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "260": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FLWSTM3179FallBrownMagnoliaLeafBranchSpray-20_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "brown",
+          "red"
+        ]
+      },
+      "fruit": {
+        "acorn": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "261": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FDS1111DeluxeBrownPineNeedleLargeTeardropSwagFallHangingDecor_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "teardrop",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "pine": [
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "262": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1849FauxBleachedIvoryCreamPampasGrassinLargeNaturalWoodBowlEverydayCenterpieceArrangement_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "pampas": [
+          "white",
+          "cream"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "263": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/HMD1719MovingFlamelessLEDBlack14TaperCandleswithRemoteSetof2_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "264": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/HMD1439-BIRDGlossyWhiteGeometricFiberstoneSongBirdModernSculptureHomeDecorFigur_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "265": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/CW1358WhiteSugarBerry_Pinecone_WinterGreeneryHolidayChristmasFrontDoorWreath_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "pine": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "white"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "266": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/SugarCoatedCandyCornFallGarlandHalloweenMantleDecorsquare_1800x1800.png",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "candy corn": [
+          "yellow",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "267": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1950_L_AR1950_SBlueFauxHydrangeaBushOutdoorSpringSummerArrangementUrnFiller-Availablein2Sizes_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "blue",
+          "white"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "268": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/HMD1607MiniWhitePampasGrassArrangemen_0bbc2cf9-14cd-48eb-94dd-98997dae2468_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "pampas": [
+          "white"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "269": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FAR1658RealisticDarkBlueGreenHydrangeaBloomsWaterIllusionEverydayArrangementinBeveledGlassLargeUrnVase_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "blue",
+          "green"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "270": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FLWSTM3207LightBlueWaterproofWeatheredPumpkinStemPick-13_1800x1800.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "blue"
+        ]
+      }
+    },
+    "error": null
+  },
+  "271": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/HMD1697D.StevensSoftBlueTaffeta10Yd.Wire-LinedRibbonSpool_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "272": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1948-L_AR1948-SWhiteFauxHydrangeaBushOutdoorSpringSummerArrangementUrnFiller-Availablein2Sizes_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "white"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "273": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FLWSTM3175CandlelightHarvestPeonyBloom_BudFauxFloralBranchSpray-26_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "peony": [
+          "cream"
+        ]
+      },
+      "leaves": {
+        "peony": [
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "274": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1727_15_FauxHydrangeaBushOutdoorFallArrangementUrnFiller-AvailableIn_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "white"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "275": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/MatteWhiteCeramicGeometricFourSidedStarTaperHolderModernHomeDecor-Setof2_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "276": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/53797-0053798PhantomCollectionCeramicWhiteGhostCandle_6_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "277": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1734WhiteGypsophilaBranchArrangement_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "gypsophila": [
+          "white"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "278": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1883Lifestyle_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "cyclamen": [
+          "white"
+        ]
+      },
+      "leaves": {
+        "cyclamen": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "279": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/FW1288AutumnInFullBloom-WhiteSunflower_FauxPampasGrassFallFrontDoorWreath_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "white"
+        ]
+      },
+      "leaves": {
+        "grass": [
+          "white"
+        ],
+        "fern": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "280": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1775RedJapaneseMapleLeafFallTabletopArrangementinTallMatteGreyJugVase_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "281": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FAR1384JungleBreeze-RedPincushionProtea_GreenHelleborus_AmaranthusEverydayFallFloralA_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "protea": [
+          "red",
+          "pink"
+        ],
+        "hellebore": [
+          "green",
+          "red"
+        ],
+        "amaranthus": [
+          "green"
+        ]
+      },
+      "leaves": {
+        "leaf": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "282": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/GAR1189Raintight120LEDLightedWhiteWire-WrappedTwigBranchGarlandFallWinterMantleDecor_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "283": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1348AutumnBlazeRedMaple_OakLeafFallFrontDoorMantleWreath_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ],
+        "oak": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "yellow",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "284": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/FW1235GoldLeafPinecone_BrownMagnolia_AutumnRedMapleLeavesFrontDoorFallWreath_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "orange"
+        ],
+        "magnolia": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {
+        "pinecone": [
+          "gold",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "285": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1743HydrangeaUrnFillerArrangement_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "purple",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "286": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FAR1372LifelikeBurgundyRedAutumnMixVelvetOakLeafBranchesInGla_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "287": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1351BleachedWheatGrass_Acorn_PineconeAutumnOakLeafFallFrontDoorWreath_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "yellow",
+          "brown"
+        ],
+        "wheat": [
+          "tan"
+        ]
+      },
+      "fruit": {
+        "acorn": [
+          "brown"
+        ],
+        "pinecone": [
+          "gray"
+        ]
+      }
+    },
+    "error": null
+  },
+  "288": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/GAR1124BleachedCreamOakLeaf_BrownAcornFallMantleGarlandTableRunner_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "cream",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "acorn": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "289": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/MovingFlamelessLEDCreamGlassRechargeableVotiveCandleswithRemote-Setof4HMD1531_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "290": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/HMD1539Cream_BlueToilePrintFauxPlushPumpkinThanksgivingFallDecor_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "cream",
+          "purple"
+        ]
+      }
+    },
+    "error": null
+  },
+  "291": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1363RedJapaneseMapleLeafClassicFallWreathFrontDoorAutumnDecor_5_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "292": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FAR1481_2_AutumnalBeauty-BeigeBrownDriedLookRose_DahliawithCreamPeonyFallWater_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "beige",
+          "brown"
+        ],
+        "dahlia": [
+          "pink",
+          "brown"
+        ],
+        "peony": [
+          "cream",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "rose": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "293": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/AR1372-MiniOrangeMumFallFarmHouseFloralArrangementCenterpieceinNaturalWoodWindowBoxPlanter_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "red",
+          "yellow"
+        ],
+        "chrysanthemum 2": [
+          "orange",
+          "yellow"
+        ],
+        "chrysanthemum 3": [
+          "cream",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "chrysanthemum": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "294": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1398BlushingAutumn-MixedCreamPumpkin_Gourds_NeutralToneMapleLeaf_FauxHuskFallFrontDoorWreath_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "yellow"
+        ],
+        "gourd": [
+          "yellow",
+          "green"
+        ],
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "295": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/Mauve_Purple_Grapevine_Leaf_Foliage_Autumn_Fall_Front_Door_Wreath_FW1054-2_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "grape": [
+          "purple",
+          "green"
+        ],
+        "ivy": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "296": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FAR1577MauveOrangeAutumnTiliaLeafSprayinAmberToneBallVaseFallFoliageArrangement_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "tilia": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "297": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FAR1572YellowAspenLeafBranchinGoldenToneBulletVaseFallWaterIllusionArrangement_1_785f06d8-8a10-4e3f-a214-6e8d726d43af_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "aspen": [
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "298": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/78435HeadlessBirdAntiquedGoldSpookyHeadlessBirdHalloweenCandleHolder_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "299": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/HMD1718MovingFlamelessLEDGold14TaperCandleswithRemoteSetof2_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "300": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/AR1560VibrantYellowSunflower_CreamAstilbeFauxFloralFallArrangem_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow"
+        ],
+        "astilbe": [
+          "cream"
+        ],
+        "wildflower": [
+          "yellow"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "301": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/HMD1369CompositeFoamGoldMetallicBrushedPumpkinwithStemFallHomeDecor_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "gold"
+        ]
+      }
+    },
+    "error": null
+  },
+  "302": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1365GoldenYellow_BrownBirchLeafFallFrontDoorWreath_6_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "birch": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "303": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1307RusticAbundance-Green_BrownArtichokewithRealTouchMagnoliaLeafFallEveryd_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "artichoke": [
+          "green",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "304": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1750WildBittersweetBerries_TwigsinWhiteTexturedPotFallArrangement_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "red",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "305": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1308HarvestHomecoming-BrownArtichoke_OrangePumpkin_FallBerry_OakLeafThanksgi_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "cream"
+        ],
+        "berry": [
+          "white"
+        ],
+        "artichoke": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "306": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/RedPomegranate_FauxPinecone_BerryFallMantleGarlandTableRunnersquare_1800x1800.png",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ],
+        "eucalyptus": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pomegranate": [
+          "red",
+          "brown"
+        ],
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "307": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FAR1380GoldenHourFallHydrangea_BirchLeaf_OrangeCraterBerry_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "hydrangea": [
+          "orange",
+          "brown"
+        ],
+        "astilbe": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "birch": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "308": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1325FallBreeze_AutumnLeaves-MulticoloredOmbreMapleLeafPampasGrassFallFrontDoorAsymmet_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "orange"
+        ],
+        "pampas": [
+          "cream",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "309": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/EDW1091-PMDeluxeMixedEucalyptus_FernAllSeasonsGreeneryEverydayFrontDoorWr_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "gray"
+        ],
+        "fern": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "310": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/MSHRM-CHMediumClassicHarvestwithMushroomSet-PlushPumpkinLuxuryVelvetRealStemPumpkinFallDecor_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "311": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1310ChristmasFoliagewithFauxRedApple_WinterPineconeClassicHolidayMagnoliaWre_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "green",
+          "brown"
+        ],
+        "pine": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "apple": [
+          "red"
+        ],
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "312": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/FW1188Orange_GreenOmbreMapleLeafFrontDoorFallWreath_9073d7bb-bbdc-4179-920a-0d30649ee155_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "313": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/PPT1026PlushPumpkinLuxuryVelvetRealStemPumpkinFallDecor-Watermelon4_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "314": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/HMD1283OldCarriageHouseDistressedPaintedWoodCorbel_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "315": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/sage_velvet_pumpkin_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "316": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/HMD1365Hand-DippedSkinnyTaperLuxuryWaxCandle-White_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "317": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/MSHRM-WHGrandWoodlandHarvestMushroomSet-PlushMushroomLuxuryVelvetRealStemMushroomFallDecor_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "318": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/HMD1306VanceKitiraGreenWhiteMetallicFleckRitzTimberTaperHolidayCandleSetof4_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "319": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/HMD1559MauvePinkBoucleFabricPumpkinThanksgivingFallDecor_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "pink"
+        ]
+      }
+    },
+    "error": null
+  },
+  "320": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/HMD1367Hand-DippedSkinnyTaperLuxuryWaxCandle-WhiteSnowCovered_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "321": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/PlushPumpkinLuxuryVelvetRealStemPumpkinFallDecor-Putty10PPT1031_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "beige"
+        ]
+      }
+    },
+    "error": null
+  },
+  "322": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1291Red_OrangeAutumnalTwo-ToneMapleLeafClassicFallFrontDoorMantleWreath_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "323": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/Blush5plushpumpkinluxuryvelevetrealstempumpkinfalldecor_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "pink"
+        ]
+      }
+    },
+    "error": null
+  },
+  "324": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1306RedBurgundyAutumnMirVelvetOakLeaves_OrangeWildFlowerOnWispyTwigBaseFa_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "oak": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "325": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1345DarkBurgundy_FireRedFallCampfireFrontDoorWreathMantleWallDecor_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "orange"
+        ],
+        "oak": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "burgundy"
+        ],
+        "pinecone": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "326": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/HMD1363-RRedHand-DippedSkinnyTaperLuxuryWaxCandle-ChristmasRed_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "327": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/GAR1187RedJapaneseMapleLeafMantleGarlandFallCenterpieceTableRunner_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "328": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/FW1273FarmFieldHarvest-FrontDoorFallPumpkinWreath_5_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "daisy": [
+          "cream",
+          "yellow"
+        ],
+        "wildflower": [
+          "white",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "green",
+          "yellow"
+        ],
+        "grape": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "yellow",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "329": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/FW1212-PM30MidnightEucalyptusFallHalloweenFrontDoorIndoororOutdoorWreath_4_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "gray",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "330": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/stone_velvet_pumpkin_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "331": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/HMD1366Hand-DippedSkinnyTaperLuxuryWaxCandle-MatteGold_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "332": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/PlushPumpkinLuxuryVelvetRealStemPumpkinFallDecor-Platinum10PP1005_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "gray"
+        ]
+      }
+    },
+    "error": null
+  },
+  "333": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/PPT1023-PlushPumpkinLuxuryVelvetRealStemPumpkinFallDecor-Turquoise8_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "teal"
+        ]
+      }
+    },
+    "error": null
+  },
+  "334": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/PampasGrassPumpkinCenterpieceonBirchDiscFallFloralDecorArrangement-AvailableIn2Colors_1800x1800.png",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "335": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1356AutumnBotanicalBeautyAsymmetricalFrontDoorFallWreath_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "beige"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "gray"
+        ],
+        "fern": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "336": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1219MixedAutumnPumpkin_BurntOrangeSunflowers_CreamRanunculus_NeedleLeafEucalyptusFrontDoorFallWreath_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "orange",
+          "red"
+        ],
+        "ranunculus": [
+          "cream"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "gray"
+        ],
+        "fern": [
+          "orange"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "337": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/HMD1268MovingFlamelessLEDAmberGlassPillarCandleswithRemote-Setof3_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "338": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1119BurgundyHydrangea_GoldenRanunculusFrontDoorFallWreath_4_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "burgundy",
+          "pink"
+        ],
+        "ranunculus": [
+          "burgundy",
+          "pink"
+        ],
+        "rose": [
+          "burgundy"
+        ]
+      },
+      "leaves": {
+        "ivy": [
+          "green",
+          "purple"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "yellow",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "339": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FAR1582BurgundyRedBloominMagnoliaBranchesinModernOvalPocketVaseEverydayFallWaterIllusionArrangement_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "magnolia": [
+          "red"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "340": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/HMD1269MovingFlamelessLEDAmberGlassPillarCandleswithRemote-Setof6_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "341": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1755Dried-LookFauxAutumnDahliaBushFoliageOutdoorUrnFillerFrontPorchArrangement-Availablein2C_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "dahlia": [
+          "white",
+          "blue"
+        ]
+      },
+      "leaves": {
+        "dahlia": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "342": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FAR1387FallBrownMagnoliaLeaf_CreamBloomswithWheatGrass_HawthornBerryNeutralFlowerWaterIllusionArrangement_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "magnolia": [
+          "cream",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "magnolia": [
+          "green",
+          "brown"
+        ],
+        "grass": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "cream",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "343": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FAR1477AutumnGrandeur-BrownDriedLookArtichoke_BeigeHydrangea_CreamRose_Foxtail_MapleLeafWaterIllusio_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "artichoke": [
+          "brown",
+          "orange"
+        ],
+        "hydrangea": [
+          "peach",
+          "pink"
+        ],
+        "rose": [
+          "cream"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "344": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/MovingFlamelessLEDFauxBirchPillarCandleswithRemote6_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "345": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/MovingFlamelessLEDWhiteFauxBirchPillarCandleswithRemote-Setof32_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "346": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/HMD1708MovingFlamelessLEDCream14TaperCandleswithRemotSetof2_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "347": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/MovingFlamelessLEDCream9TaperCandleswithRemoteSetof2HMD1388_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "348": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/HMD1151MovingFlamelessLEDSmokeyGlassPillarCandleswithRemote-Setof3_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "349": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/LargeMovingFlamelessLEDSmokeyGlassPillarCandleswithRemote-Setof3HMD1489_1_29170c7c-a118-464e-b6a1-b4ffb7bc6604_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "350": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/HMD1543ThanksgivingFallHarvestWeatheredPumpkinSetof6_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "351": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/HMD1638LargeMovingFlamelessLEDCreamGlassPillarCandleswithRemote-Setof3_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "352": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1418-26WhitePumpkin_Gourd_LavenderAstilbe_BleachedPinecones_GreenMossBallsonIvyVineFauxFallFrontDoorWreath_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "ivy": [
+          "green",
+          "pink"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ],
+        "gourd": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "353": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1940-LAR1940-SOrangeFauxZinniaMumBushOutdoorFallArrangementUrnFiller_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "zinnia": [
+          "orange"
+        ],
+        "chrysanthemum": [
+          "orange"
+        ]
+      },
+      "leaves": {
+        "generic": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "354": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1329_5_Autumn_sSplendor-MixedFallFoliage_WheatGrassFallFrontDoorWreath_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ],
+        "eucalyptus": [
+          "orange",
+          "yellow"
+        ],
+        "oak": [
+          "yellow",
+          "green"
+        ],
+        "grass": [
+          "brown",
+          "gold"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "355": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/FW1256WildBittersweetBerry_TwigWispyFallFrontDoorWreath_4_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "356": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FLWSTM3384GreenPumpkinonVineFauxFallBranchStem-13_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "vine": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "green",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "357": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/HMD1280BlackWeatheredThanksgivingHarvestHalloweenColorfulPumpkinSetof7_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "black",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "358": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1945-SPurpleFauxClassicMumBushOutdoorFallArrangementUrnFiller_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "purple"
+        ]
+      },
+      "leaves": {
+        "chrysanthemum": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "359": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FAR1666LifelikeFallSiennaBrownDahlia_YellowPuffGumBlossomwithRealTouchMagnoliaEverydaySpringFallWaterIllusionArran_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "dahlia": [
+          "orange",
+          "pink"
+        ],
+        "gum blossom": [
+          "yellow",
+          "white"
+        ],
+        "magnolia": [
+          "green",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "magnolia": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "360": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1353Dried-LookWheatGrass_NeutralToneNorfolkPineFrontDoorFallWreath_Copy_5_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "wheat": [
+          "tan",
+          "yellow"
+        ],
+        "grass": [
+          "tan",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "361": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/FAR1237-PMBeigePampasGrassEverydayFallWaterIllusionArrangementin_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "pampas": [
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "362": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/HMD1696D.StevensGoldenBrownTaffeta10Yd.Wire-LinedRibbonSpool_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "363": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FDS132GoldenYellowPear_Birch_MapleLeafFlatCenterpieceArrangementDecorativeFallSwa_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "birch": [
+          "yellow",
+          "orange"
+        ],
+        "maple": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pear": [
+          "yellow",
+          "orange"
+        ],
+        "berry": [
+          "green",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "364": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/HMD1540MediumGreen_OrangeSpeckledAcornSquashThanksgivingHarvestFallHomeDecor_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "gourd": [
+          "orange",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "365": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/GAR1159Dried-LookNeutralToneNorfolkPineChristmasFrontDoorGarlandHolida_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "pine": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "366": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1985-LAR1985-SAutumnEspressoPrivetBushFauxFoliageOutdoorUrnFillerSummerFallFrontPorchArrangement_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "privet": [
+          "brown",
+          "pink"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "367": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/GAR1123RusticBrownOakLeaf_AutumnAcornFallTableRunnerMantleGarland_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "368": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/PPT1034WeatheredHarvestThanksgivingColorfulPumpkin_GourdSetof9_4_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ],
+        "gourd": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "369": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/HMD1705MediumOrangePumpkinsClassicFallThanksgivingHomeDecorAssortedSetof6_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "red"
+        ],
+        "gourd": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "370": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/HMD1475OrangeWeatheredThanksgivingAutumnHarvestHalloweenFallPumpkinSet_4_1800x1800.png",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "371": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/GAR1183Dried-LookWheatGrass_NeutralToneNorfolkPineGarlandMantleDecor_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "wheat": [
+          "tan",
+          "yellow"
+        ],
+        "pine": [
+          "green",
+          "tan"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "372": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1401SunflowerFieldForager-WhiteSunflower_GoldBerry_QuailBirdwithOakLeavesFallFrontDoorWreath_3_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "white",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "oak": [
+          "orange",
+          "green"
+        ],
+        "other": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "yellow",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "373": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/GAR1106Dried-LookAutumnGrassRaffia_FallBerryMantleGarlandTableRunner_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "grass": [
+          "tan",
+          "cream"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "cream",
+          "tan"
+        ]
+      }
+    },
+    "error": null
+  },
+  "374": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/HMD1515Metal_GlassArachnidSpiderTerrariumSpookyHalloweenDecor_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "air plant": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "375": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/products/4goldmicalambskin_1800x1800.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "gold",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "376": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FDS1098FallHarvestPumpkinHangingBasketFallFloralArrangementSwag_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "green",
+          "brown"
+        ],
+        "fern": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ],
+        "berry": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "377": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1878RusticMeadow-ToadstoolMushroom_GreenPumpkin_OliveGreenGrass_HawthorneBerryFallOutdoorUrnFillerArrang_1_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "chrysanthemum": [
+          "peach",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "ivy": [
+          "green",
+          "purple"
+        ],
+        "fern": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ],
+        "pear": [
+          "green",
+          "brown"
+        ],
+        "berry": [
+          "cream",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "378": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/AR1995Lifestyle_1800x1800.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "cream"
+        ],
+        "cosmos": [
+          "pink"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "379": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1145MagentaHaze-Sunflower_Hydrangea_Ranunculus_ZinniaSummerFallFrontDoorWreath_2_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "pink",
+          "orange"
+        ],
+        "hydrangea": [
+          "purple",
+          "pink"
+        ],
+        "ranunculus": [
+          "pink",
+          "red"
+        ],
+        "zinnia": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "ivy": [
+          "red",
+          "green"
+        ],
+        "fern": [
+          "white",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "380": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/FW1305NaturalElegance-AutumnBrown_CreamMapleLeaf_BerrywithMiniCafeAuLaitMu_1800x1800.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "chrysanthemum": [
+          "cream",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "cream",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "cream"
+        ]
+      }
+    },
+    "error": null
+  },
+  "381": {
+    "img_link": "https://cdn.shopify.com/s/files/1/0812/2699/files/73520-00-AntiquedGoldGothicFootedPotSpookyHalloweenDecorObject_1800x1800.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  }
+}

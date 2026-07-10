@@ -1,0 +1,1385 @@
+{
+  "0": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4310267.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "1": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4501658.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "2": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4501672.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "gold"
+        ]
+      }
+    },
+    "error": null
+  },
+  "3": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4510522.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "4": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4511658.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pinecone": [
+          "gold",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "5": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4511659.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pinecone": [
+          "gold",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "6": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4511660.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pinecone": [
+          "gold",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "7": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4511665.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "acorn": [
+          "brown",
+          "gold"
+        ]
+      }
+    },
+    "error": null
+  },
+  "8": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4559131.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "9": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4602409.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "leaf": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "10": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4602410.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "other": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "11": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4602417.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "12": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4606103.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "red",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "13": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4606770.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "14": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4608014.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "15": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4608015.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "16": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4608016.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "17": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4610393.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "18": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4610394.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "19": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4611792.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "20": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4612161.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "21": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4612162.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "gold"
+        ],
+        "grape": [
+          "gold"
+        ]
+      }
+    },
+    "error": null
+  },
+  "22": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4612163.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "23": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4612188.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "leaf": [
+          "green",
+          "gold"
+        ]
+      },
+      "fruit": {
+        "apple": [
+          "gold",
+          "bronze"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "24": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4612221.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "25": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4612232.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "26": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4612234.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "27": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4617710.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "28": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4617711.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "29": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4617712.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "30": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4617794.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "31": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4617797.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "32": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4617798.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "gold"
+        ],
+        "apple": [
+          "gold"
+        ]
+      }
+    },
+    "error": null
+  },
+  "33": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4617803.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "34": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4619539.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "clear"
+        ]
+      }
+    },
+    "error": null
+  },
+  "35": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4619540.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "clear"
+        ]
+      }
+    },
+    "error": null
+  },
+  "36": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4619577.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "purple"
+        ]
+      }
+    },
+    "error": null
+  },
+  "37": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4621399.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "38": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4625322.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "39": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4625324.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "40": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4625325.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "41": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4625326.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "42": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4625327.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "43": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4625331.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "rose": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "44": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4625332.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "rose": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "rosehip": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "45": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4641713.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "46": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4652188.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "47": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4656285.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "red"
+        ],
+        "daisy": [
+          "pink",
+          "red"
+        ]
+      },
+      "leaves": {
+        "leaf": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "48": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4656286.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "49": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4656287.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "50": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4656344.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "51": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4656356.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "52": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4656359.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "ivy": [
+          "green",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "53": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4656360.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "black"
+        ]
+      }
+    },
+    "error": null
+  },
+  "54": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4656361.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "pumpkin": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "55": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/4671329.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "56": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/F4542124.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "leaf": [
+          "red",
+          "gold"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "57": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/F4602384.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "58": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/F4602390.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "white",
+          "yellow"
+        ],
+        "daisy": [
+          "red"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "59": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/F4602391.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "orange",
+          "yellow"
+        ],
+        "wildflower": [
+          "red",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "generic": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "60": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/F4602397.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "white",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "wildflower": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "61": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/F4602399.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "sunflower": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "62": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/F4602403.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "chrysanthemum": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "63": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/F4602415.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "hydrangea": [
+          "white"
+        ],
+        "wildflower": [
+          "orange"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ],
+        "eucalyptus": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ],
+        "berry": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "64": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/F4602622.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pinecone": [
+          "brown",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "65": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/F4606101.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "66": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/F4608019.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "pomegranate": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pomegranate": [
+          "red",
+          "pink"
+        ]
+      }
+    },
+    "error": null
+  },
+  "67": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/F4608020.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "orange"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "68": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/F4608024.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "kumquat": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "kumquat": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "69": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/F4622794.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "green",
+          "purple"
+        ],
+        "chrysanthemum_2": [
+          "orange",
+          "red"
+        ]
+      },
+      "leaves": {
+        "chrysanthemum": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "70": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/F4622795.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "yarrow": [
+          "yellow",
+          "purple"
+        ]
+      },
+      "leaves": {
+        "yarrow": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "71": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/F4622797.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "beech": [
+          "red",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "72": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/F4625329.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "green",
+          "pink"
+        ],
+        "maple": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "73": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/F4625330.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "74": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/F4633182.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "75": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/F4633183.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "76": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/F4633184.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "77": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/F4633187.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "burgundy",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "78": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/F4633188.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "purple",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "wildflower": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "79": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/F4641712.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wheat": [
+          "brown",
+          "white"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "80": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/F4641799.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "81": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/F4641800.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "generic": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "82": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/W4606102.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "red",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "83": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/W4608005.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "orange",
+          "red"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "84": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/W4608008.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "astilbe": [
+          "orange",
+          "green"
+        ]
+      },
+      "leaves": {
+        "grass": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "85": {
+    "img_link": "https://www.razimports.com/media/catalog_product/ImagesFiles2/W4625328.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  }
+}

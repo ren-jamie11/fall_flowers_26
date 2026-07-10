@@ -1,0 +1,775 @@
+{
+  "0": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/PF239-Fall-Foliage-Antler-Leaves_74562577-e227-4fa0-9802-916069a1476d.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "red",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "1": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/PF159-Artificial-Fall-Maple-Leaves.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "2": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/PF253-Fall-Oak-Leaves-with-Acorns_f7f300ee-565d-4fec-8194-eee7302b86b8.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "acorn": [
+          "green",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "3": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/PF238-Artificial-Orange-Oak-Leaves_60c78b6b-5278-435d-8b98-8aa998f11bf5.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "4": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/PF161-Yellow-Sunflower-Stem.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "sunflower": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "5": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/PF162-Gold-Yellow-Sunflower-Spray_1a01ef64-ed74-4c89-8ea3-3510d8ca1e6a.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "sunflower": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "6": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/PF237-Purple-Sunflower_a0963877-7988-469b-bff1-5fa8fb898579.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "purple",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "sunflower": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "7": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/PF255-Real-Touch-Prestige-Sunset-Rose_0a1f0230-9ee0-4236-890a-a2ce7622f6a5.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "peach",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "rose": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "8": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/PF270-Smoketree-Leaves-in-Burgundy.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "smoketree": [
+          "red",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "9": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/PF261-Pomegranate-Branch.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "pomegranate": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pomegranate": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "10": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/PF273-Dried-Look-Mauve-Dahlia.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "dahlia": [
+          "pink",
+          "green"
+        ]
+      },
+      "leaves": {
+        "dahlia": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "11": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/PF263-Brown-Artificial-Magnolia-Leaves.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "12": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/PF265-Artificial-Fig-Branch.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "fig": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "fig": [
+          "purple",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "13": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/PF266-Artificial-Fig-Leaves.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fig": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "14": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/PF166-Artificial-Eucalyptus-Pods_9985e7b1-20bd-4df1-b195-29a9412e25cc.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "eucalyptus": [
+          "green",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "15": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/PF111-Pink-Faux-Hellebore.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "hellebore": [
+          "pink",
+          "green"
+        ]
+      },
+      "leaves": {
+        "hellebore": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "16": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/Peach-Pink-Real-Touch-Rose-Stem_7d714d78-5167-4407-a5e0-74fbb11561bb.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "peach",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "rose": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "17": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/PF88-Yellow-Faux-Tea-Roses_6d229970-23d5-4d1c-9ca3-d4b1ba585932.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "rose": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "18": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/PF105-Artificial-Olive-Leaf-Branch.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "olive": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "olive": [
+          "black"
+        ]
+      }
+    },
+    "error": null
+  },
+  "19": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/PF177-Twisted-Willow-Fake-Branch.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "willow": [
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "20": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/PF126-Green-Double-Hydrangea_8e74cdc5-ee29-496c-9cf6-dea970ccbbca.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "green",
+          "white"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "21": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/PF32-White-Double-Hydrangea.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "white"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "22": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/PF197-Red-Real-Touch-Hydrangea.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "red",
+          "green"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "23": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/PF243-Red-Artificia-Magnolia-Bloom_1b622b9a-e431-4ae1-876b-d365a332dbf2.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "magnolia": [
+          "red"
+        ]
+      },
+      "leaves": {
+        "magnolia": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "24": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/PF102-Red-Artificial-Raspberry_4eb333f7-14c8-437f-acb3-7e5e3046f0de.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "raspberry": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "25": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/PF103-Artificial-Blackberry_57345d19-2c09-43d9-bcff-cfcc4620d8aa.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "blackberry": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "black"
+        ]
+      }
+    },
+    "error": null
+  },
+  "26": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/PF216-Artificial-Silver-Brunia-Berries.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "gray"
+        ]
+      }
+    },
+    "error": null
+  },
+  "27": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/PF242-Wild-Sedum-Green-Cluster_12d3403e-ad26-41ff-a277-f8ce2f39e9b7.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "sedum": [
+          "green"
+        ]
+      },
+      "leaves": {
+        "sedum": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "28": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/PF167-Burgundy-Rose-Hips_05626321-fd52-480d-bd7d-37edd3d9e564.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "rose": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "29": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/PF104-Burgundy-Fake-Rose-Hips_ca777271-f72b-4a5e-8bf6-7d19d1abe9dc.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "rose": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "rosehip": [
+          "red",
+          "purple"
+        ]
+      }
+    },
+    "error": null
+  },
+  "30": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/PF248-Artificial-Hydrangea-in-Cream-White_d6268d66-07e7-42b5-9429-1b8ecd882456.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "white"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "31": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/PF112-Cream-White-Fake-Hellebore.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "hellebore": [
+          "white",
+          "green"
+        ]
+      },
+      "leaves": {
+        "hellebore": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "32": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/PF179-Green-Faux-Hops.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "hops": [
+          "light green",
+          "white"
+        ]
+      },
+      "leaves": {
+        "hops": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "33": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/PF232-Faux-Coral-Rose-Spray_8a9d5238-e129-4c1f-855b-2fba3ae04391.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "coral",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "rose": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "34": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/PF196-Green-Faux-Hydrangea-Stem.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "green",
+          "white"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "35": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/PF26-Green-Tall-Real-Touch-Hydrangea.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "green",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "36": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/3A4A9389_b.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "rose": [
+          "peach",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "red",
+          "orange"
+        ],
+        "eucalyptus": [
+          "green",
+          "teal"
+        ]
+      },
+      "fruit": {
+        "apple": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "37": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/3A4A9434.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "dahlia": [
+          "pink",
+          "cream"
+        ],
+        "waratah": [
+          "red",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "fig": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "38": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/PF271-Large-Faux-Olive-Branch.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "olive": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "olive": [
+          "green",
+          "black"
+        ]
+      }
+    },
+    "error": null
+  },
+  "39": {
+    "img_link": "https://prestigebotanicals.com/cdn/shop/files/PF256-Light-Yellow-Real-Touch-Rose_17f183db-8d17-4aeb-b9c6-6bf4c093ea16.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "yellow",
+          "cream"
+        ]
+      },
+      "leaves": {
+        "rose": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  }
+}

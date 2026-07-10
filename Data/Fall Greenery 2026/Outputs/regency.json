@@ -1,0 +1,1152 @@
+{
+  "0": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH13289-BRGD.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "beech": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "1": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH13015-NACH.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "2": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH13116-NATW.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "cotton": [
+          "white",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "3": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH12867-HAMX.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "magnolia": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "4": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH13430-CRBR.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "cream",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "millet": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "5": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH13404-BEBR.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "generic": [
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "cream",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "6": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH13428-CRBR.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "cream",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "millet": [
+          "brown",
+          "tan"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "7": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH11849-HAMX.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "green"
+        ],
+        "gourd": [
+          "yellow",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "8": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH13297-BURG.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "red",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "9": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH12670-LVGR.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "gray"
+        ]
+      }
+    },
+    "error": null
+  },
+  "10": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH13429-CRBR.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "cream",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "11": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH12872-CISP.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "cabbage": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "12": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH12999-AMCP.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "13": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH13014-NACH.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "14": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH12762-LVGR.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "gray",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "15": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH13357-CRBR.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "hydrangea": [
+          "cream",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "brown"
+        ],
+        "fern": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "cream"
+        ],
+        "berry": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "16": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH12973-CISP.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "17": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH12669-CRM.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "18": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH12957-CISP.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "19": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH13069-CRBR.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "salal": [
+          "cream",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "20": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH13063-HAMX.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "21": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH13072-CISP.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "22": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH13035-TAN.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "brown",
+          "pink"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "23": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH13029-CISP.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "ranunculus": [
+          "brown",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "ranunculus": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "24": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH13520-AUTM.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "cream",
+          "yellow"
+        ],
+        "berry": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "25": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH13067-HAMX.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "yellow"
+        ],
+        "oak": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "pomegranate": [
+          "red",
+          "orange"
+        ],
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "26": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH12988-ANBR.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "27": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH13280-CRM.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "cream"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "28": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH13514-AUTM.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "brown"
+        ],
+        "fern": [
+          "gold",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ],
+        "acorn": [
+          "gold",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "29": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH12921-CHAG.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "30": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH12953-BRWN.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "acorn": [
+          "brown",
+          "tan"
+        ]
+      }
+    },
+    "error": null
+  },
+  "31": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH13031-BRWN.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "brown",
+          "tan"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "32": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH13365-NABR.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "tan"
+        ]
+      }
+    },
+    "error": null
+  },
+  "33": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH13150-CRBR.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "chinese lantern": [
+          "cream"
+        ]
+      }
+    },
+    "error": null
+  },
+  "34": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH12409-ORNG.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "35": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH13094-CRM.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "tan"
+        ]
+      }
+    },
+    "error": null
+  },
+  "36": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH13095-CRM.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "tan"
+        ]
+      }
+    },
+    "error": null
+  },
+  "37": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH13108-BUTN.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "tan"
+        ]
+      }
+    },
+    "error": null
+  },
+  "38": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH12739-HAMX.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "39": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH13070-CRBR.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "salal": [
+          "brown",
+          "cream"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "40": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH12954-ORNG.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "41": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH13358-AUTM.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "brown"
+        ],
+        "maple": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ],
+        "apple": [
+          "red",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "42": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH13033-CRM.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "leaf": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "white",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "43": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH13431-BWCR.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "thistle": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "44": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH10769-MULT.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "45": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH12916-NAOR.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "bittersweet": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "46": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH12871-HAMX.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "47": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH11825-HAMX.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ],
+        "crabapple": [
+          "yellow",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "48": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH12998-AMCP.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "49": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH13102-CRM.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "cream"
+        ]
+      }
+    },
+    "error": null
+  },
+  "50": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH13016-AUBG.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "ruscus": [
+          "red",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "51": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH13356-CRBR.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "cream"
+        ],
+        "berry": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "52": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH13018-AUBG.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "ruscus": [
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "53": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH12047-ORRD.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "54": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH13103-BRWN.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "55": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH13296-CRBR.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "dogwood": [
+          "cream",
+          "yellow"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "56": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH12464-ANBL.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "gray",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "57": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH13415-CRM.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "58": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH12922-CHAG.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "acorn": [
+          "brown",
+          "beige"
+        ]
+      }
+    },
+    "error": null
+  },
+  "59": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH12915-NAOR.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "yellow",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "60": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH13372-CRBR.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "cream",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "acorn": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "61": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH13366-NABR.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "62": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH13017-AUBG.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "ruscus": [
+          "brown",
+          "red"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "63": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH12664-CRUM.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ],
+        "gourd": [
+          "tan",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "64": {
+    "img_link": "https://www.regency-rib.com/media/product/MTH12694-HAMX.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ],
+        "pine": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ],
+        "berry": [
+          "red",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  }
+}

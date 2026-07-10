@@ -1,0 +1,6535 @@
+{
+  "0": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG70335.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "ranunculus": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "gray"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "1": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG70293.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "ranunculus": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "lambs ear": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "2": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG7030.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "ranunculus": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "lambs ear": [
+          "green",
+          "gray"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "3": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG70312.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "ranunculus": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "gray"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "4": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE61485.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "sage": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "5": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE6142.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "sage": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "6": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE61502.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "sage": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "7": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE6146_af91cd80-aaa4-4c8f-8e5b-55f6ab4abeb9.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "sage": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "8": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE61406.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "sage": [
+          "brown",
+          "gold"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "9": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE61382_d4c5aa75-2bbb-4aa2-be45-66003b7c978c.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "sage": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "10": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE61443.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "sage": [
+          "brown",
+          "gold"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "11": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/YL90903.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "artichoke": [
+          "green",
+          "purple"
+        ]
+      }
+    },
+    "error": null
+  },
+  "12": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/OS42782.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "daisy": [
+          "cream",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "daisy": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "13": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/OS42802.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "daisy": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "daisy": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "14": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/OS42822.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "daisy": [
+          "orange",
+          "red"
+        ]
+      },
+      "leaves": {
+        "daisy": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "15": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG70185.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "daisy": [
+          "orange",
+          "yellow"
+        ],
+        "wildflower": [
+          "cream"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "16": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG7016.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "daisy": [
+          "orange",
+          "yellow"
+        ],
+        "wildflower": [
+          "white",
+          "cream"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "17": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG70154.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "daisy": [
+          "orange",
+          "yellow"
+        ],
+        "wildflower": [
+          "white"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "18": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG70172.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "daisy": [
+          "orange",
+          "yellow"
+        ],
+        "wildflower": [
+          "cream"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "19": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/YL2060_4_b88ecfbb-a9f1-4ce3-992b-4135a0bb0f18.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "orange",
+          "red"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "20": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/YL2062_6.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "red",
+          "cream"
+        ]
+      },
+      "leaves": {
+        "leaf": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "21": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/YL2058_6_9661eb63-21a2-484e-8ba3-ac0f1db88a44.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "purple",
+          "cream"
+        ]
+      },
+      "leaves": {
+        "oak": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "22": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XVP45222.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "23": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XVP4523.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "24": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XVP98163.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "25": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XVP98172.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "26": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE61063.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "sage": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "27": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE61083.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "sage": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "28": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE6104.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "sage": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "29": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE61002.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "sage": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "30": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE61022.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "sage": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "31": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/YL90772_590bad51-e50f-474c-a4dc-99349702bb90.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "leaf": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "32": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/YL90769.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "orange",
+          "red"
+        ]
+      },
+      "leaves": {
+        "leaf": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "33": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/YL90768.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "red"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "34": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/products/FG9691.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "35": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/products/FG9690.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "red",
+          "dark red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "36": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/products/FG9692.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "37": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/CS4765.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "38": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/CS47633.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "39": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/products/V91665.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "bog pimpernel": [
+          "red",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "40": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/products/V91669.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "bog pimpernel": [
+          "green",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "41": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/products/V91668.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "bog pimpernel": [
+          "green",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "42": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/products/V91667.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "bog pimpernel": [
+          "red",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "43": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/products/V91670.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "pimpernel": [
+          "green",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "44": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/products/V91666.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "pimpernel": [
+          "red",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "45": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XF33223.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "bohicket": [
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "46": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XF332252.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "ruscus": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "47": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XF332246.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "ruscus": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "48": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XF332223.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "ruscus": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "49": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/EW4362.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "brown"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "50": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XG47132.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "yellow",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "51": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XG4712.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "white",
+          "cream"
+        ]
+      }
+    },
+    "error": null
+  },
+  "52": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XG4714.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "purple"
+        ]
+      }
+    },
+    "error": null
+  },
+  "53": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XUA10033.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "bougainvillea": [
+          "pink",
+          "purple"
+        ]
+      },
+      "leaves": {
+        "bougainvillea": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "54": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/BR75693.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "55": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/BR75704.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "56": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/BR75685.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "57": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/YL4132_6c286c5e-33f0-4196-82c2-613668b9f522.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "bramble": [
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "58": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG41253.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "green",
+          "gray"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "59": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG41212.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "orange"
+        ],
+        "apple": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "60": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG41232_502b2b8e-35b1-47d2-8524-0ade7c6d96f2.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "61": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG41273.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "gray",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "62": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE6032.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "63": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE6030_29afbc6a-e95b-4f42-8848-dc2c0cd4bf8a.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "64": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE60312_1677d99c-29bb-45f5-be46-4664805f25c4.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "65": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/V4013.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "burlington": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "66": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/BR75562.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "beech": [
+          "brown",
+          "copper"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "67": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/BR75572.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "beech": [
+          "brown",
+          "copper"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "68": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/BR7555_1e26ae25-f371-4bd4-82ac-d7a1c392df84.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "beech": [
+          "brown",
+          "copper"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "69": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XVP9830.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "green",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "70": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XUA1026_7bc579f5-dfdf-4542-aedc-e7282bedb040.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "canna": [
+          "burgundy",
+          "purple"
+        ]
+      },
+      "leaves": {
+        "canna": [
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "71": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XUA1025.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "canna": [
+          "brown",
+          "red"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "72": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XUA1024_3.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "canna": [
+          "brown",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "canna": [
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "73": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/HTZ3026.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "coneflower": [
+          "brown",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "grass": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "74": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/HTZ3028.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "coneflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "grass": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "75": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TG73003.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "76": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG40693.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "cattail": [
+          "brown",
+          "gray"
+        ]
+      },
+      "leaves": {
+        "cattail": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "77": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG40675.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "cattail": [
+          "green",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "cattail": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "78": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/OS41008.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "gingko": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "79": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/BR75302.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "cattail": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "grass": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "80": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/BR75312_cdd59801-5ba2-4ce8-b416-699b234e17c4.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "cattail": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "olive": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "81": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/BR75292.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "cattail": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "82": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/OS4559_f85d4018-8188-475d-ae24-7d393e15c1b8.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "orange",
+          "pink"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "83": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE6089.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "84": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE60872.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "85": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE60834.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "other": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "86": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE60852_1f414770-647d-42ae-bc0a-83e1aac9ff0d.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "87": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/V40012.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "88": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/V4000_6909ef28-4337-4701-bdc4-8b65358dbd4b.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "boxwood": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "89": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XH61782.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "90": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XH1112.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "pine": [
+          "brown",
+          "gold"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "91": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XSL3030.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "cream",
+          "white"
+        ]
+      },
+      "leaves": {
+        "chrysanthemum": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "92": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XSL3029.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "orange",
+          "red"
+        ]
+      },
+      "leaves": {
+        "chrysanthemum": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "93": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XSL3031.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "chrysanthemum": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "94": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/CS47503.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "cattail": [
+          "beige"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "95": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/CS47412.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "cattail": [
+          "brown"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "96": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/CS4752_900e5afa-6825-4225-9336-a52e3a60443f.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "cattail": [
+          "beige"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "97": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/CS4743.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "cattail": [
+          "tan"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "98": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TG9368.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "99": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TG9367.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "green",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "100": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TG9369.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "101": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/OS4132.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "cosmos": [
+          "brown",
+          "green"
+        ]
+      },
+      "leaves": {
+        "cosmos": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "102": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/OS4126.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "cosmos": [
+          "cream",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "cosmos": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "103": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/OS4128.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "cosmos": [
+          "orange",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "cosmos": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "104": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/OS4130.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "cosmos": [
+          "brown"
+        ]
+      },
+      "leaves": {
+        "cosmos": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "105": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/OS4464_2bc4dd91-ca10-40de-b788-3c619dca35fe.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "cream",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "106": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/OS4467.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "blue",
+          "green"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "107": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/OS4465.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "108": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/OS41133.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "red",
+          "peach"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "beige"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "109": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/OS41153.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "red",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "oak": [
+          "green",
+          "cream"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "110": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/OS41113.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "cream",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "oak": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "111": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XUA11284.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "daisy": [
+          "purple",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "generic": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "112": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XUA11303.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "daisy": [
+          "brown",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "leaf": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "113": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XUA1124.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "daisy": [
+          "white",
+          "cream"
+        ]
+      },
+      "leaves": {
+        "daisy": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "114": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XUA1126.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "daisy": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "leaf": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "115": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XAW2483.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "116": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XAW24892.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "117": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XAW2481_4.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "118": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XAW2488.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "119": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XAW2485.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "120": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XAW24872.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "121": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG4024.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "white",
+          "pink"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "122": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG4194.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "heather": [
+          "pink",
+          "white"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "123": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XG4048.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "124": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG40222.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "white",
+          "pink"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "125": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG4046.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "126": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG4196.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "heather": [
+          "pink",
+          "white"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "127": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG40202.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "white",
+          "yellow"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "128": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG41982_e8ccd0c8-9a2c-46da-b005-3f28a660a729.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "heather": [
+          "pink",
+          "white"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "129": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG4044.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "130": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XUA1039.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "purple",
+          "pink"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "131": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XMJ79617.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pinecone": [
+          "gold",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "132": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XMJ7962_b69db69e-a3bc-47b5-8d70-94b3222405d3.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "133": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE60152.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "134": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE6016_8ef423a1-7ab4-49f0-ae39-ce74b9fad7e7.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "135": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE60134.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "136": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE60143.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "137": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/WH1086.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "daisy": [
+          "cream",
+          "pink"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "138": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/WH1080.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "daisy": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "139": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XVP45012.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "orange",
+          "brown"
+        ],
+        "eucalyptus": [
+          "brown",
+          "yellow"
+        ],
+        "magnolia": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "140": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/BE1553_45c62c35-15e6-421c-99e0-11acf8a56d10.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "pink",
+          "purple"
+        ]
+      },
+      "leaves": {
+        "wildflower": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "141": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/BE1555_ab4422d2-88ed-4727-805f-1956839cf8f1.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "red",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "ruscus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "142": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/RA4002_267c0f18-0ea0-416e-9d1c-11ab9415860e.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "ginkgo": [
+          "brown",
+          "gold"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "143": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/RA4000_90a671da-e5f4-4eaf-bcda-1ea77f12cce5.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "ginkgo": [
+          "cream",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "144": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/products/FG5752.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "fennel": [
+          "white",
+          "cream"
+        ]
+      },
+      "leaves": {
+        "fennel": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "145": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/products/FG5754.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "fennel": [
+          "yellow",
+          "cream"
+        ]
+      },
+      "leaves": {
+        "fennel": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "146": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/products/FG5756.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "fennel": [
+          "orange",
+          "purple"
+        ]
+      },
+      "leaves": {
+        "fennel": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "147": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE60284.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "branch": [
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "148": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE6027.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "other": [
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "149": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE6029.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "cypress": [
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "150": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/RA40133_d8903085-3b60-44c2-a77c-1f6d3aa406b6.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "tan",
+          "white"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "151": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/RA40172.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "tan",
+          "yellow"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "152": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/RA40153.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "beige",
+          "yellow"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "153": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/YL2032.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "ash": [
+          "beige",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "154": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/YL2030.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "beech": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "155": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/YL2026_0cb21b7d-743f-44d6-a44e-ea9390933489.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "beech": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "156": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/YL2028.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "beech": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "157": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/QC22120_2.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "158": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/QC22121.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "159": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XG4701.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "brown"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "160": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XG4700.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "brown",
+          "cream"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "161": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XM6327.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "brown",
+          "white"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "162": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XM6321.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "brown",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "163": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XM6325.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "brown",
+          "white"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "164": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XM6323_28b4f65b-c9a1-44aa-b789-2a8941c9d9c9.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "brown",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "165": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XEW51842.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "brown",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "166": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XEW5182.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "brown",
+          "beige"
+        ]
+      }
+    },
+    "error": null
+  },
+  "167": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG42243.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "orange"
+        ]
+      },
+      "leaves": {
+        "wildflower": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "168": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG4228.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "ivy": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "169": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG4230_1a08f38b-7bf9-4a0d-a7f7-7283cc50d9fd.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "orange"
+        ]
+      },
+      "leaves": {
+        "other": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "170": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG42263.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "other": [
+          "green",
+          "white"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "171": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG41662.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "goldenrod": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "172": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG4168.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "goldenrod": [
+          "yellow",
+          "green"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "173": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG41702.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "goldenrod": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "174": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG41723.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "goldenrod": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "175": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG4083.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "gomphrena": [
+          "purple",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "gomphrena": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "176": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG4084.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "gomphrena": [
+          "red"
+        ]
+      },
+      "leaves": {
+        "gomphrena": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "177": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/MJ6435.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "black"
+        ]
+      }
+    },
+    "error": null
+  },
+  "178": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/MJ6436_d7c449fa-a934-406e-8087-f5e1e42e5e3a.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "179": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/MJ6437_c053fb9e-99fe-47eb-ba96-cd86fb15a8c2.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "180": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE8927_5.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "181": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE89263.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "182": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/products/TE8936.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "cream"
+        ]
+      }
+    },
+    "error": null
+  },
+  "183": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/products/TE8938.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "184": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE8935_aae573d6-b528-4d3f-b618-dd945bbfcd07.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "185": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE8933.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "186": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE8930.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "187": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/products/RH4035.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "red",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "chrysanthemum": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "188": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/products/V916823_d963ae10-8600-4fe3-8a64-7f8d47e07eda.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "hops": [
+          "brown",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "189": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/products/V91624.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "hops": [
+          "brown",
+          "beige"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "190": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/products/V91634_72d32b37-cdbc-401d-ab15-e406ebcbd51f.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "hops": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "191": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/products/V91633.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "hops": [
+          "beige",
+          "brown"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "192": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/products/V916233.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "hops": [
+          "green",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "193": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/products/V916195.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "hops": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "hops": [
+          "green",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "194": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/products/V91626.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "hops": [
+          "brown",
+          "beige"
+        ]
+      }
+    },
+    "error": null
+  },
+  "195": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/products/V916205.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "hops": [
+          "beige",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "196": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/OS4147.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "brown"
+        ]
+      },
+      "leaves": {
+        "oak": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "197": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/OS4143.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "cream"
+        ]
+      },
+      "leaves": {
+        "generic": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "198": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/OS4145.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "blue"
+        ]
+      },
+      "leaves": {
+        "oak": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "199": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/OS4149_05866bca-43b6-44b3-b9b3-9d2a81e5b13a.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "generic": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "200": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XLA46842.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "201": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XLA46825.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "202": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XLA46805.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "203": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/CS4655.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "leewood": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "204": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/CS46572.jpg",
+    "labels": null,
+    "error": "BadRequestError: Error code: 400 - {'error': {'message': 'Error while downloading https://www.lancasterandvintage.com/cdn/shop/files/CS46572.jpg.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_image_url'}}"
+  },
+  "205": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/BR75173.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "peony": [
+          "pink",
+          "white"
+        ]
+      },
+      "leaves": {
+        "peony": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "206": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/BR75163.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "peony": [
+          "peach",
+          "white"
+        ]
+      },
+      "leaves": {
+        "peony": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "207": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/BR75184.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "peony": [
+          "orange",
+          "red"
+        ]
+      },
+      "leaves": {
+        "peony": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "208": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/CY6015.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "209": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XL72604.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "lodenberry": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "210": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XL72626.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "lodenberry": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "211": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XL72643.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "lodenberry": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "cream"
+        ]
+      }
+    },
+    "error": null
+  },
+  "212": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG8558.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "dahlia": [
+          "pink",
+          "green"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "213": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG8556.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "dahlia": [
+          "cream",
+          "pink"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "214": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG8559_4a890a73-2329-4846-84ac-f72cf1924f69.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "dahlia": [
+          "red",
+          "burgundy"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "215": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG8557.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "dahlia": [
+          "peach",
+          "cream"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "216": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/WH10972.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "marigold": [
+          "cream"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "217": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XDF1000.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "wildflower": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "218": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XDF1002.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "rust",
+          "brown"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "219": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XDF1006.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "purple",
+          "pink"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "220": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XDF1004.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "wildflower": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "221": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/YL91237.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "beech": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "222": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/YL91235.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "generic": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "223": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/MX4054.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "potamogeton": [
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "224": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/MX4055.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "225": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/MX4056.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "226": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG4147.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "boxwood": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "227": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG4151.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "boxwood": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "228": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG41533.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "boxwood": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "229": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG4155.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "boxwood": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "230": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG41492.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "unknown": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "231": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/YG10022.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "brown",
+          "purple"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "232": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/YG10032.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "233": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/YG10015.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "ruscus": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "234": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/YG1000.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "ruscus": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "235": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XVP4482_6aa2aa63-3122-4127-9ca8-250289075fe0.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "pampas": [
+          "cream"
+        ],
+        "fern": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "236": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/YL2045.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "cream",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "wildflower": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "237": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/YL2043.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "orange",
+          "red"
+        ]
+      },
+      "leaves": {
+        "wildflower": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "238": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/YL2047_2ca26ff4-ff17-4292-8e2d-de85ec81dd52.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "red",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "wildflower": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "239": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG4070_2.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pod": [
+          "cream"
+        ]
+      }
+    },
+    "error": null
+  },
+  "240": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG40715.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "wildflower": [
+          "beige"
+        ]
+      },
+      "fruit": {
+        "pod": [
+          "purple",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "241": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/BE1568.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "physalis": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "physalis": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "242": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XDC1020.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "daisy": [
+          "cream",
+          "peach"
+        ]
+      },
+      "leaves": {
+        "daisy": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "243": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XDC1022.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "daisy": [
+          "purple",
+          "blue"
+        ]
+      },
+      "leaves": {
+        "daisy": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "244": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XDC1016.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "daisy": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "daisy": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "245": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XDC1018.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "daisy": [
+          "red",
+          "purple"
+        ]
+      },
+      "leaves": {
+        "daisy": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "246": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/products/YL1095_e742b706-2fe8-4926-a0af-ddeb97d9463b.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "247": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/products/YL1096.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "248": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/products/YL10612.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "249": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/products/YL1062_3b87086d-4561-4699-a264-b212afec0e18.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "250": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/products/YL1075.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "penny": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "251": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/products/YL1076.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "252": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/products/YL1069.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "penny": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "253": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/products/YL1070.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "penny": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "254": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/products/YL1098_8ca2bb45-e1f8-4d72-a9f9-f9a8c4d34b54.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "255": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/products/YL10991.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "256": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG4053_d6e1cd9a-582d-4683-b3e8-22329362eea1.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "cream",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "chrysanthemum": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "257": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XUA10136.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pod": [
+          "red",
+          "purple"
+        ]
+      }
+    },
+    "error": null
+  },
+  "258": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XUA10119.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pod": [
+          "white",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "259": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XUA10125.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pod": [
+          "green",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "260": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XVP4565_5.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "261": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XVP45613.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "262": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XVP4563.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "263": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XL72493.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "orange",
+          "purple"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "264": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XL7247_a7a90d70-a520-4edd-a1cb-85c82a7fa8db.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "265": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XL7245.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "red",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "266": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/CS4715_dc9fcb4a-d3f2-4a2d-a4ba-afcd0f1da7f4.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "poppy": [
+          "purple",
+          "black"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "267": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/CS4711_0b2862d8-272e-4c70-a652-aca3203d6361.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "poppy": [
+          "orange",
+          "red"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "268": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/CS4713_12194b22-df78-40a8-9f23-222fe33c5cc1.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "poppy": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "269": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/YL4060_3.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "red"
+        ]
+      },
+      "leaves": {
+        "grass": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "270": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/products/RH4027.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "red"
+        ]
+      },
+      "leaves": {
+        "rose": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "271": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TG73043.jpg",
+    "labels": null,
+    "error": "BadRequestError: Error code: 400 - {'error': {'message': 'Error while downloading https://www.lancasterandvintage.com/cdn/shop/files/TG73043.jpg.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_image_url'}}"
+  },
+  "272": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/BR7505.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "red",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "273": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/BR7503.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "cream",
+          "white"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "274": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/BR7504.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "pink",
+          "cream"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "275": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/LA74305_d7b63f72-2117-4e1a-bab6-f014525f35ea.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "catkin": [
+          "red"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "276": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/LA7431_3f863908-a357-406b-939c-24b29eaefee3.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "flower",
+      "flowers": {
+        "catkin": [
+          "pink",
+          "red"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "277": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/LA74294_b1e39b43-e715-4b04-8aa8-ddc7732e58e8.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "catkin": [
+          "red"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "278": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/YL907542.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "279": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/CS4688.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "brown",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "wildflower": [
+          "beige",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "280": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/CS4662.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "wildflower": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "281": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/CS46773.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "orange",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "wildflower": [
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "282": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/CS4679.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "orange"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "283": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/CS4690.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "cone": [
+          "brown",
+          "tan"
+        ]
+      }
+    },
+    "error": null
+  },
+  "284": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/CS46643.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "cone": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "generic": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "285": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/CS4660_5e03f390-6f93-4b04-a3df-9d6b030d7352.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "286": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/BR7544.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "287": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/BR75422_2f08263e-e9ce-4ea4-bdf5-47df0315f383.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "red",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "288": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/BR75434.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "red",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "289": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/YL912642.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "grass": [
+          "red",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "290": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/YL912662.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "grass": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "291": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/YL91265.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "grass": [
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "292": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/YL90796_c1eb4470-4f44-44c6-9c72-52c8be19d72c.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "protea": [
+          "brown",
+          "pink"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "293": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/YL90798_9b274fb6-17b8-44cc-9642-808ecca05d2e.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "protea": [
+          "orange",
+          "brown"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "294": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XG4727.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "sedum": [
+          "brown",
+          "green"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "295": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XG4725_52a51f55-58e2-4937-bab0-3e188de05ee1.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "sedum": [
+          "beige",
+          "brown"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "296": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XG4726.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "sedum": [
+          "brown",
+          "tan"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "297": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/RA4028_ef622b05-b868-4eec-bb12-6e18b4928a49.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "groves": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "298": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/RA40322.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "ivy": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "299": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/RA40302.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "other": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "300": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/YL912942_165110bf-2e7a-400a-b9ee-4547ceb4e2cc.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "beech": [
+          "orange",
+          "white"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "301": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XSL30153.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "302": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XSL30163.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "303": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XSL30145.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "304": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XSL30172_269232a3-0bf3-4552-bd71-eb462cb1e064.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "305": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/YL912823.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "cream",
+          "tan"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "306": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE61192_2d3f5d1a-c86d-4bf3-80b7-fbe66e610bbf.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "boxwood": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "307": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE6127.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "ruscus": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "308": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE61236.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "boxwood": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "309": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE61214.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "ruscus": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "310": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE6125.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "boxwood": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "311": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XH6161.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "cream"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "312": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XH6163.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "313": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XH6169.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "purple"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "314": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XZZ10045.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "gold",
+          "silver"
+        ]
+      }
+    },
+    "error": null
+  },
+  "315": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XZZ1002_152d5ce9-fad5-4c22-8c53-626c403f50c4.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "gold",
+          "silver"
+        ]
+      }
+    },
+    "error": null
+  },
+  "316": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XZZ10004.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "gold",
+          "silver"
+        ]
+      }
+    },
+    "error": null
+  },
+  "317": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/YL91320_3.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "moss": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "318": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/YL91321_d4d31f7d-7a2b-44f7-b75d-b13bb3e61866.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "beech": [
+          "red",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "319": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/YL91322_5bfbc83b-e448-4686-84f8-7091fef137ab.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "beech": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "320": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/V40305.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "321": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/V40316.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "gold",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "322": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/V40287.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "323": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XDF1040.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "white",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "wildflower": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "324": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XDF1036_089fb4af-9c30-4ebd-8d5b-1d11701bb920.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "generic": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "325": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XDF1038_008d8115-ca4d-42f8-a4c0-ddb4ac7e3c06.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "orange",
+          "red"
+        ]
+      },
+      "leaves": {
+        "leaf": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "326": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XDF1034.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "purple",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "wildflower": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "327": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG7004.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "red",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "328": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG7001.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "green",
+          "purple"
+        ]
+      }
+    },
+    "error": null
+  },
+  "329": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG7004_346cbdb1-dc1a-46ba-9a7d-8ea6747b5298.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "red",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "330": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG7004_f6446247-0024-4ded-b51a-f95027b44d4a.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "331": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG7002.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "332": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/products/YL907432.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "grass": [
+          "tan",
+          "beige"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "333": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XF33211_34d950d5-7f6a-48e6-af8a-d181c24b37e8.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "tattersall": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "334": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XF332097_481d2b87-1cb3-48da-b36d-e6be9727f185.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "brown",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "335": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XF33210_eb95a1af-db0d-4564-98e2-44d3dfd3e449.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "336": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XF33208_3.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "337": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/MJ64004.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "gray",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "338": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/EW4126_32414f50-3f54-468b-9ea6-2ffd663b3e16.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "339": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE6046_fc3598ea-9b85-4ade-9c5c-ac62f296967d.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "340": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE60455.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "341": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE60442.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "342": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE6043.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "343": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/VP70614.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "344": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/VP7063.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "345": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/CS4802_8799d413-4957-41df-b9f1-35650b979afc.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "walnut": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "346": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/CS4804.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "walnut": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "347": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XF332383.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "348": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XF33240.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "349": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/XF332363.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "350": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/CS46422.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "green",
+          "purple"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "351": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/V4044.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "grass": [
+          "brown",
+          "gold"
+        ]
+      },
+      "leaves": {
+        "grass": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "352": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/V40422_90972406-f6fd-4a9d-9892-9f83403624b1.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "grass": [
+          "tan"
+        ]
+      },
+      "leaves": {
+        "grass": [
+          "green",
+          "tan"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "353": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/V40463.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "wheat": [
+          "tan",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "354": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/V40483.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wheat": [
+          "tan",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "grass": [
+          "tan",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "355": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE6070.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "wheat": [
+          "gold",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "356": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE60572.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "wheat": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "357": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE6071.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "wheat": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "358": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/TE6058.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "wheat": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "359": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/LA84573.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "360": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/CS3657_a7edb906-41f9-4c92-bcb5-c870c5fbda6f.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "purple",
+          "pink"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "361": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/CS36612.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "purple"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "362": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/YL2015.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "363": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/YL2012.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "364": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/YL20112_8b098d49-2640-4e56-8252-6e8156b43fce.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "365": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/YL2013_84c9000a-10be-443b-bd61-c85f09ee3062.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "366": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/YL2010_4.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "367": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/products/XVP4371.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "wildthorn": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "368": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG41834.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "willow": [
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "369": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG41345.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "windrush": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "370": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG41367.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "windrush": [
+          "brown",
+          "gray"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "371": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG4213_117e4607-96de-43c3-b57f-4ce68a24d264.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "ivy": [
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "372": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG4209_e9b6e56d-2ecb-4355-b8dd-2e07d45c456c.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "tan",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "373": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG4211.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "windward": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "374": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/CS47802.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "chestnut": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "375": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/CS47762.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "tan"
+        ]
+      }
+    },
+    "error": null
+  },
+  "376": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/CS4778_1035f2cd-f66e-45cd-9250-20f669a6399b.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "377": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/CS4791_52bc10ad-3ff5-4a99-b439-1ef2e3b7be35.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "cream",
+          "white"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "378": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG40973.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "379": {
+    "img_link": "https://www.lancasterandvintage.com/cdn/shop/files/FG40963.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "red"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  }
+}

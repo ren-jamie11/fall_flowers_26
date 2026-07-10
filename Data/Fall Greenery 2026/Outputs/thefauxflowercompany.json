@@ -1,0 +1,1199 @@
+{
+  "0": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-artificial-green-dried-hydrangea-realistic-silk-single-stems-buy-online-from-the-faux-flower-company-1107222082.jpg?v=1762896516&width=2409",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "green",
+          "white"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "1": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-artificial-green-tall-eucalyptus-realistic-silk-single-stems-buy-online-from-the-faux-flower-company-abz1129gr-6-910599451.jpg?v=1756705342&width=2576",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "blue"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "2": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-artificial-eucalyptus-spray-realistic-silk-single-stems-buy-online-from-the-faux-flower-company-1176250254.jpg?v=1756705328&width=2357",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "3": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-artificial-green-tall-foxtail-grass-realistic-silk-single-stems-buy-online-from-the-faux-flower-company-1077061715.jpg?v=1756705305&width=2367",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "grass": [
+          "white",
+          "green"
+        ]
+      },
+      "leaves": {
+        "grass": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "4": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-yellow-oncidium-orchid-aby7044yl-1240628773.jpg?v=1779901751&width=3050",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "orchid": [
+          "yellow"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "5": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-white-artificial-hydrangea-bouquet-realistic-silk-bouquet-buy-online-from-the-faux-flower-company-abx5001wh-36-3-910135477.jpg?v=1745949441&width=1906",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "white"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "6": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-sage-green-hydrangea-abx5005gr-1240628820.jpg?v=1779902831&width=3050",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "green",
+          "beige"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "7": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-green-paniculata-hydrangea-abx5004gr-1240622691.jpg?v=1779900251&width=3024",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "green",
+          "cream"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "8": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-blue-dried-hydrangea-aby5070bl-1240616332.jpg?v=1779885973&width=2554",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "blue"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "9": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-artificial-red-rosehips-realistic-silk-single-stems-buy-online-from-the-faux-flower-company-910143044.jpg?v=1756705284&width=2715",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "rose": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "rosehip": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "10": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-artificial-rich-green-foliage-leaves-realistic-silk-single-stems-buy-online-from-the-faux-flower-company-1176337456.jpg?v=1756705295&width=2408",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "ficus": [
+          "dark green",
+          "light green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "11": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-artificial-burgundy-eucalyptus-bunch-of-6-realistic-silk-bunches-buy-online-from-the-faux-flower-company-abz0076bd-6-1073673018.jpg?v=1756705257&width=1733",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "burgundy",
+          "pink"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "12": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-artificial-green-willow-eucalyptus-realistic-silk-single-stems-buy-online-from-the-faux-flower-company-1176347805.jpg?v=1756705265&width=1956",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "13": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-artificial-white-oncidium-orchid-realistic-silk-single-stems-buy-online-from-the-faux-flower-company-910596593.jpg?v=1756705385&width=3024",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "orchid": [
+          "white",
+          "pink"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "14": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-artificial-giant-sunflower-with-leaves-realistic-silk-buy-online-from-the-faux-flower-company-ahch-2890-1199101885.jpg?v=1761144798&width=3144",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "sunflower": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "15": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-artificial-green-bracken-fern-realistic-silk-single-stems-buy-online-from-the-faux-flower-company-1176337454.jpg?v=1756705308&width=1810",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "16": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-artificial-dried-look-sunflower-with-leaves-realistic-silk-buy-online-from-the-faux-flower-company-ahch-8490-1199101882.jpg?v=1761144789&width=3092",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "green",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "sunflower": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "17": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-red-dried-hydrangea-aby5070rd-1240622636.jpg?v=1779893413&width=3050",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "red",
+          "pink"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "18": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-artificial-silver-grey-berries-realistic-silk-single-stems-buy-online-from-the-faux-flower-company-1176347797.jpg?v=1756705262&width=2417",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "olive": [
+          "green",
+          "gray"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "white",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "19": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/burgundy-blush-artificial-flower-arrangement-1220743659.jpg?v=1770908110&width=3211",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "peony": [
+          "pink",
+          "red"
+        ]
+      },
+      "leaves": {
+        "ruscus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "20": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-gathered-leaves-artificial-flower-arrangement-realistic-silk-buy-online-from-the-faux-flower-company-gathered-leaves-ar-1191019599.jpg?v=1756990521&width=2100",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "artichoke": [
+          "green",
+          "white"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "red",
+          "green"
+        ],
+        "ginkgo": [
+          "yellow",
+          "green"
+        ],
+        "fern": [
+          "green",
+          "brown"
+        ],
+        "eucalyptus": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "21": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-artificial-yellow-ginkgo-leaves-realistic-silk-single-stems-buy-online-from-the-faux-flower-company-1079846460.jpg?v=1756705204&width=2275",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "ginkgo": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "22": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-white-artificial-mophead-hydrangea-kemble-vase-set-realistic-silk-bundle-buy-online-from-the-faux-flower-company-abx5001wh-36-3-abp1766-1204544226.jpg?v=1762966281&width=1906",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "white"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "23": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-artificial-orange-berry-spray-realistic-silk-buy-online-from-the-faux-flower-company-ahch-2655-1192818709.jpg?v=1757947992&width=3024",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "24": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-navy-blue-artificial-hydrangea-kemble-vase-set-realistic-silk-bundle-buy-online-from-the-faux-flower-company-abx5005dbl-3-abp1766-1204428011.jpg?v=1762901845&width=3100",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "blue",
+          "purple"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "25": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-cream-artificial-hydrangea-kemble-vase-set-realistic-silk-bundle-buy-online-from-the-faux-flower-company-abx5002cr-54-3-abp1766-1204428008.jpg?v=1762901829&width=2763",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "cream",
+          "white"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "26": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-artificial-green-skimmia-realistic-silk-single-stems-buy-online-from-the-faux-flower-company-1085782194.jpg?v=1756705354&width=2550",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "skimmia": [
+          "green"
+        ]
+      },
+      "leaves": {
+        "skimmia": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "27": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-green-dried-artificial-hydrangea-kemble-vase-set-realistic-silk-bundle-buy-online-from-the-faux-flower-company-aby5070gr-3-abp1766-1204428026.jpg?v=1762901598&width=2563",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "green",
+          "cream"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "28": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-blue-dried-artificial-hydrangea-kemble-vase-set-realistic-silk-bundle-buy-online-from-the-faux-flower-company-aby5070bl-3-abp1766-1204428022.jpg?v=1762901590&width=2836",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "blue",
+          "purple"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "29": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-red-dried-artificial-hydrangea-kemble-vase-set-realistic-silk-bundle-buy-online-from-the-faux-flower-company-aby5070rd-3-abp1766-1204428019.jpg?v=1762901707&width=2630",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "red",
+          "pink"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "30": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-sage-green-artificial-hydrangea-kemble-vase-set-realistic-silk-bundle-buy-online-from-the-faux-flower-company-abx5005gr-3-abp1766-1204428017.jpg?v=1762901710&width=2736",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "cream",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "31": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-purple-dried-artificial-hydrangea-kemble-vase-set-realistic-silk-bundle-buy-online-from-the-faux-flower-company-aby5070pu-3-abp1766-1204428014.jpg?v=1762901843&width=2434",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "purple",
+          "green"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "32": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-artificial-green-bracken-fern-in-cement-pot-realistic-silk-plants-buy-online-from-the-faux-flower-company-ahch-1518-1178196737.jpg?v=1752598523&width=2700",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "33": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-artificial-foliage-fantastic-arrangement-realistic-silk-bouquet-buy-online-from-the-faux-flower-company-1154934215.jpg?v=1745962037&width=2418",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "white",
+          "green"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ],
+        "ivy": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "34": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/autumnal-aura-arrangement-1240616331.jpg?v=1779885911&width=3007",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "purple",
+          "green"
+        ],
+        "hydrangea_2": [
+          "white",
+          "green"
+        ],
+        "wildflower": [
+          "green"
+        ]
+      },
+      "leaves": {
+        "ivy": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "35": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-artificial-snowberry-stem-realistic-silk-single-stems-buy-online-from-the-faux-flower-company-1176236157.jpg?v=1756705310&width=2216",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "snowberry": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "36": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-artificial-brown-willow-branch-realistic-silk-single-stems-buy-online-from-the-faux-flower-company-abx9623br-6-910145474.jpg?v=1756705282&width=2512",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "willow": [
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "37": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-artificial-green-king-protea-realistic-silk-single-stems-buy-online-from-the-faux-flower-company-1176314073.jpg?v=1756705326&width=2617",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "protea": [
+          "green",
+          "purple"
+        ]
+      },
+      "leaves": {
+        "protea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "38": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-artificial-cypress-bush-realistic-silk-single-stems-buy-online-from-the-faux-flower-company-1073807899.jpg?v=1756705181&width=2181",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "cypress": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "39": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-artificial-burgundy-english-rose-realistic-silk-single-stems-buy-online-from-the-faux-flower-company-1080984481.jpg?v=1756705400&width=2176",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "burgundy"
+        ]
+      },
+      "leaves": {
+        "rose": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "40": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/autumn-plum-artificial-flower-arrangement-1221561992.jpg?v=1771455250&width=4020",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "pink",
+          "white"
+        ],
+        "artichoke": [
+          "green",
+          "yellow"
+        ],
+        "wildflower": [
+          "pink",
+          "white"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "red",
+          "brown"
+        ],
+        "grass": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "41": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-nice-native-artificial-flower-bouquet-realistic-silk-bouquet-buy-online-from-the-faux-flower-company-1106504964.jpg?v=1745960719&width=1425",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "cream"
+        ],
+        "protea": [
+          "green",
+          "cream"
+        ],
+        "hydrangea": [
+          "cream"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ],
+        "fern": [
+          "green"
+        ],
+        "ivy": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "42": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-artificial-green-pittosporum-leaves-realistic-silk-single-stems-buy-online-from-the-faux-flower-company-1176250256.jpg?v=1756705372&width=2348",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "pittosporum": [
+          "green",
+          "white"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "43": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-artificial-black-seed-pod-realistic-silk-single-stems-buy-online-from-the-faux-flower-company-910120091.jpg?v=1756705268&width=3000",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "black"
+        ]
+      }
+    },
+    "error": null
+  },
+  "44": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-purple-dried-hydrangea-aby5070pu-1240622655.jpg?v=1779899772&width=3025",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "purple",
+          "green"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "45": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-artificial-red-berries-with-leaves-realistic-silk-single-stems-buy-online-from-the-faux-flower-company-1085782363.jpg?v=1756705235&width=2093",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "generic": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "46": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/products/artificial-flowers-luxury-lifelike-faux-artificial-brown-pussy-willow-realistic-silk-single-stems-buy-online-from-the-faux-flower-company-837685598.jpg?v=1756705349&width=2132",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "pussywillow": [
+          "white",
+          "gray"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "47": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-green-berry-spray-abz5081gr-1240622702.jpg?v=1779898392&width=3024",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "unknown": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "green",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "48": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-artificial-orange-hypericum-berries-realistic-silk-single-stems-buy-online-from-the-faux-flower-company-1078101370.jpg?v=1756705460&width=1915",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "hypericum": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "49": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-gathered-greens-artificial-flower-bouquet-realistic-silk-bouquet-buy-online-from-the-faux-flower-company-910664463.jpg?v=1764690709&width=2869",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "green",
+          "white"
+        ],
+        "ranunculus": [
+          "white",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "gray"
+        ],
+        "fern": [
+          "green"
+        ],
+        "lambs ear": [
+          "gray",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "50": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-artificial-black-berries-realistic-silk-single-stems-buy-online-from-the-faux-flower-company-949882089.jpg?v=1756705333&width=2344",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "black"
+        ]
+      }
+    },
+    "error": null
+  },
+  "51": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-artificial-green-bracken-fern-in-dark-grey-pot-realistic-silk-plants-buy-online-from-the-faux-flower-company-ahch-1422-1190884016.jpg?v=1756911680&width=2969",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "52": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-artificial-red-skimmia-realistic-silk-single-stems-buy-online-from-the-faux-flower-company-910161386.jpg?v=1756705313&width=2006",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "skimmia": [
+          "red"
+        ]
+      },
+      "leaves": {
+        "skimmia": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "53": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/products/artificial-flowers-luxury-lifelike-faux-savannah-spring-artificial-flower-bouquet-realistic-silk-bouquet-buy-online-from-the-faux-flower-company-828792808.jpg?v=1745945115&width=1770",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "pink",
+          "white"
+        ],
+        "protea": [
+          "green",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ],
+        "fern": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "54": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-artificial-red-tea-rose-realistic-silk-single-stems-buy-online-from-the-faux-flower-company-1085997696.jpg?v=1756705395&width=3024",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "red"
+        ]
+      },
+      "leaves": {
+        "rose": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "55": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-artificial-green-hypericum-berries-realistic-silk-single-stems-buy-online-from-the-faux-flower-company-1176322823.jpg?v=1756705432&width=2658",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "hypericum": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "green",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "56": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-artificial-grey-silver-lambs-leaf-realistic-silk-single-stems-buy-online-from-the-faux-flower-company-1176314069.jpg?v=1756705336&width=2663",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "lambs ear": [
+          "gray",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "57": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/artificial-flowers-luxury-lifelike-faux-green-light-artificial-flower-bouquet-realistic-silk-bouquet-buy-online-from-the-faux-flower-company-1178182679.jpg?v=1752591327&width=1642",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "green",
+          "white"
+        ],
+        "ranunculus": [
+          "white",
+          "green"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green"
+        ],
+        "eucalyptus": [
+          "green"
+        ],
+        "ruscus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "58": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/winter-aura-arrangement-1240622713.jpg?v=1779897852&width=2861",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "red",
+          "green"
+        ],
+        "wildflower": [
+          "white",
+          "green"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ],
+        "ruscus": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "green",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "59": {
+    "img_link": "https://thefauxflowercompany.com/cdn/shop/files/feeling-ferny-artificial-flower-arrangement-1221561988.jpg?v=1771455370&width=4071",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "beige",
+          "pink"
+        ],
+        "wildflower": [
+          "white",
+          "green"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green",
+          "brown"
+        ],
+        "eucalyptus": [
+          "green",
+          "gray"
+        ],
+        "ruscus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  }
+}

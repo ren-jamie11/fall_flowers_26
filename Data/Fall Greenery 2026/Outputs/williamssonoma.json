@@ -1,0 +1,194 @@
+{
+  "0": {
+    "img_link": "https://assets.wsimgs.com/wsimgs/rk/images/dp/wcm/202605/0706/img142z.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "1": {
+    "img_link": "https://assets.wsimgs.com/wsimgs/rk/images/dp/wcm/202606/0020/fall-pumpkin-maple-leaves-uv-protected-faux-wreath-garland-z.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ],
+        "eucalyptus": [
+          "green",
+          "cream"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ],
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "2": {
+    "img_link": "https://assets.wsimgs.com/wsimgs/rk/images/dp/wcm/202605/0716/img30z.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "green",
+          "brown"
+        ],
+        "eucalyptus": [
+          "green",
+          "gray"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "pink",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "3": {
+    "img_link": "https://assets.wsimgs.com/wsimgs/rk/images/dp/wcm/202625/0104/img6z.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "4": {
+    "img_link": "https://assets.wsimgs.com/wsimgs/rk/images/dp/wcm/202627/0031/img3z.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "cream"
+        ],
+        "hydrangea": [
+          "green"
+        ],
+        "chrysanthemum": [
+          "white"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ],
+        "magnolia": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "5": {
+    "img_link": "https://assets.wsimgs.com/wsimgs/rk/images/dp/wcm/202610/0022/magnolia-live-wreath-garland-z.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "6": {
+    "img_link": "https://assets.wsimgs.com/wsimgs/rk/images/dp/wcm/202612/0034/img18z.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "7": {
+    "img_link": "https://assets.wsimgs.com/wsimgs/rk/images/dp/wcm/202618/0012/img14z.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "8": {
+    "img_link": "https://assets.wsimgs.com/wsimgs/rk/images/dp/wcm/202614/0042/img2z.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "pumpkin": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "9": {
+    "img_link": "https://assets.wsimgs.com/wsimgs/rk/images/dp/wcm/202607/0550/img1z.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "flower",
+      "flowers": {
+        "dahlia": [
+          "pink",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  }
+}

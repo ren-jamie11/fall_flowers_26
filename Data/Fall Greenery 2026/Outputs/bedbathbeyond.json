@@ -1,0 +1,976 @@
+{
+  "0": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/61e9c1c4e9514f2063b4adc18fa76c9b3ce17fcd/Berries-and-Leaves-Artificial-Fall-Harvest-Pick-Sprays---8%22---Set-of-3.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "generic": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "white",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "1": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/58a8dad759b5d90d9eb688975df3fb71056d9802/Fall-Floral-Arrangment-with-Pumpkins-in-a-Rustic-Rectangular-Wooden-Box.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "gold"
+        ],
+        "berry": [
+          "orange",
+          "gold"
+        ]
+      }
+    },
+    "error": null
+  },
+  "2": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/6f4bbed75f38288a01aa2bbbe201274c09623d4e/32%22-Artificial-Marigold-Spray%2C-Yellow%2C-Set-of-6.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "marigold": [
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "marigold": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "3": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/fa4a1609c8130df27f3cac33cf1c8470a5e79bab/Fall-Foxtail-Grass-Bundle-%28Set-of-6%29.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "foxtail": [
+          "red"
+        ]
+      },
+      "leaves": {
+        "grass": [
+          "tan",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "4": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/5314910/Harvest-Centerpiece-Silk-Plant-9c6784fc-f941-4f5a-b5d3-c5d0d4631289.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ],
+        "oak": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ],
+        "gourd": [
+          "orange",
+          "brown"
+        ],
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "5": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/410d24f664b494aab29d9d517bc2afab7e587a47/21%22-Autumn-Harvest-Arrangement-in-a-%22Thankful%22-Rustic-Wooden-Box-Centerpiece.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ],
+        "generic": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ],
+        "berry": [
+          "orange",
+          "red"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "6": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/5abf793eeb32a0cc7a1433fac379d025e575ecac/Pure-Garden-6-Ft-Artificial-Fiddle-Leaf-Fig-Tree-Indoor-Outdoor-Office.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fig": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "7": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/17f8a83ed253e12032f95a49732b6fa0da996ef9/Fall-Sunflower-Spray-%28Set-of-12%29.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "sunflower": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "8": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/7203fb32e3b897f929a77a3a2aae1d43e41cca04/Pure-Garden-51-Inch-Tropical-Yucca-Artificial-Tree.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "yucca": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "9": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/9574ad2eac35fec1226d5d4821d11154c141f2aa/Mixed-Fall-Foliage-Bush-%28Set-of-6%29.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "bush": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "10": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/578212ead2b6ce09f16317e068f3e7c50610b51a/Decorative-Artichoke-Accent-%28Set-of-4%29.jpg",
+    "labels": {
+      "product_type": "flowerhead",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "artichoke": [
+          "green",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "11": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/68ab73ed66916a113817b36cb4c72a4fc7cddaf2/Fall-Banksia-Pod-Stem-%28Set-of-2%29.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "banksia": [
+          "brown",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "12": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/a9abaead92ac1a643cce4fae9e74ad053108df70/Artificial-Rubber-Plant---51-Inch-Faux-Tree-with-Natural-Feel-Leaves-by-Pure-Garden-%28Green%29.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "rubber": [
+          "green",
+          "dark green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "13": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/5baef8ef718b83e8c98982791d4e4b6cd02478e2/19%22-Artificial-Fall-Flower-Bush%2C-Set-of-2.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "daisy": [
+          "orange",
+          "yellow"
+        ],
+        "chrysanthemum": [
+          "white",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "14": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/8a209cf2ff7c8abcf95e321c4f7fa1a57375fc75/Fall-Clusttered-Berry-Stem-%28Set-of-6%29.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "leaf": [
+          "beige",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "15": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/773cd1122800838c343e534a4d65084c941d99cc/4-Foot-Tall-Artificial-Cypress-Spiral-Topiary-Tree--Potted-Indoor-or-Outdoor-UV-Protection-Trees-in-Pot-by-Pure-Garden.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "cypress": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "16": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/10b2677d2967260e9d04e051f57d6ae755650aae/Artificial-Rubber-Plant---51-Inch-Faux-Tree-with-Natural-Feel-Leaves-by-Pure-Garden-%28Variegated%29.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "rubber plant": [
+          "green",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "17": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/a4608e45bf54928d2a953c90422b1fbe673bb079/23%22-Autumnal-Magnolia-Spray.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "18": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/cf51de1b3eff84b2ce04a18ceadf5b96f65a9bfc/25%22-Bittersweet-Spray-Set-of-3.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "19": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/e67e06608631cbe51260a9248b8dfb496715ae1b/Glitzhome-43%22H-Real-Touch-Areca-Palm-Artificial-Fronds-Tree-in-Pot.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "areca": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "20": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/b62189a8011da9558e865ef0c77936bbee958de4/Fall-Foliage-Bush-%28Set-of-6%29.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "bush": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "21": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/ffcad3f8bff4a104ea5246ffd6edcdfacd4eee2f/Grass-Foliage-Bush-%28Set-of-2%29.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "grass": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "22": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/7e05e117b16315ad5130f7ec6640db920b470b35/37%22-Artificial-Cypress-Topiary-Tower-Style-Faux-Plant-in-Sturdy-Pot--Realistic-Indoor-or-Outdoor-Potted-Shrub-by-Pure-Garden.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "cypress": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "23": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/590e13e19b96f11155891386076be71595a6b601/Sunflowers-Pine-Cones-Fall-Artificial-Thanksgiving-Wreath%2C-24%22%2C-Unlit.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "oak": [
+          "orange",
+          "brown"
+        ],
+        "maple": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "24": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/92627fe28607707be3c28438b8297e2dbcf5a577/Mushroom-and-Autumn-Foliage-Hanging-Wooden-Box-Fall-Harvest-Arrangement---19%22.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {
+        "succulent": [
+          "green",
+          "red"
+        ],
+        "fern": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "25": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/5a7772a016ac51dfca1970161b2671b5a103f369/Orange-Fall-Leaves-Pinecones-Berries-Artificial-Wreath-24%22.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "26": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/582b80f4af115313f795ce21ab353e53b5d1b8ce/13%22-Artificial-Fall-Harvest-Pumpkins-%26-Berries-Pick%2C-Set-of-5.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ],
+        "berry": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "27": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/22466d252a014d08be3a036b035a378cd8033c06/23%22-Artificial-Cypress-Topiary-Ball-Style-Faux-Plant-in-Sturdy-Pot-Realistic-Indoor-or-Outdoor-Potted-Shrub-by-Pure-Garden.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "cypress": [
+          "green",
+          "dark green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "28": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/4d8b425dc3215321ea946e58627c3360062b602d/Modern-Orchid-Arrangement-in-Mirrored-Glass-Vase.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "orchid": [
+          "purple",
+          "white"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "29": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/f191dda59022a888485a3076880a80a9e80f9041/Enova-Home-Artificial-Silk-Rose-Flowers-in-Clear-Glass-Vase-with-Faux-Water-for-Home-Office-Wedding-Decoration.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "pink"
+        ]
+      },
+      "leaves": {
+        "rose": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "30": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/eca80c66483047a66ad1a50b498d1f23130019d9/20%22-Artificial-Acorns-Spray-For-Fall-Harvest-Or-Christmas%2C-Set-of-5.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "acorn": [
+          "brown",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "31": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/6e7fab4bfcebd49900134ccddcfc9cd9ac46cc6a/Pure-Garden-72-Inch-Artificial-Fiddle-Leaf-Fig-Tree-Indoor-Outdoor-Office.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fig": [
+          "green",
+          "dark green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "32": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/a26f934226acaf5b0f257f80db7519351e6d41d8/16%22-Berry-Glitter-Autumn-Pick.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "red",
+          "gold"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ],
+        "acorn": [
+          "gold"
+        ]
+      }
+    },
+    "error": null
+  },
+  "33": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/e722fc5236004f071b4d4da6773b1960e1bc02fb/Pure-Garden-Artificial-Boxwood-Topiary.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "boxwood": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "34": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/c2fa423cc48c80871250407d02aa2f5f1b901569/Mixed-Fall-Grass-Spray-%28Set-of-6%29.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "grass": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "35": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/4e29c99459d129047b8fb1869b01e49dcfb73d84/Apples-and-Pears-Artificial-Fall-Harvest-Wreath---26%22---Unlit.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "green",
+          "yellow"
+        ],
+        "eucalyptus": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "apple": [
+          "red",
+          "orange"
+        ],
+        "pear": [
+          "green",
+          "yellow"
+        ],
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "36": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/c25939b1a84806e431b47796a1d84c8bd4edbe2f/Pip-Berry-Clusters-Artificial-Fall-Harvest-Twig-Wreath---24%22.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "red",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "37": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/4f9a79b764f3657ad27180d32869f4b898536800/Velvet-Pumpkins-Wheat-Artificial-Fall-Harvest-Wreath---24-Inch%2C-Unlit.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "38": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/4787b136d9364c966d545d80aec70fba32280d11/32%22-Artificial-Marigold-Spray%2C-White%2C-Set-of-6.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "marigold": [
+          "white"
+        ]
+      },
+      "leaves": {
+        "marigold": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "39": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/fb1e5e244e997bf2d45dfb25b8b3ceba4b759468/Plush-Fall-Pumpkin-Spray-%28Set-of-6%29.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "40": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/2a99d9c99ca034dbd80a417ef6b538a466c4c374/Green-and-Blue-Floral-and-Gourds-Thanksgiving-Artificial-Wreath%2C-22-Inch.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "hydrangea": [
+          "blue",
+          "green"
+        ],
+        "peony": [
+          "yellow",
+          "cream"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "green",
+          "brown"
+        ],
+        "fern": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "gourd": [
+          "cream",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "41": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/0a6113e05ce703dea01299a6ee18dabbf9abd9e0/Plush-Fall-Pumpkin-Spray-%28Set-of-6%29.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "42": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/5c043f7a7837241d7864346135e8ae01de9f44a6/Plush-Fall-Pumpkin-Spray-%28Set-of-6%29.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "tan"
+        ]
+      }
+    },
+    "error": null
+  },
+  "43": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/8686d4c4543e51f9997e8a6ca32b5fa77e4d5568/Pure-Garden-6FT-Artificial-Bamboo-Tree-with-Pot.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "bamboo": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "44": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/1fcee42cb92e7aad198f912b26d1359846122c4a/Pumpkin-Pinecone-Gourd-Grapevine-Artificial-Thanksgiving-Wreath-24%22.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ],
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ],
+        "gourd": [
+          "orange",
+          "yellow"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "45": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/9d69f9933761ba51d2cf4a905876ac7dcc54fdda/32%22-Artificial-Marigold-Spray%2C-Rust%2C-Set-of-6.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "marigold": [
+          "orange",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "marigold": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "46": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/ba85c38199c983948ca92a545c3db96096525c51/Leaves-Berries-Twig-Artificial-Thanksgiving-Wreath---26-Inch%2C-Unlit.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "orange"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "47": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/36be38203c4d33020eb094d76c9b3318216658a2/Rose-and-Peony-Artificial-Wreath---22%22---Peach-and-White.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "white",
+          "yellow"
+        ],
+        "peony": [
+          "peach",
+          "cream"
+        ],
+        "daisy": [
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ],
+        "ficus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "48": {
+    "img_link": "https://ak1.ostkcdn.com/images/products/is/images/direct/099218f77e828daad48509d375574799a0ccf6b7/Modern-Farmhouse-Arrangement-with-Hydrangeas-and-Eucalyptus-in-Ceramic-Vase.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "cream",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "gray"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  }
+}

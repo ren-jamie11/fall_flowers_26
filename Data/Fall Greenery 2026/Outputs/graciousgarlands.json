@@ -1,0 +1,447 @@
+{
+  "0": {
+    "img_link": "https://graciousgarlands.com/cdn/shop/products/IMG_0277-1-scaled.jpg?v=1631308926",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "1": {
+    "img_link": "https://graciousgarlands.com/cdn/shop/products/TheLushList-126-copy.jpg?v=1629781298",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "2": {
+    "img_link": "https://graciousgarlands.com/cdn/shop/products/4EC32E2C-35D5-47D1-8C17-10151E554595-copy.jpg?v=1629630931",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "green",
+          "brown"
+        ],
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "3": {
+    "img_link": "https://graciousgarlands.com/cdn/shop/files/MagnoliaandLeylandCypressWreath1.jpg?v=1756867944",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "green",
+          "brown"
+        ],
+        "cypress": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "4": {
+    "img_link": "https://graciousgarlands.com/cdn/shop/products/Magnolia-Seeded-Eucalyptus-1-scaled.jpg?v=1629630671",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "orange",
+          "green"
+        ],
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "5": {
+    "img_link": "https://graciousgarlands.com/cdn/shop/files/MagnoliaandLeylandCypressGarland1.jpg?v=1756867842",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "brown",
+          "green"
+        ],
+        "cypress": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "6": {
+    "img_link": "https://graciousgarlands.com/cdn/shop/products/Olive-Magnolia-Seeded-Eucalyptus-scaled.jpg?v=1629630690",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "olive": [
+          "green"
+        ],
+        "magnolia": [
+          "green",
+          "orange"
+        ],
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "7": {
+    "img_link": "https://graciousgarlands.com/cdn/shop/products/IMG_1750-e1626231714287.jpg?v=1629630844",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "8": {
+    "img_link": "https://graciousgarlands.com/cdn/shop/products/IMG_9314-copy-1.jpg?v=1629630996",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "green",
+          "brown"
+        ],
+        "podocarpus": [
+          "green"
+        ],
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "9": {
+    "img_link": "https://graciousgarlands.com/cdn/shop/products/IMG_1749.jpg?v=1629630882",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "podocarpus": [
+          "green",
+          "dark green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "10": {
+    "img_link": "https://graciousgarlands.com/cdn/shop/products/TheSwoonEventJan192019-49.jpg?v=1629630752",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "olive": [
+          "green",
+          "white"
+        ],
+        "podocarpus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "11": {
+    "img_link": "https://graciousgarlands.com/cdn/shop/products/IMG_1688.jpg?v=1629630793",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "ruscus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "12": {
+    "img_link": "https://graciousgarlands.com/cdn/shop/products/IMG_7015.jpg?v=1654102197",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "lemon": [
+          "green"
+        ],
+        "huck": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "13": {
+    "img_link": "https://graciousgarlands.com/cdn/shop/products/Olive-Podocarpus-Seeded-Eucalyptus-scaled.jpg?v=1629630677",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "olive": [
+          "green"
+        ],
+        "podocarpus": [
+          "green"
+        ],
+        "eucalyptus": [
+          "green",
+          "blue"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "14": {
+    "img_link": "https://graciousgarlands.com/cdn/shop/products/Olive-Magnolia-scaled.jpg?v=1629630666",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "olive": [
+          "green",
+          "light green"
+        ],
+        "magnolia": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "15": {
+    "img_link": "https://graciousgarlands.com/cdn/shop/products/IMG_1752-e1626231663394.jpg?v=1629630869",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "sprengeri": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "16": {
+    "img_link": "https://graciousgarlands.com/cdn/shop/products/Melodys-Joy-53.jpg?v=1629630813",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "17": {
+    "img_link": "https://graciousgarlands.com/cdn/shop/products/IMG_0332.jpg?v=1629630819",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "ruscus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "18": {
+    "img_link": "https://graciousgarlands.com/cdn/shop/products/Baby-Silver-Seeded-Eucalyptus--scaled.jpg?v=1629630684",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "blue"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "19": {
+    "img_link": "https://graciousgarlands.com/cdn/shop/files/IMG_9618.jpg?v=1700022412",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "red",
+          "orange"
+        ],
+        "eucalyptus": [
+          "red",
+          "purple"
+        ],
+        "magnolia": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "20": {
+    "img_link": "https://graciousgarlands.com/cdn/shop/files/IMG_4952.jpg?v=1728272894",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "beech": [
+          "orange",
+          "black"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "21": {
+    "img_link": "https://graciousgarlands.com/cdn/shop/products/IMG_5133-scaled.jpg?v=1629630908",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "grass": [
+          "red",
+          "blue"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "22": {
+    "img_link": "https://graciousgarlands.com/cdn/shop/files/IMG_28952.jpg?v=1718993221",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "thistle": [
+          "yellow",
+          "brown"
+        ],
+        "wildflower": [
+          "red"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "gray"
+        ],
+        "ruscus": [
+          "white"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "23": {
+    "img_link": "https://graciousgarlands.com/cdn/shop/files/IMG_9545.jpg?v=1699809017",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "red",
+          "brown"
+        ],
+        "magnolia": [
+          "brown",
+          "green"
+        ],
+        "eucalyptus": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  }
+}

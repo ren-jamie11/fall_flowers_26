@@ -1,0 +1,8162 @@
+{
+  "0": {
+    "img_link": "https://mobileimages.lowes.com/productimages/8f4846a6-6c9d-4b4a-888a-2b8757c36878/88055657.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "boxwood": [
+          "green",
+          "light green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "1": {
+    "img_link": "https://mobileimages.lowes.com/productimages/9ad03f39-dd1b-4fc9-be0e-a8b5d6096924/44820941.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "2": {
+    "img_link": "https://mobileimages.lowes.com/productimages/096fe4db-cb4d-4ffd-9f39-ffb8e643a39e/67070352.jpeg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "3": {
+    "img_link": "https://mobileimages.lowes.com/productimages/d6582aa9-af63-439c-9d62-cd9154501861/68115719.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "rose": [
+          "red"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "gold"
+        ]
+      }
+    },
+    "error": null
+  },
+  "4": {
+    "img_link": "https://mobileimages.lowes.com/productimages/3a1a5830-0d3b-4d0d-993c-121402c411f2/72320554.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "5": {
+    "img_link": "https://mobileimages.lowes.com/productimages/4e983f32-d193-4243-bcf3-a4a59c520dea/73277039.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "6": {
+    "img_link": "https://mobileimages.lowes.com/productimages/3cdc6c6d-be34-4266-a6d7-b90402abc823/72320544.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "7": {
+    "img_link": "https://mobileimages.lowes.com/productimages/e4b92c34-de74-4533-91ab-95f2cf8ad945/72320593.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "8": {
+    "img_link": "https://mobileimages.lowes.com/productimages/bc014604-da98-4bcf-85bd-14610fd710c2/67024599.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "9": {
+    "img_link": "https://mobileimages.lowes.com/productimages/d1c3bc45-aab0-4e48-a2cb-64652db8a415/67024239.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "red"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "yellow",
+          "orange"
+        ],
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "10": {
+    "img_link": "https://mobileimages.lowes.com/productimages/c7de64da-cf89-4b21-a857-b0080f6dbea9/16508979.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "11": {
+    "img_link": "https://mobileimages.lowes.com/productimages/2bfeeceb-b090-46c1-babc-c8989509c94a/72320587.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "12": {
+    "img_link": "https://mobileimages.lowes.com/productimages/fb221c0d-b600-4c0d-8f45-70a2294ea8a2/64234795.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "yellow"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "13": {
+    "img_link": "https://mobileimages.lowes.com/productimages/177c0527-9ac0-4921-9c7c-a31bc9cbd9f1/63613102.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "14": {
+    "img_link": "https://mobileimages.lowes.com/productimages/c1e6e45f-727c-4085-9525-59531b5e79c0/44831674.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "15": {
+    "img_link": "https://mobileimages.lowes.com/productimages/a3e14f45-9b41-43a9-9b7a-072d8d1eb4c3/67024353.jpeg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "sunflower": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "16": {
+    "img_link": "https://mobileimages.lowes.com/productimages/a7206a00-57e7-49b1-b81e-418a1cd575a8/72064661.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "17": {
+    "img_link": "https://mobileimages.lowes.com/productimages/40073565-b259-4f26-94c9-c7f51a861066/63613056.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "18": {
+    "img_link": "https://mobileimages.lowes.com/productimages/44775062-b297-4f82-ba24-f2ae1686617c/87798175.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "pumpkin leaf": [
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "19": {
+    "img_link": "https://mobileimages.lowes.com/productimages/fd48edd4-5ea4-4419-bcfa-3fa142a00ff2/16301905.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "red"
+        ],
+        "berry": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "20": {
+    "img_link": "https://mobileimages.lowes.com/productimages/c71bd780-957b-4116-8780-97af513c4d5f/67844934.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "21": {
+    "img_link": "https://mobileimages.lowes.com/productimages/65e87e75-a89c-4d10-a8d2-8f9670c37bf9/16301916.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "22": {
+    "img_link": "https://mobileimages.lowes.com/productimages/438fba03-47c3-4c4d-8379-fa4b241a0477/67845356.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "tree": [
+          "black"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "23": {
+    "img_link": "https://mobileimages.lowes.com/productimages/119eeffe-1319-42d5-8979-c2d26faec5d7/63225328.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "white"
+        ],
+        "daisy": [
+          "white",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green"
+        ],
+        "ivy": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "24": {
+    "img_link": "https://mobileimages.lowes.com/productimages/84cc713f-8543-4040-9b11-0502950d1ae6/72320515.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "25": {
+    "img_link": "https://mobileimages.lowes.com/productimages/8bb003b5-ea55-4a7a-9b64-fd8f6c3da672/67024514.jpeg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "orange",
+          "red"
+        ]
+      },
+      "leaves": {
+        "chrysanthemum": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "26": {
+    "img_link": "https://mobileimages.lowes.com/productimages/3d32e327-1834-4ab8-a6c5-457aacdcd1b0/67846254.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "tree": [
+          "black"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "27": {
+    "img_link": "https://mobileimages.lowes.com/productimages/df4cc43a-c940-4429-b19d-461b646cacdb/60041954.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ],
+        "berry": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "28": {
+    "img_link": "https://mobileimages.lowes.com/productimages/5d289fb2-3e44-4917-bbae-5d6eeaa79d47/72115574.jpeg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "tan"
+        ]
+      }
+    },
+    "error": null
+  },
+  "29": {
+    "img_link": "https://mobileimages.lowes.com/productimages/e8b8fb86-42c7-497c-8d88-eedc33c3f3e1/63225305.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "magnolia": [
+          "pink",
+          "white"
+        ],
+        "wildflower": [
+          "purple",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "ivy": [
+          "green",
+          "red"
+        ],
+        "fern": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "30": {
+    "img_link": "https://mobileimages.lowes.com/productimages/5c4b0fea-bd13-4626-9874-4654a3d64215/63613083.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "ivy": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "31": {
+    "img_link": "https://mobileimages.lowes.com/productimages/8643f75d-6ade-4e09-bb29-1c36fd4c84b8/72320557.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "32": {
+    "img_link": "https://mobileimages.lowes.com/productimages/6ed84a42-24de-4cb2-a43d-64569a5f33c5/67024576.jpeg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "33": {
+    "img_link": "https://mobileimages.lowes.com/productimages/a502c7c8-1f09-46e1-9bc8-c4b9f6c8aad2/72064752.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "34": {
+    "img_link": "https://mobileimages.lowes.com/productimages/1a77957d-3621-4573-af71-a05a3f78071d/67480754.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "purple"
+        ]
+      },
+      "leaves": {
+        "grass": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "35": {
+    "img_link": "https://mobileimages.lowes.com/productimages/e2b292f6-0290-472f-b3be-3a1e25c15b99/67845072.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "tree": [
+          "black"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "36": {
+    "img_link": "https://mobileimages.lowes.com/productimages/3eb16d90-7237-411c-9c63-55ba5a486702/83729736.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "37": {
+    "img_link": "https://mobileimages.lowes.com/productimages/fd02d9b1-9532-4d26-b0a0-a7f39c1328bc/73277095.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "38": {
+    "img_link": "https://mobileimages.lowes.com/productimages/f4ea8036-b3d7-4a26-8af4-054565a4dd86/72058711.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "39": {
+    "img_link": "https://mobileimages.lowes.com/productimages/5be918a1-2586-4668-90b6-e5cdd4cf3d46/63225298.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "wildflower": [
+          "purple",
+          "green"
+        ],
+        "succulent": [
+          "brown",
+          "green"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green"
+        ],
+        "eucalyptus": [
+          "green"
+        ],
+        "ivy": [
+          "green"
+        ],
+        "coleus": [
+          "green",
+          "red"
+        ],
+        "grass": [
+          "tan"
+        ]
+      },
+      "fruit": {
+        "pomegranate": [
+          "red"
+        ],
+        "berry": [
+          "blue"
+        ]
+      }
+    },
+    "error": null
+  },
+  "40": {
+    "img_link": "https://mobileimages.lowes.com/productimages/7ffcfa7b-9b2e-4cd5-9725-480d6498f183/67845673.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "tree": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "41": {
+    "img_link": "https://mobileimages.lowes.com/productimages/2c1289ea-f33e-456d-862e-c459052d6bad/67024486.jpeg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "42": {
+    "img_link": "https://mobileimages.lowes.com/productimages/4a558171-a87c-4800-80dc-28a884338428/73277175.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "red"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "green",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "43": {
+    "img_link": "https://mobileimages.lowes.com/productimages/0c77fe8b-08ef-40ae-b1bc-8a4e4458855c/85748605.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "44": {
+    "img_link": "https://mobileimages.lowes.com/productimages/584d27b3-5e96-4c99-a2eb-e0fcee3c71ae/66748322.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "ivy": [
+          "green",
+          "white"
+        ],
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "white"
+        ],
+        "pumpkin": [
+          "gold",
+          "gray"
+        ]
+      }
+    },
+    "error": null
+  },
+  "45": {
+    "img_link": "https://mobileimages.lowes.com/productimages/a0aeff67-3e1d-406c-b7a4-ca47d8a4f5ee/63225316.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "magnolia": [
+          "white",
+          "green"
+        ],
+        "wildflower": [
+          "white",
+          "green"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green"
+        ],
+        "ivy": [
+          "green"
+        ],
+        "succulent": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "46": {
+    "img_link": "https://mobileimages.lowes.com/productimages/fdb41ad1-a2b5-4a1c-b246-2a8b140d2a57/63613110.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "47": {
+    "img_link": "https://mobileimages.lowes.com/productimages/66be8f1a-08b2-4e08-b868-c40750ccce12/73277415.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "48": {
+    "img_link": "https://mobileimages.lowes.com/productimages/bb6c9943-53cc-41a4-8c1b-9fe9dd34c34e/67024578.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "49": {
+    "img_link": "https://mobileimages.lowes.com/productimages/487d95aa-d359-45c8-961f-cab7d9f3ac5f/63999437.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "50": {
+    "img_link": "https://mobileimages.lowes.com/productimages/eb7c9318-42a8-4895-a8cb-b862712d1c12/48969620.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "51": {
+    "img_link": "https://mobileimages.lowes.com/productimages/545a1f54-aa35-410c-8e1f-b7caec84b007/64005181.jpg",
+    "labels": {
+      "product_type": "teardrop",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ],
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ],
+        "berry": [
+          "orange",
+          "yellow"
+        ],
+        "acorn": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "52": {
+    "img_link": "https://mobileimages.lowes.com/productimages/1b219de4-08d4-4606-a1c8-5abf8623bd42/16303152.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "53": {
+    "img_link": "https://mobileimages.lowes.com/productimages/16dfc9f7-4881-40ec-8dcb-73b1456870ba/67845084.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "ash": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "54": {
+    "img_link": "https://mobileimages.lowes.com/productimages/49cb7f16-2f87-4ad1-a1f5-0dc8a71ea817/66748331.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "55": {
+    "img_link": "https://mobileimages.lowes.com/productimages/12cab435-c9f3-432b-a632-150e107a77a3/67366576.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "56": {
+    "img_link": "https://mobileimages.lowes.com/productimages/4285d9ab-0395-41c7-80cc-d10ce565eb9d/87105033.jpeg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "pumpkin": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "57": {
+    "img_link": "https://mobileimages.lowes.com/productimages/d906981b-6186-4e7f-863f-6454ef18e1d4/67070684.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "gold",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "58": {
+    "img_link": "https://mobileimages.lowes.com/productimages/d05c0a5b-5eb9-4c4e-ac4f-b5d046e64fb1/67070357.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "59": {
+    "img_link": "https://mobileimages.lowes.com/productimages/5a229961-5124-4ca4-a3ce-3c4e6464243f/67845079.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "tree": [
+          "pink",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "60": {
+    "img_link": "https://mobileimages.lowes.com/productimages/9b349fb9-e7a0-4297-a278-32a47f657316/72320536.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "61": {
+    "img_link": "https://mobileimages.lowes.com/productimages/23ec837f-7443-4003-b73c-84ceded5e8b0/67070354.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "pumpkin": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "62": {
+    "img_link": "https://mobileimages.lowes.com/productimages/6e5083eb-bb3d-48aa-9d00-28a23add6c65/67845277.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "63": {
+    "img_link": "https://mobileimages.lowes.com/productimages/3e9b5b74-67bc-461b-a290-245c2baaa642/67845133.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "64": {
+    "img_link": "https://mobileimages.lowes.com/productimages/02e78e99-de3c-4028-ba28-c09dd7d504de/67070673.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "65": {
+    "img_link": "https://mobileimages.lowes.com/productimages/e1d802fe-1e8d-4125-a71b-cbfc9572cf00/67845757.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "tree": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "66": {
+    "img_link": "https://mobileimages.lowes.com/productimages/abfef8d6-7142-4160-a618-94ce3659bae6/72058347.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "gold",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "67": {
+    "img_link": "https://mobileimages.lowes.com/productimages/af99b7ca-1e4d-49b0-b9c0-dc5fc9bc9987/85743670.jpeg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "68": {
+    "img_link": "https://mobileimages.lowes.com/productimages/1e14dca1-0fc4-4313-816d-9c50079abd85/72320576.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "tree": [
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "69": {
+    "img_link": "https://mobileimages.lowes.com/productimages/d76ff06a-3081-4fc1-9bb1-e30e5ed8d25f/85035421.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "70": {
+    "img_link": "https://mobileimages.lowes.com/productimages/00736d9a-f050-4289-81a6-ef016e9a9034/84869666.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "71": {
+    "img_link": "https://mobileimages.lowes.com/productimages/fc36ff88-fe1d-4541-b9fd-76467e179af9/72320523.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "tree": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "72": {
+    "img_link": "https://mobileimages.lowes.com/productimages/14501737-2b53-4814-8ca0-6095da1318c6/72115573.jpeg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "foliage": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "73": {
+    "img_link": "https://mobileimages.lowes.com/productimages/533a840e-2b02-4e9c-8061-f680346cf4db/72058330.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "74": {
+    "img_link": "https://mobileimages.lowes.com/productimages/5d23c77e-7bbc-496b-a55c-c0dd5b0eb78d/85035367.jpeg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "75": {
+    "img_link": "https://mobileimages.lowes.com/productimages/c0569eee-704e-4d64-bfb8-3f83d3d3f27b/67024598.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "76": {
+    "img_link": "https://mobileimages.lowes.com/productimages/55103ce9-6f8f-4bd4-99fc-836ab0eebd0b/72233615.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "gold"
+        ]
+      }
+    },
+    "error": null
+  },
+  "77": {
+    "img_link": "https://mobileimages.lowes.com/productimages/85f883a1-927c-4481-9de2-c79058e84f50/72058734.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "daisy": [
+          "white",
+          "cream"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {
+        "gourd": [
+          "green",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "78": {
+    "img_link": "https://mobileimages.lowes.com/productimages/3c6be1ce-59fd-4478-8037-a21cfd821db9/67846150.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "79": {
+    "img_link": "https://mobileimages.lowes.com/productimages/b1a0d7df-552e-4164-803c-75a1bbd0418b/67845987.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "tree": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "80": {
+    "img_link": "https://mobileimages.lowes.com/productimages/82f9a21b-466f-40c4-ae5f-576bcd65489d/44360606.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "81": {
+    "img_link": "https://mobileimages.lowes.com/productimages/d72d7fd7-27c5-40a2-80ef-4aece73651f6/72320410.jpeg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "82": {
+    "img_link": "https://mobileimages.lowes.com/productimages/b3d9d9fb-e939-4622-8866-e6b92797ffcb/84867708.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ],
+        "berry": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "83": {
+    "img_link": "https://mobileimages.lowes.com/productimages/169d90a2-fa17-470b-8bf8-501494eb7626/66748396.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "84": {
+    "img_link": "https://mobileimages.lowes.com/productimages/2689a929-62ed-4d0b-bc5d-cbd093d3932d/67481824.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "85": {
+    "img_link": "https://mobileimages.lowes.com/productimages/655f41df-83a6-432e-b09c-44d42042f030/13166538.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "gold"
+        ]
+      }
+    },
+    "error": null
+  },
+  "86": {
+    "img_link": "https://mobileimages.lowes.com/productimages/ed9cfb59-9edc-4e3d-9b39-870eca1aab5b/63225296.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "dahlia": [
+          "purple"
+        ],
+        "rose": [
+          "white"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "87": {
+    "img_link": "https://mobileimages.lowes.com/productimages/d175503a-77d4-4f18-9dde-0b5f9ba577e5/72320537.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "88": {
+    "img_link": "https://mobileimages.lowes.com/productimages/b60105dd-1d87-4ee2-9b1a-797780250507/72320522.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "89": {
+    "img_link": "https://mobileimages.lowes.com/productimages/a3143ad1-3d86-4502-9e87-d44a37f4553a/72320603.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "90": {
+    "img_link": "https://mobileimages.lowes.com/productimages/d21aa32c-7e25-454f-8e39-488fa948d271/72320545.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "91": {
+    "img_link": "https://mobileimages.lowes.com/productimages/a93e62e7-ecc6-4b6d-a504-b3d2dc7e6adc/72233558.jpeg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "92": {
+    "img_link": "https://mobileimages.lowes.com/productimages/9212992d-ac82-4917-8fd2-ac16e00e5159/67472690.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "93": {
+    "img_link": "https://mobileimages.lowes.com/productimages/29568832-b20b-45a8-93ff-b40d9aea7438/72320518.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "94": {
+    "img_link": "https://mobileimages.lowes.com/productimages/93fb955e-a821-4435-ade1-a4c7f594df36/67845123.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "other": [
+          "black"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "95": {
+    "img_link": "https://mobileimages.lowes.com/productimages/0ba64aca-22d5-4f12-a8a3-60a78045f875/84868803.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "96": {
+    "img_link": "https://mobileimages.lowes.com/productimages/91f3bc0d-4217-4602-9bef-a43f5d2f6515/67473176.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "97": {
+    "img_link": "https://mobileimages.lowes.com/productimages/9501d641-7318-43c7-a4b8-9fe71bd6b10d/66748471.jpeg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "98": {
+    "img_link": "https://mobileimages.lowes.com/productimages/343861cc-f241-4069-9e74-a99e2ef3336f/67844708.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "99": {
+    "img_link": "https://mobileimages.lowes.com/productimages/48ad35e4-83b6-4378-a44f-5304a39db068/63613068.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ],
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "100": {
+    "img_link": "https://mobileimages.lowes.com/productimages/a4e9719a-c186-4573-b6f6-31d34897d933/73277114.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "beige"
+        ]
+      }
+    },
+    "error": null
+  },
+  "101": {
+    "img_link": "https://mobileimages.lowes.com/productimages/6e2784c8-e9a8-435a-be39-3184ac7522c1/67070686.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "turquoise"
+        ]
+      }
+    },
+    "error": null
+  },
+  "102": {
+    "img_link": "https://mobileimages.lowes.com/productimages/9a590fa9-540a-483d-813d-31057c0c8571/67024516.jpeg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "chrysanthemum": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "103": {
+    "img_link": "https://mobileimages.lowes.com/productimages/e91dfe97-b2d9-4648-86e5-c7d5d86fb181/72064758.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "104": {
+    "img_link": "https://mobileimages.lowes.com/productimages/5a7a1a34-72f8-4d89-9b07-43b3c221b192/67070548.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "105": {
+    "img_link": "https://mobileimages.lowes.com/productimages/34f7449c-89e6-4f1d-8d8d-c18478b450c4/67845223.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "106": {
+    "img_link": "https://mobileimages.lowes.com/productimages/5b50f0ef-7811-4b63-86b3-10c7f181bd39/66748476.jpeg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "brown",
+          "cream"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "107": {
+    "img_link": "https://mobileimages.lowes.com/productimages/5297da2c-ae91-4f54-93bc-73c75fa7a9d4/72233447.jpeg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "108": {
+    "img_link": "https://mobileimages.lowes.com/productimages/57bf0e09-bda0-4ac0-803c-99f3dc6a919a/67845967.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "109": {
+    "img_link": "https://mobileimages.lowes.com/productimages/c2ad0124-4fbc-4885-ac4e-e4585926873a/67846167.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "110": {
+    "img_link": "https://mobileimages.lowes.com/productimages/66a8fd5a-f055-4b63-993a-e894fb18b3b4/67482267.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "111": {
+    "img_link": "https://mobileimages.lowes.com/productimages/b819ff89-d7bf-4053-9bd5-dbd5b5db9b3b/85750423.jpeg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "112": {
+    "img_link": "https://mobileimages.lowes.com/productimages/7ba119fa-7bf9-4aaa-a586-74da53bd2178/72320553.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "113": {
+    "img_link": "https://mobileimages.lowes.com/productimages/ebf4a532-9fd0-46a2-b293-c3fb82d2d1c6/83729741.jpeg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "114": {
+    "img_link": "https://mobileimages.lowes.com/productimages/9c35b4e8-1d4d-47fd-be39-457077956f8f/67475674.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "lavender": [
+          "purple"
+        ],
+        "wildflower": [
+          "white"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "115": {
+    "img_link": "https://mobileimages.lowes.com/productimages/84ae322d-cbd8-48d7-a529-dafeb498a8f9/75397208.jpeg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "116": {
+    "img_link": "https://mobileimages.lowes.com/productimages/f49b36d0-6d8d-410f-b573-e1a87f4ef12d/72320555.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "117": {
+    "img_link": "https://mobileimages.lowes.com/productimages/54fee0e8-0d82-4813-a955-69c580fdf229/72320685.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "boxwood": [
+          "green",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "118": {
+    "img_link": "https://mobileimages.lowes.com/productimages/bbd4f016-3a81-468f-a13f-86138d6f796a/62759276.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "green",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "119": {
+    "img_link": "https://mobileimages.lowes.com/productimages/48a70cac-785e-48f5-8a87-3a514a1f24fd/72320550.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "120": {
+    "img_link": "https://mobileimages.lowes.com/productimages/5f5d1f45-4b56-4bb9-ba8e-f69cd818f4ba/72320541.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "121": {
+    "img_link": "https://mobileimages.lowes.com/productimages/1c972d2f-d982-432c-ba80-06a19fb88b24/72320548.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "122": {
+    "img_link": "https://mobileimages.lowes.com/productimages/a30a24b3-ac5c-4f6f-82e8-2a6463b9dc78/84870324.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "123": {
+    "img_link": "https://mobileimages.lowes.com/productimages/297af240-e515-4f8f-bde7-b39ffa5c2328/11432970.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "124": {
+    "img_link": "https://mobileimages.lowes.com/productimages/231378c3-0916-43fb-9658-9d1e9642ac60/17482192.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "125": {
+    "img_link": "https://mobileimages.lowes.com/productimages/a28e417a-1545-4bed-b466-d005b2be49f3/67024135.jpeg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "126": {
+    "img_link": "https://mobileimages.lowes.com/productimages/ac86102c-86bd-4d81-985a-9ab7c8fbb999/67845076.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "tree": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "127": {
+    "img_link": "https://mobileimages.lowes.com/productimages/85c8938a-eff8-44ae-b4d6-2a1c95b490f0/88914506.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "boxwood": [
+          "green",
+          "light green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "128": {
+    "img_link": "https://mobileimages.lowes.com/productimages/b5791e7b-58df-497a-9081-5ccb89dc18f7/44831572.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "gray"
+        ]
+      }
+    },
+    "error": null
+  },
+  "129": {
+    "img_link": "https://mobileimages.lowes.com/productimages/4779ce2f-4e91-4731-af0b-2317d8fc62dc/67845006.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "tree": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "130": {
+    "img_link": "https://mobileimages.lowes.com/productimages/f43fba69-8717-45c2-8eee-f36d1f774f2f/72115581.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "gold",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "131": {
+    "img_link": "https://mobileimages.lowes.com/productimages/ba22af25-8265-492a-81ba-19616c1f7f1b/44360392.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "132": {
+    "img_link": "https://mobileimages.lowes.com/productimages/89179346-768c-45be-b34b-771a0a8cee01/66748457.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "133": {
+    "img_link": "https://mobileimages.lowes.com/productimages/27321ee7-09ef-4f4b-b0aa-6d55ce6ad8ae/72064393.jpeg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "134": {
+    "img_link": "https://mobileimages.lowes.com/productimages/737aac6c-dd35-4b45-8498-989d7dd8a8de/67024515.jpeg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "cream",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "generic": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "135": {
+    "img_link": "https://mobileimages.lowes.com/productimages/62f5e86c-a195-4235-a678-887a289d0e8f/60041976.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "pomegranate": [
+          "red",
+          "brown"
+        ],
+        "berry": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "136": {
+    "img_link": "https://mobileimages.lowes.com/productimages/48f9db74-06c4-44d3-90cc-fc0a0da60089/44360173.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "blue"
+        ]
+      }
+    },
+    "error": null
+  },
+  "137": {
+    "img_link": "https://mobileimages.lowes.com/productimages/2b958e0e-aa59-441a-b1a0-447774dbf05d/67845309.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "138": {
+    "img_link": "https://mobileimages.lowes.com/productimages/9166c552-5335-44a9-8368-2b2ec6b3b199/66748404.jpeg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "139": {
+    "img_link": "https://mobileimages.lowes.com/productimages/fb65db4b-1631-4987-b84b-29303b873381/49447422.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "flower",
+      "flowers": {
+        "daisy": [
+          "yellow"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "140": {
+    "img_link": "https://mobileimages.lowes.com/productimages/f7d9c974-208b-44d4-82dc-678d36b056cc/71460189.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "green",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "141": {
+    "img_link": "https://mobileimages.lowes.com/productimages/61920ed1-b9a3-46f9-9d9a-036b72fd6763/72058362.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "gold",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "142": {
+    "img_link": "https://mobileimages.lowes.com/productimages/738964ba-92cc-4ce8-adfd-e235e6570045/72320552.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "143": {
+    "img_link": "https://mobileimages.lowes.com/productimages/cb02a0a9-f21c-4403-9c78-bb01e711f491/84997074.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "144": {
+    "img_link": "https://mobileimages.lowes.com/productimages/e14eb357-f1e8-40f4-b3c1-d6d8869bdbd3/49850451.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "145": {
+    "img_link": "https://mobileimages.lowes.com/productimages/abd2bed9-46eb-4180-ab2b-5e2b64f0b62d/11875737.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "146": {
+    "img_link": "https://mobileimages.lowes.com/productimages/826d189c-440d-4fbf-a57a-e7eeb853e85c/72058302.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "yellow",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "147": {
+    "img_link": "https://mobileimages.lowes.com/productimages/b1e62af0-95d2-4b6a-9357-e6a3100ae43e/72058617.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "grass": [
+          "brown",
+          "yellow"
+        ],
+        "maple": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "148": {
+    "img_link": "https://mobileimages.lowes.com/productimages/aa553d90-601f-4cf9-98e1-3f15b4184f30/67845497.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "tree": [
+          "black"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "149": {
+    "img_link": "https://mobileimages.lowes.com/productimages/01da00f8-5bcf-42ef-a93c-5be802c30697/72058669.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ],
+        "oak": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "150": {
+    "img_link": "https://mobileimages.lowes.com/productimages/70bba34f-7442-4083-9a96-2d4088d89601/63613081.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "green",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "151": {
+    "img_link": "https://mobileimages.lowes.com/productimages/7e720b0d-db94-4b81-a862-9fbf7b79e044/84870584.jpeg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "152": {
+    "img_link": "https://mobileimages.lowes.com/productimages/b9786161-b2ac-492f-82a8-49153f61138c/63613119.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "153": {
+    "img_link": "https://mobileimages.lowes.com/productimages/ef0bb7e0-1a17-4190-b6c8-58ca4716c48f/66748479.jpeg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "154": {
+    "img_link": "https://mobileimages.lowes.com/productimages/a944c42a-ce29-4953-bbc8-4e61ac1f394e/72320609.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "cypress": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": "APIConnectionError: Connection error."
+  },
+  "155": {
+    "img_link": "https://mobileimages.lowes.com/productimages/63ebd225-fd4f-4da8-b71f-d973c962038a/72064740.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "156": {
+    "img_link": "https://mobileimages.lowes.com/productimages/f5c0a4bb-9562-4b9a-b26b-8e224ae1a690/72320572.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "green",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "157": {
+    "img_link": "https://mobileimages.lowes.com/productimages/ac71d9d5-5040-40e9-a461-b512d2e496fa/85035420.jpeg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "158": {
+    "img_link": "https://mobileimages.lowes.com/productimages/90e7e5f1-62c7-456b-b6b3-3caf1c77d35d/85748502.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "159": {
+    "img_link": "https://mobileimages.lowes.com/productimages/bb1a5ae9-eecb-4546-bb80-1232775977a9/85968851.jpeg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "generic": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "160": {
+    "img_link": "https://mobileimages.lowes.com/productimages/be63fc2e-a274-42e2-87ad-ff43973b5fee/16303098.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "161": {
+    "img_link": "https://mobileimages.lowes.com/productimages/a1f00daf-2246-415b-99b3-3612bdfc15da/11956732.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "turquoise",
+          "gold"
+        ]
+      }
+    },
+    "error": null
+  },
+  "162": {
+    "img_link": "https://mobileimages.lowes.com/productimages/d3bc6bd3-ced8-4e06-8f93-27c628137381/63225219.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "pink",
+          "white"
+        ],
+        "peony": [
+          "pink",
+          "white"
+        ],
+        "wildflower": [
+          "yellow",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "yellow"
+        ],
+        "succulent": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "163": {
+    "img_link": "https://mobileimages.lowes.com/productimages/4fad4b58-9926-4461-ae5b-2491e1195793/67070511.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "164": {
+    "img_link": "https://mobileimages.lowes.com/productimages/6b9b9017-a4ed-444f-8ed0-a8ce8eff54ca/64326705.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "165": {
+    "img_link": "https://mobileimages.lowes.com/productimages/4f6ee025-6e9d-4879-99b5-5c7bcb0263d8/71631968.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "acorn": [
+          "brown",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "166": {
+    "img_link": "https://mobileimages.lowes.com/productimages/7d0d9906-ac09-45a1-b58a-7bb622835b0a/48969723.png",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "167": {
+    "img_link": "https://mobileimages.lowes.com/productimages/21b7a2aa-7e94-4de9-8c9a-3162e33ff532/66748434.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "168": {
+    "img_link": "https://mobileimages.lowes.com/productimages/6d2e2948-6e61-4eb8-8965-cc24271b0651/67024282.jpeg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "white"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "169": {
+    "img_link": "https://mobileimages.lowes.com/productimages/64dd74a4-71f7-468c-ba47-6d45b9342304/84869633.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ],
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "170": {
+    "img_link": "https://mobileimages.lowes.com/productimages/4ccc8f69-2c95-4393-8abc-19d5ded37f3d/11437112.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "171": {
+    "img_link": "https://mobileimages.lowes.com/productimages/ce4cb5ab-02e1-4ba5-ae32-1be0c09641b4/67070663.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "172": {
+    "img_link": "https://mobileimages.lowes.com/productimages/8910f90f-5a48-423a-b5b0-60c3832f44eb/13411885.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "blue"
+        ]
+      }
+    },
+    "error": null
+  },
+  "173": {
+    "img_link": "https://mobileimages.lowes.com/productimages/5d308b6b-31e5-4368-89ee-f35ad6864243/13411884.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "blue"
+        ]
+      }
+    },
+    "error": null
+  },
+  "174": {
+    "img_link": "https://mobileimages.lowes.com/productimages/5692633b-615b-4100-a8aa-0a2122ba02ca/67845023.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "tree": [
+          "black"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "175": {
+    "img_link": "https://mobileimages.lowes.com/productimages/8975596d-bddf-4863-946f-fb0e0e39ad4b/67024134.jpeg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "176": {
+    "img_link": "https://mobileimages.lowes.com/productimages/d7a7f360-cf00-4d36-b198-7bd6cc50518d/66748365.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "177": {
+    "img_link": "https://mobileimages.lowes.com/productimages/55626380-2a2e-4a7c-a8ea-1c70704b3662/63613052.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "178": {
+    "img_link": "https://mobileimages.lowes.com/productimages/6077b0b9-9bba-4362-b805-a5802e4b7462/63613064.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "179": {
+    "img_link": "https://mobileimages.lowes.com/productimages/207ae0f7-aa1a-4dc9-aa48-8db68cf4f73e/67482180.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "lily": [
+          "white"
+        ],
+        "wildflower": [
+          "purple"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green"
+        ],
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "180": {
+    "img_link": "https://mobileimages.lowes.com/productimages/42480e08-7640-4eb1-8fab-b7f5954dbd57/16926344.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "181": {
+    "img_link": "https://mobileimages.lowes.com/productimages/2827b607-45f6-4486-9452-7208f35effcb/11956690.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "gray"
+        ]
+      }
+    },
+    "error": null
+  },
+  "182": {
+    "img_link": "https://mobileimages.lowes.com/productimages/7200a72f-7bbd-4355-9519-65c9970cb4ea/44359894.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "183": {
+    "img_link": "https://mobileimages.lowes.com/productimages/0dc37a15-ae8b-4e6d-8341-e53b00e8f4dd/44360317.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ],
+        "gourd": [
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "184": {
+    "img_link": "https://mobileimages.lowes.com/productimages/816b7edb-c4ee-40dd-8f1d-02347f2354b1/73656579.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "boxwood": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "185": {
+    "img_link": "https://mobileimages.lowes.com/productimages/64d2277b-8856-4327-8bea-18196d720429/73726478.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "boxwood": [
+          "green",
+          "light green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "186": {
+    "img_link": "https://mobileimages.lowes.com/productimages/6e62965f-47cb-4ba3-8494-18e76ffba5c0/44359877.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "187": {
+    "img_link": "https://mobileimages.lowes.com/productimages/4467fada-2ec7-4e67-b5c6-2d7829e519b9/73277018.jpeg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "188": {
+    "img_link": "https://mobileimages.lowes.com/productimages/8126a3ed-2e7c-41e8-a1e9-177e7c3fe1bc/73277111.jpeg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "189": {
+    "img_link": "https://mobileimages.lowes.com/productimages/50ce3db4-48d2-4b83-ba0a-0a9a67a3f077/44360303.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "beige",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "190": {
+    "img_link": "https://mobileimages.lowes.com/productimages/274ef953-dd8c-4d2f-8efd-7181dbfa25c1/44831782.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "purple"
+        ]
+      }
+    },
+    "error": null
+  },
+  "191": {
+    "img_link": "https://mobileimages.lowes.com/productimages/7193f3ee-cd06-4fee-8bcb-25b0ee0ca9ba/64000046.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "pumpkin leaf": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "192": {
+    "img_link": "https://mobileimages.lowes.com/productimages/5b62e390-3f9f-4a69-ab49-26fa1dba93b1/72320542.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "193": {
+    "img_link": "https://mobileimages.lowes.com/productimages/0f725fe7-f10d-4f37-ac89-4ac91f2298bf/72320530.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "194": {
+    "img_link": "https://mobileimages.lowes.com/productimages/76b2252c-dd22-45e8-aa51-edc258ebe54a/62756321.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "gourd": [
+          "blue"
+        ]
+      }
+    },
+    "error": null
+  },
+  "195": {
+    "img_link": "https://mobileimages.lowes.com/productimages/b0841901-48be-46e3-b826-20fff8076018/72320567.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "196": {
+    "img_link": "https://mobileimages.lowes.com/productimages/6efb2b69-6473-4eea-bd2c-72a305f07dde/62762388.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "yellow",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "197": {
+    "img_link": "https://mobileimages.lowes.com/productimages/1e1ef400-dca0-4e1c-8fcd-8ec15bffe548/72058610.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "grass": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "198": {
+    "img_link": "https://mobileimages.lowes.com/productimages/18db4cab-70fb-465a-bea0-720c7e46475f/71460392.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "199": {
+    "img_link": "https://mobileimages.lowes.com/productimages/1e1433c0-7133-41bb-a092-9bcd33ce2139/60041942.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "brown"
+        ],
+        "ivy": [
+          "green",
+          "red"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ],
+        "berry": [
+          "red",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "200": {
+    "img_link": "https://mobileimages.lowes.com/productimages/abd2bed9-46eb-4180-ab2b-5e2b64f0b62d/11875737.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "201": {
+    "img_link": "https://mobileimages.lowes.com/productimages/95f4facb-30b2-4c68-b159-25ec20662305/44498327.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "202": {
+    "img_link": "https://mobileimages.lowes.com/productimages/fd48edd4-5ea4-4419-bcfa-3fa142a00ff2/16301905.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "red"
+        ],
+        "berry": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "203": {
+    "img_link": "https://mobileimages.lowes.com/productimages/b5d6f483-d144-4df0-b392-b3b9ac53b7eb/68371277.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "daisy": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ],
+        "gourd": [
+          "orange",
+          "yellow"
+        ],
+        "berry": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "204": {
+    "img_link": "https://mobileimages.lowes.com/productimages/f7d9c974-208b-44d4-82dc-678d36b056cc/71460189.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "green",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "205": {
+    "img_link": "https://mobileimages.lowes.com/productimages/ca9813a9-b1b7-4b9e-a423-6ba69b443e3b/67024575.jpeg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "light green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "206": {
+    "img_link": "https://mobileimages.lowes.com/productimages/ce695aa4-5ea5-4443-a3bf-f36be9eb0b25/63613023.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "207": {
+    "img_link": "https://mobileimages.lowes.com/productimages/469eebfb-84cc-4523-b71d-fdd306c0e038/73376074.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "green",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "208": {
+    "img_link": "https://mobileimages.lowes.com/productimages/5f73e8c3-27c1-4d61-ab86-ccd84489a6fe/72058298.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "green",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "209": {
+    "img_link": "https://mobileimages.lowes.com/productimages/e50bad81-7f8c-400f-b0c7-44d3aa6ac67f/67070679.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "gold",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "210": {
+    "img_link": "https://mobileimages.lowes.com/productimages/c63779ea-1ada-40ee-8a66-84d6e690a298/72320569.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "211": {
+    "img_link": "https://mobileimages.lowes.com/productimages/2a295d94-09b5-4bf9-a53f-48bdf2187c26/72115570.jpeg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "bush": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "212": {
+    "img_link": "https://mobileimages.lowes.com/productimages/500d7c5a-262f-42a7-adab-b1a13e83ae30/72058344.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "213": {
+    "img_link": "https://mobileimages.lowes.com/productimages/df49aa9b-34b3-4831-9fc4-5549fc8e2e2a/67845287.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "214": {
+    "img_link": "https://mobileimages.lowes.com/productimages/2339cffb-64a2-4a7e-b377-a6935df35e96/62754784.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "gray"
+        ]
+      }
+    },
+    "error": null
+  },
+  "215": {
+    "img_link": "https://mobileimages.lowes.com/productimages/465900da-a7f7-4eaf-ad0a-aa8c326cfb53/72115577.jpeg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "grass": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "216": {
+    "img_link": "https://mobileimages.lowes.com/productimages/dbae99cb-1ad7-4628-a3da-a7c95b3a4ea7/67366589.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ],
+        "oak": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "217": {
+    "img_link": "https://mobileimages.lowes.com/productimages/ff734c48-b946-4e58-bef3-533c10fe8ca3/72320681.jpeg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "218": {
+    "img_link": "https://mobileimages.lowes.com/productimages/00714f36-dddf-4fc8-bf1b-35c198524ef0/67024488.jpeg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "generic": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "219": {
+    "img_link": "https://mobileimages.lowes.com/productimages/59fc24d3-44f9-4787-b67b-96d15bdf4e26/67024487.jpeg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "brown",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "generic": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "220": {
+    "img_link": "https://mobileimages.lowes.com/productimages/a752e93d-b9bd-4815-9028-5694e8641b35/67024222.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "other": [
+          "orange"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "221": {
+    "img_link": "https://mobileimages.lowes.com/productimages/cbc7c92c-1702-4063-bdc6-84eaec9401f6/44360295.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "222": {
+    "img_link": "https://mobileimages.lowes.com/productimages/a81f189c-1de0-4240-be34-b0d1267cbc07/63613103.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "223": {
+    "img_link": "https://mobileimages.lowes.com/productimages/bb825ae1-2a8e-4107-9c27-29952a939a69/49441377.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "224": {
+    "img_link": "https://mobileimages.lowes.com/productimages/f6a2e09c-8776-40c4-a795-224bb3688a5a/12158854.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "225": {
+    "img_link": "https://mobileimages.lowes.com/productimages/bdc362ff-1e37-4a3a-9f18-0b49775f2fae/72064669.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "226": {
+    "img_link": "https://mobileimages.lowes.com/productimages/5343b335-c416-4bb5-886c-0d586be5a966/66748400.jpeg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "227": {
+    "img_link": "https://mobileimages.lowes.com/productimages/a648eca1-a9dc-4199-865d-6ed2467e3d44/67844735.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "tree": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "228": {
+    "img_link": "https://mobileimages.lowes.com/productimages/d9c243f5-af3a-48d3-b6dd-8bb3fb473bfb/16724809.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ],
+        "pear": [
+          "orange",
+          "yellow"
+        ],
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "229": {
+    "img_link": "https://mobileimages.lowes.com/productimages/df675aa2-a6f5-4e70-a04c-b9242129ef59/72320551.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "230": {
+    "img_link": "https://mobileimages.lowes.com/productimages/4489c55a-0591-4c08-acdf-f45a57ed2b33/17482222.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "sunflower": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "231": {
+    "img_link": "https://mobileimages.lowes.com/productimages/4b74eb11-8e71-42fb-a084-62d4e6c3fc34/72058748.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "white",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "brown",
+          "orange"
+        ],
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "green",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "232": {
+    "img_link": "https://mobileimages.lowes.com/productimages/f17560fb-c4f5-410c-b9db-172722b60828/72064679.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ],
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "233": {
+    "img_link": "https://mobileimages.lowes.com/productimages/29cc9983-ac3b-471e-9d1e-399bc987f5f6/64720679.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "234": {
+    "img_link": "https://mobileimages.lowes.com/productimages/828414d1-763f-440a-b837-ae213c3eac06/72064694.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "235": {
+    "img_link": "https://mobileimages.lowes.com/productimages/4ce6e9d2-f016-438c-b72d-17ef7a7883eb/66748346.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "daisy": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "yellow",
+          "red"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "gold"
+        ],
+        "berry": [
+          "orange",
+          "gold"
+        ]
+      }
+    },
+    "error": null
+  },
+  "236": {
+    "img_link": "https://mobileimages.lowes.com/productimages/a3467ed2-d584-474d-af92-f933a2b83f0e/67024489.jpeg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "white"
+        ]
+      },
+      "leaves": {
+        "generic": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "237": {
+    "img_link": "https://mobileimages.lowes.com/productimages/301f800f-4c8d-493d-a43d-60c266d39d18/67845294.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "tree": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "238": {
+    "img_link": "https://mobileimages.lowes.com/productimages/b12daaad-3af6-4622-b24c-80bfb0024bfd/63225261.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "purple"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "239": {
+    "img_link": "https://mobileimages.lowes.com/productimages/5620eab6-6424-4e48-97ac-b129b4ea2f4d/62756656.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "acorn": [
+          "brown",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "240": {
+    "img_link": "https://mobileimages.lowes.com/productimages/64613925-d5d7-450e-932a-f550c016a22e/11516443.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "241": {
+    "img_link": "https://mobileimages.lowes.com/productimages/ae82f14e-a68c-439b-bd72-fcfc982b4234/42343666.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "242": {
+    "img_link": "https://mobileimages.lowes.com/productimages/15df8da2-d744-4c17-97fa-1a7e86760de3/67024517.jpeg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "243": {
+    "img_link": "https://mobileimages.lowes.com/productimages/1c708699-b47f-4237-803b-ce75ce09c596/67024437.jpeg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "244": {
+    "img_link": "https://mobileimages.lowes.com/productimages/0113c3f3-4ed6-45d6-9718-30b9a5108ddd/67845441.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "245": {
+    "img_link": "https://mobileimages.lowes.com/productimages/e9d28df9-89d3-4405-a230-635e345c481a/73277166.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "green",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "246": {
+    "img_link": "https://mobileimages.lowes.com/productimages/23c2692c-f42e-4e48-a9ee-4a394093f751/71537173.jpeg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "247": {
+    "img_link": "https://mobileimages.lowes.com/productimages/8518e3d3-0164-400e-8955-dcb4e4788878/64720680.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "248": {
+    "img_link": "https://mobileimages.lowes.com/productimages/248035b2-8da9-45bd-ad95-63e94ce2487d/67130203.jpeg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "249": {
+    "img_link": "https://mobileimages.lowes.com/productimages/7f86783e-fad8-44af-9c78-549a7caf058f/49447450.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "sunflower": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "250": {
+    "img_link": "https://mobileimages.lowes.com/productimages/fe4d81be-b53a-41e0-b8a2-6a4e7e4d09b6/63613051.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ],
+        "acorn": [
+          "yellow",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "251": {
+    "img_link": "https://mobileimages.lowes.com/productimages/eecbc175-83c5-43cd-9b32-7485b454ba1f/63225286.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "lemon": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "lemon": [
+          "yellow",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "252": {
+    "img_link": "https://mobileimages.lowes.com/productimages/3fbe3bde-ffcb-402c-93ce-97e5158667b8/44053897.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "253": {
+    "img_link": "https://mobileimages.lowes.com/productimages/88752dca-cecf-4301-888b-7150448dc9d8/74171359.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "ivy": [
+          "green",
+          "dark green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "254": {
+    "img_link": "https://mobileimages.lowes.com/productimages/f9a7fcc3-72c0-46ae-a6b9-a3375606ef96/63225327.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "pink"
+        ],
+        "daisy": [
+          "white",
+          "yellow"
+        ],
+        "wildflower": [
+          "purple",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green"
+        ],
+        "ivy": [
+          "green",
+          "white"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "255": {
+    "img_link": "https://mobileimages.lowes.com/productimages/cc16b0f8-e6a3-4fac-b048-b37cc20b3c5a/49447448.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "acorn": [
+          "red",
+          "brown"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "256": {
+    "img_link": "https://mobileimages.lowes.com/productimages/1ee44729-fc99-4f79-9855-96f77bc8c3ee/72320604.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "tree": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "257": {
+    "img_link": "https://mobileimages.lowes.com/productimages/4344888a-b7ea-4c8f-90c1-fef024b3b1ce/67822259.jpeg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "258": {
+    "img_link": "https://mobileimages.lowes.com/productimages/dcd169fe-b145-4fb3-8050-2f0243f98e09/72233350.jpeg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "259": {
+    "img_link": "https://mobileimages.lowes.com/productimages/e1d69925-7216-413b-a7ff-fc6f96ad34d8/63225292.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "peony": [
+          "yellow",
+          "orange"
+        ],
+        "rose": [
+          "white",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green"
+        ],
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "260": {
+    "img_link": "https://mobileimages.lowes.com/productimages/be2399e6-98c6-4d6f-9e81-c55c9234b754/63613055.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "261": {
+    "img_link": "https://mobileimages.lowes.com/productimages/972302a1-089b-4d78-b526-e7ccef7f31b3/44360519.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "blue"
+        ]
+      }
+    },
+    "error": null
+  },
+  "262": {
+    "img_link": "https://mobileimages.lowes.com/productimages/08f752ca-0bbb-4612-8c23-48514544fc9c/16799628.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "263": {
+    "img_link": "https://mobileimages.lowes.com/productimages/5e7d4d79-cd0a-4675-a371-4c624d04de10/67070664.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "264": {
+    "img_link": "https://mobileimages.lowes.com/productimages/eba95612-79b8-4b40-bbfc-be68845b15cc/67070555.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "265": {
+    "img_link": "https://mobileimages.lowes.com/productimages/655f41df-83a6-432e-b09c-44d42042f030/13166538.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "gold"
+        ]
+      }
+    },
+    "error": null
+  },
+  "266": {
+    "img_link": "https://mobileimages.lowes.com/productimages/b913f512-3691-4e76-a9ae-b860493e8a62/72320560.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "267": {
+    "img_link": "https://mobileimages.lowes.com/productimages/92bce92c-4be6-4e6a-aa18-bdc063ceb49b/72320532.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "268": {
+    "img_link": "https://mobileimages.lowes.com/productimages/d0a48c5c-71f2-4dac-8188-40ce3d342ab1/84869778.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "269": {
+    "img_link": "https://mobileimages.lowes.com/productimages/760d088f-0a80-4e1c-be08-b9a9d50fd013/72115584.jpeg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "sunflower": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "270": {
+    "img_link": "https://mobileimages.lowes.com/productimages/85766064-33d8-4ccf-990b-81d000c9e08d/72115582.jpeg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "grass": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "271": {
+    "img_link": "https://mobileimages.lowes.com/productimages/5a4df994-43db-4089-b1d5-cbd862dbe3f3/72058321.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "272": {
+    "img_link": "https://mobileimages.lowes.com/productimages/d7d7566e-6efd-4c02-b9e9-987a4d8dcd0c/64005340.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "273": {
+    "img_link": "https://mobileimages.lowes.com/productimages/7b03e97e-5c7c-458e-9e2a-341157ee5331/67070359.jpeg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "274": {
+    "img_link": "https://mobileimages.lowes.com/productimages/0ad9cf06-9234-454b-818a-86d2ddd91ec9/67024485.jpeg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "275": {
+    "img_link": "https://mobileimages.lowes.com/productimages/713293cb-ba02-4163-bf17-f8817fb06db5/67844924.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "276": {
+    "img_link": "https://mobileimages.lowes.com/productimages/c20b4732-328e-4ed9-b047-5b9faa829664/66748453.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "hydrangea": [
+          "blue",
+          "green"
+        ],
+        "wildflower": [
+          "peach",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "green",
+          "brown"
+        ],
+        "fern": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "277": {
+    "img_link": "https://mobileimages.lowes.com/productimages/2a680c77-3737-439e-802a-044317156948/72058667.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "dahlia": [
+          "cream"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "278": {
+    "img_link": "https://mobileimages.lowes.com/productimages/b75f9953-23d2-4bba-a616-d20ba906f711/72064368.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "279": {
+    "img_link": "https://mobileimages.lowes.com/productimages/0dcec035-6a39-4a89-95f6-9672afe2f80d/67024519.jpeg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "280": {
+    "img_link": "https://mobileimages.lowes.com/productimages/42ce5215-d973-47e5-a5d4-c5427a51745b/17480623.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "281": {
+    "img_link": "https://mobileimages.lowes.com/productimages/48032fd9-185e-4af2-b5a6-0b517e857b35/67070481.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "turquoise"
+        ]
+      }
+    },
+    "error": null
+  },
+  "282": {
+    "img_link": "https://mobileimages.lowes.com/productimages/260ffeba-0364-4fca-aa7a-2ab4bbdbdd8c/84868736.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "283": {
+    "img_link": "https://mobileimages.lowes.com/productimages/7a49b456-badb-4a13-b23e-75d32b169e85/72064798.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "ivy": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "284": {
+    "img_link": "https://mobileimages.lowes.com/productimages/634ecd9b-cc4a-4cea-8e4b-8e42bda39445/71460590.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "285": {
+    "img_link": "https://mobileimages.lowes.com/productimages/ae46f917-d505-4f80-8674-49bce5b55841/72064732.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "pumpkin leaf": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ],
+        "gourd": [
+          "yellow",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "286": {
+    "img_link": "https://mobileimages.lowes.com/productimages/0fa5d7a9-a31c-48e1-a605-bb2479604376/72320680.jpeg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "287": {
+    "img_link": "https://mobileimages.lowes.com/productimages/a896847e-589b-4940-9ca6-5dfd026f37dd/85748337.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "288": {
+    "img_link": "https://mobileimages.lowes.com/productimages/1cebfa36-663e-4a48-b984-8a2252953168/44831656.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "dark green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "289": {
+    "img_link": "https://mobileimages.lowes.com/productimages/883bbf5e-4199-4c45-90b3-4af38aa0f6fa/72115578.jpeg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "banksia": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "290": {
+    "img_link": "https://mobileimages.lowes.com/productimages/ca991ba4-f478-4bca-9e38-ae1adca6e64f/66013251.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "291": {
+    "img_link": "https://mobileimages.lowes.com/productimages/45b175b0-5583-466d-b4b0-0cbaf1673793/63613062.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "292": {
+    "img_link": "https://mobileimages.lowes.com/productimages/3bbe5d35-a056-4f82-bdc4-3ecc33a7fda3/63225288.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "daisy": [
+          "white",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "lemon": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "lemon": [
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "293": {
+    "img_link": "https://mobileimages.lowes.com/productimages/b57606a4-b2f9-4a30-a9b0-00d1b08e8b13/63225238.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "purple"
+        ],
+        "wildflower": [
+          "light blue",
+          "white"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green"
+        ],
+        "succulent": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "294": {
+    "img_link": "https://mobileimages.lowes.com/productimages/f2fe0078-e6e2-4507-ba9b-72b4f9d748ee/48969606.png",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "black"
+        ]
+      }
+    },
+    "error": null
+  },
+  "295": {
+    "img_link": "https://mobileimages.lowes.com/productimages/4f4c3a80-3c15-442e-9c1a-0f5d8a8dee8e/67024178.jpeg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "296": {
+    "img_link": "https://mobileimages.lowes.com/productimages/147bad80-0e75-432a-a29a-17e0aaa9b700/16119755.jpg",
+    "labels": {
+      "product_type": "",
+      "plant_type": "",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "297": {
+    "img_link": "https://mobileimages.lowes.com/productimages/1f0e11f6-f95f-46c6-be7c-03c8e0a7636e/72233412.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "tan"
+        ]
+      }
+    },
+    "error": null
+  },
+  "298": {
+    "img_link": "https://mobileimages.lowes.com/productimages/0121fcfa-87f2-42ed-97a2-2434a80b9474/66748445.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "peony": [
+          "brown",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "green",
+          "brown"
+        ],
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "yellow",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "299": {
+    "img_link": "https://mobileimages.lowes.com/productimages/5e81a757-cb4b-408e-beaa-5018a3957042/67845510.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "tree": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "300": {
+    "img_link": "https://mobileimages.lowes.com/productimages/c47f53e9-bec8-4f97-acc2-bf4a6712d739/85035424.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "301": {
+    "img_link": "https://mobileimages.lowes.com/productimages/9e8563d6-b793-41bf-b179-59ee7859bff2/72360091.jpeg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "302": {
+    "img_link": "https://mobileimages.lowes.com/productimages/6f33a3e5-ac67-4216-b307-c1776dc1f634/85752135.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "generic": [
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "303": {
+    "img_link": "https://mobileimages.lowes.com/productimages/dfa03789-a6e4-46d8-9427-5875798db6f5/71461043.jpeg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "green",
+          "blue"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "304": {
+    "img_link": "https://mobileimages.lowes.com/productimages/332d25e6-d3a6-4925-b282-6a1cf13281ce/74313567.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "boxwood": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "305": {
+    "img_link": "https://mobileimages.lowes.com/productimages/b6aa8b9f-d258-470d-a724-f0385b19cc44/78774486.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "white"
+        ],
+        "lambs ear": [
+          "green",
+          "white"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "306": {
+    "img_link": "https://mobileimages.lowes.com/productimages/1e3ce34c-46bc-4e59-b51b-7a6189821c41/67657370.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "cream",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "sunflower": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "307": {
+    "img_link": "https://mobileimages.lowes.com/productimages/c9590f17-4068-485a-9a95-d1cc0bcfb167/67471903.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "308": {
+    "img_link": "https://mobileimages.lowes.com/productimages/819aeea6-a043-418f-a6cd-342ab8e4fb10/88492753.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "boxwood": [
+          "green",
+          "dark green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "309": {
+    "img_link": "https://mobileimages.lowes.com/productimages/0afa68c1-43cb-441d-ada5-6a24b1cd90e6/74489554.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "boxwood": [
+          "green",
+          "light green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "310": {
+    "img_link": "https://mobileimages.lowes.com/productimages/1e9802d0-1c88-4658-ad43-01577fb0993e/78774608.png",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "boxwood": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "311": {
+    "img_link": "https://mobileimages.lowes.com/productimages/83b1a8ce-1b74-4f50-b172-36d646655491/72428289.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "312": {
+    "img_link": "https://mobileimages.lowes.com/productimages/4da0aee8-d673-4d31-b934-920f3dbb7e77/72428331.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "orange",
+          "red"
+        ]
+      },
+      "leaves": {
+        "grass": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "313": {
+    "img_link": "https://mobileimages.lowes.com/productimages/d435d346-7da0-4010-8c8b-4ca0193d3316/64246617.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "hydrangea": [
+          "green",
+          "purple"
+        ],
+        "rose": [
+          "blue",
+          "pink"
+        ],
+        "sunflower": [
+          "white",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ],
+        "ivy": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "blue",
+          "gray"
+        ]
+      }
+    },
+    "error": null
+  },
+  "314": {
+    "img_link": "https://mobileimages.lowes.com/productimages/8c5208e3-f571-4a1f-a5e8-94d72a0734a8/73276975.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "white",
+          "yellow"
+        ],
+        "grass": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "315": {
+    "img_link": "https://mobileimages.lowes.com/productimages/1942689c-d31c-4a3e-8d57-05f5e8620034/72233429.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "pine": [
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ],
+        "berry": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "316": {
+    "img_link": "https://mobileimages.lowes.com/productimages/56424515-4149-48de-8222-6070633e8e90/17802405.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "cotton": [
+          "white",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "light green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "317": {
+    "img_link": "https://mobileimages.lowes.com/productimages/62711d1e-7daf-4819-9f45-0e5c1427f0d0/64005329.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "318": {
+    "img_link": "https://mobileimages.lowes.com/productimages/3860ac09-974e-4f45-b870-15dc425ee4ba/67024244.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "319": {
+    "img_link": "https://mobileimages.lowes.com/productimages/271d3dc5-d26d-47d7-92b2-887c159b41f4/72233341.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "wildflower": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "320": {
+    "img_link": "https://mobileimages.lowes.com/productimages/1228240a-caa5-40a9-a48a-08ede4b74d03/60041996.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "daisy": [
+          "white",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "red",
+          "orange"
+        ],
+        "oak": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "brown"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "321": {
+    "img_link": "https://mobileimages.lowes.com/productimages/5500403d-d099-4390-9260-002dc505deca/78312746.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "yellow"
+        ],
+        "maple": [
+          "orange",
+          "yellow"
+        ],
+        "oak": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "acorn": [
+          "brown"
+        ],
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "322": {
+    "img_link": "https://mobileimages.lowes.com/productimages/733e1369-dc62-4202-b70f-6cf0ac3a3c0a/66748503.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "yellow",
+          "red"
+        ],
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "323": {
+    "img_link": "https://mobileimages.lowes.com/productimages/f72493fb-c73c-405b-a87c-2fa455e0150c/64246610.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "dahlia": [
+          "orange",
+          "red"
+        ],
+        "wildflower": [
+          "red"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ],
+        "maple": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "324": {
+    "img_link": "https://mobileimages.lowes.com/productimages/b7a4724a-55d4-4a75-8ad5-eec5133355ef/72233386.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "grass": [
+          "green"
+        ],
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "325": {
+    "img_link": "https://mobileimages.lowes.com/productimages/46460db4-33be-4a35-b547-e221b862f87b/49447436.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "leaf": [
+          "yellow",
+          "red"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "326": {
+    "img_link": "https://mobileimages.lowes.com/productimages/ab3065f0-02e7-4e71-8c12-e5181f319105/72428291.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ],
+        "eucalyptus": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "green"
+        ],
+        "berry": [
+          "red",
+          "green"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "327": {
+    "img_link": "https://mobileimages.lowes.com/productimages/a75719bc-78ff-4b14-919a-834e57052133/72428277.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "beech": [
+          "red",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "328": {
+    "img_link": "https://mobileimages.lowes.com/productimages/bceb07b2-0006-49bc-aff6-ea40a18fb531/72428298.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "329": {
+    "img_link": "https://mobileimages.lowes.com/productimages/64dd001b-8972-4195-84b5-726cd89b2024/67024191.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "hydrangea": [
+          "orange",
+          "red"
+        ]
+      },
+      "leaves": {
+        "oak": [
+          "brown",
+          "green"
+        ],
+        "maple": [
+          "brown",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "330": {
+    "img_link": "https://mobileimages.lowes.com/productimages/a9818fec-a30f-43f6-9dab-8ff150905338/73277132.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ],
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "orange"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "331": {
+    "img_link": "https://mobileimages.lowes.com/productimages/418b1b91-29e0-4efe-b368-0d981f5753df/49447433.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "orange"
+        ],
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "332": {
+    "img_link": "https://mobileimages.lowes.com/productimages/53eacb65-9abf-4277-bded-c222ec264a28/72428347.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "orange",
+          "yellow"
+        ],
+        "hydrangea": [
+          "red",
+          "green"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ],
+        "gourd": [
+          "yellow",
+          "orange"
+        ],
+        "berry": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "333": {
+    "img_link": "https://mobileimages.lowes.com/productimages/a57bce06-5b92-44c5-be7e-d199e8fc99a1/66748590.jpeg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "orange",
+          "cream"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "green",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "334": {
+    "img_link": "https://mobileimages.lowes.com/productimages/91cf9d06-f0a2-441a-b150-a10a5d1160f0/72428270.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "grass": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "yellow",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "335": {
+    "img_link": "https://mobileimages.lowes.com/productimages/12fd1b7b-d135-4da9-ac84-7a05f446c64a/78313512.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "dahlia": [
+          "cream",
+          "yellow"
+        ],
+        "hydrangea": [
+          "orange"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "336": {
+    "img_link": "https://mobileimages.lowes.com/productimages/044ab09b-373e-466d-a276-01bee5dd012e/78312752.jpeg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "daisy": [
+          "white",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "cream",
+          "orange"
+        ],
+        "fern": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "green"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "337": {
+    "img_link": "https://mobileimages.lowes.com/productimages/af4b5ca4-fd8a-4926-9f67-7fb3caf81a0c/72428265.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "red",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "338": {
+    "img_link": "https://mobileimages.lowes.com/productimages/db74d586-10c5-41ef-b124-6bcca5978c3b/66748515.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "daisy": [
+          "white",
+          "yellow"
+        ],
+        "sunflower": [
+          "cream",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green",
+          "brown"
+        ],
+        "eucalyptus": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "cream"
+        ]
+      }
+    },
+    "error": null
+  },
+  "339": {
+    "img_link": "https://mobileimages.lowes.com/productimages/5fdfb6ca-3008-4408-9a2e-61bdf16a4065/17224070.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "340": {
+    "img_link": "https://mobileimages.lowes.com/productimages/d8002938-f436-469c-bef9-334e80430e25/72428345.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "341": {
+    "img_link": "https://mobileimages.lowes.com/productimages/48874b6c-200b-4c7a-af1b-5e92ef4833eb/67482381.jpeg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "pine": [
+          "green"
+        ],
+        "cedar": [
+          "green"
+        ],
+        "maple": [
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "black"
+        ],
+        "pomegranate": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "342": {
+    "img_link": "https://mobileimages.lowes.com/productimages/4a87563b-c82c-47e4-9dfd-d1c16dee9baf/66748510.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "green"
+        ],
+        "fern": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ],
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "343": {
+    "img_link": "https://mobileimages.lowes.com/productimages/81549dd3-6774-47db-a03c-f1bdd905dac9/66748616.jpeg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "344": {
+    "img_link": "https://mobileimages.lowes.com/productimages/7d0cfcb8-e223-4f1d-833c-6e6e28aad1ad/49756752.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "345": {
+    "img_link": "https://mobileimages.lowes.com/productimages/f97e1746-4f34-418e-9aef-931b6303fb5c/66748561.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "peach",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "brown",
+          "tan"
+        ],
+        "eucalyptus": [
+          "green",
+          "gray"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "346": {
+    "img_link": "https://mobileimages.lowes.com/productimages/6f42cbd5-0952-46b0-9ec2-f2dbfd8ad7df/72428305.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "347": {
+    "img_link": "https://mobileimages.lowes.com/productimages/482824d0-8a3f-45b0-86a0-3f63f3729865/44359993.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "348": {
+    "img_link": "https://mobileimages.lowes.com/productimages/d64ec15b-ce50-49d8-ad6a-9d389b53e0f4/72428268.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "349": {
+    "img_link": "https://mobileimages.lowes.com/productimages/69cf6cf0-45c0-40d4-ba3e-017a97c010fa/72428344.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "daisy": [
+          "white",
+          "cream"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "green",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ],
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "350": {
+    "img_link": "https://mobileimages.lowes.com/productimages/a391f25e-bcc2-4347-8eb5-096c8beb0c45/64005332.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "chrysanthemum": [
+          "orange",
+          "red"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ],
+        "berry": [
+          "yellow",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "351": {
+    "img_link": "https://mobileimages.lowes.com/productimages/8c2ac978-d039-4efa-a4ea-0032005adc2c/67024146.jpeg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "352": {
+    "img_link": "https://mobileimages.lowes.com/productimages/ba160bd7-583b-4ba3-a8c3-30133c8876a9/67024156.jpeg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ],
+        "berry": [
+          "yellow",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "353": {
+    "img_link": "https://mobileimages.lowes.com/productimages/c69d7023-6e3d-42c4-84ef-6f26a9b70532/74491394.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "cream",
+          "yellow"
+        ],
+        "wheat": [
+          "brown",
+          "yellow"
+        ],
+        "cattail": [
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "354": {
+    "img_link": "https://mobileimages.lowes.com/productimages/559e6630-ab72-4e2b-b737-a3283d56375e/78157869.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "daisy": [
+          "white",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "brown",
+          "green"
+        ],
+        "fern": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "orange"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "355": {
+    "img_link": "https://mobileimages.lowes.com/productimages/7be6564e-bb94-446b-9d7c-309ee9ed43a3/83125391.jpeg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "brown",
+          "white"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "356": {
+    "img_link": "https://mobileimages.lowes.com/productimages/9ce8648f-c2c9-4cab-83e1-be0deb5987ef/72428300.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "red",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ],
+        "eucalyptus": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "pink",
+          "brown"
+        ],
+        "apple": [
+          "red",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "357": {
+    "img_link": "https://mobileimages.lowes.com/productimages/5c1d92c6-8e4f-4155-ac63-b383bff05786/76404384.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "pine": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "358": {
+    "img_link": "https://mobileimages.lowes.com/productimages/4df7f97a-389e-4db2-aded-815e582c26e8/64645567.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ],
+        "berry": [
+          "red",
+          "orange"
+        ],
+        "acorn": [
+          "brown",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "359": {
+    "img_link": "https://mobileimages.lowes.com/productimages/4bb69ef5-3ead-4019-b3a4-29d0afdba893/66748608.jpeg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "orange",
+          "yellow"
+        ],
+        "wildflower": [
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "oak": [
+          "green"
+        ],
+        "fern": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "360": {
+    "img_link": "https://mobileimages.lowes.com/productimages/d0fbf01f-d639-49d2-a748-12c9df494650/72428266.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "ivy": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "361": {
+    "img_link": "https://mobileimages.lowes.com/productimages/ddd2cb94-cbb0-4fac-b648-f8554872ad29/67024199.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "orange"
+        ],
+        "daisy": [
+          "white",
+          "cream"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "green",
+          "yellow"
+        ],
+        "eucalyptus": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "362": {
+    "img_link": "https://mobileimages.lowes.com/productimages/d5822bc2-2e65-4594-af56-ea83def4fdba/73277205.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "white",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "brown"
+        ],
+        "eucalyptus": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "363": {
+    "img_link": "https://mobileimages.lowes.com/productimages/b98e5d26-93cd-47b7-8f71-9638982c085f/67070434.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "yellow"
+        ],
+        "acorn": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "364": {
+    "img_link": "https://mobileimages.lowes.com/productimages/a433e5aa-3690-4f8c-82df-17b8889f141d/10496762.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ],
+        "gourd": [
+          "yellow",
+          "green"
+        ],
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "365": {
+    "img_link": "https://mobileimages.lowes.com/productimages/149f8215-5a2e-4584-afc2-a60f4e285fd2/64645562.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ],
+        "gourd": [
+          "yellow",
+          "green"
+        ],
+        "berry": [
+          "green",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "366": {
+    "img_link": "https://mobileimages.lowes.com/productimages/0a5e0755-25f3-4d41-ae28-2b3999ca774b/72428336.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ],
+        "ivy": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "apple": [
+          "red",
+          "green"
+        ],
+        "berry": [
+          "orange",
+          "red"
+        ],
+        "gourd": [
+          "yellow",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "367": {
+    "img_link": "https://mobileimages.lowes.com/productimages/837dbad8-7b57-4923-835e-ccb7d87cd273/66748606.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "white",
+          "yellow"
+        ],
+        "daisy": [
+          "white"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green"
+        ],
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": "BadRequestError: Error code: 400 - {'error': {'message': 'Timeout while downloading https://mobileimages.lowes.com/productimages/837dbad8-7b57-4923-835e-ccb7d87cd273/66748606.jpeg.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_image_url'}}"
+  },
+  "368": {
+    "img_link": "https://mobileimages.lowes.com/productimages/a416684b-016e-456b-ba22-9c9d1c078b89/67471912.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "green",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "369": {
+    "img_link": "https://mobileimages.lowes.com/productimages/7fd2e1cb-ebaf-4798-a491-d45ee519c7a2/64246586.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "mistletoe": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "370": {
+    "img_link": "https://mobileimages.lowes.com/productimages/d3bab91f-0c32-4a7f-b73d-292035badfd3/72058675.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "orange",
+          "red"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ],
+        "oak": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ],
+        "acorn": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "371": {
+    "img_link": "https://mobileimages.lowes.com/productimages/451dc8df-5fba-4b90-95e2-5f9ab637a3ee/74489546.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "boxwood": [
+          "green",
+          "light green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "372": {
+    "img_link": "https://mobileimages.lowes.com/productimages/4daf86c7-8e1b-4558-9ffd-bbe4e4f35d76/72428343.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "oak": [
+          "orange",
+          "brown"
+        ],
+        "eucalyptus": [
+          "brown",
+          "red"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "white",
+          "cream"
+        ]
+      }
+    },
+    "error": null
+  },
+  "373": {
+    "img_link": "https://mobileimages.lowes.com/productimages/8edfc5f3-cf95-4d26-90fb-7690d33364ce/44060490.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "generic": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "374": {
+    "img_link": "https://mobileimages.lowes.com/productimages/136dc854-1196-49d9-b3f4-0708dc76802d/72233367.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "rose": [
+          "yellow",
+          "white"
+        ],
+        "peony": [
+          "orange",
+          "yellow"
+        ],
+        "wildflower": [
+          "white"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green"
+        ],
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "375": {
+    "img_link": "https://mobileimages.lowes.com/productimages/b55c22fb-1daa-409c-b0e3-c00dac8c8f21/66748317.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "brown"
+        ],
+        "maple": [
+          "green",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "yellow",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "376": {
+    "img_link": "https://mobileimages.lowes.com/productimages/edb7a91f-fa66-4c6d-9651-0600def32b4b/76404380.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "pine": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "377": {
+    "img_link": "https://mobileimages.lowes.com/productimages/366d37a3-09d4-46dd-83f7-2a8464c359f5/18136303.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "378": {
+    "img_link": "https://mobileimages.lowes.com/productimages/8ae2e266-c45b-423a-b975-261722dffbf3/66748489.jpeg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "379": {
+    "img_link": "https://mobileimages.lowes.com/productimages/4e93d7a0-405b-45a9-9fc0-d6f97198d09c/84874890.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "380": {
+    "img_link": "https://mobileimages.lowes.com/productimages/19bde3c7-0282-4fe1-9df1-81f2d0961e20/67024192.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "wheat": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "381": {
+    "img_link": "https://mobileimages.lowes.com/productimages/116b5e59-3c4d-43f9-8ca1-b02829f52c0b/72428269.jpeg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "magnolia": [
+          "red",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "382": {
+    "img_link": "https://mobileimages.lowes.com/productimages/9238fc78-0757-4a3c-89cf-e71a16a13823/67071038.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "white"
+        ],
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "383": {
+    "img_link": "https://mobileimages.lowes.com/productimages/8597431d-063d-4872-a813-8944fc55b4d6/65719062.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "sunflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "oak": [
+          "orange",
+          "yellow"
+        ],
+        "ivy": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "384": {
+    "img_link": "https://mobileimages.lowes.com/productimages/ad250f45-eeda-474c-8ea6-e82a9516a550/72428326.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "peony": [
+          "orange",
+          "yellow"
+        ],
+        "hydrangea": [
+          "red",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ],
+        "generic": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "385": {
+    "img_link": "https://mobileimages.lowes.com/productimages/21231791-522b-4dc8-aa0d-5536eca947a3/68770503.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "daisy": [
+          "white",
+          "yellow"
+        ],
+        "chrysanthemum": [
+          "white"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "386": {
+    "img_link": "https://mobileimages.lowes.com/productimages/b05ba1fa-98e1-4940-86bb-657d199bd596/68353309.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ],
+        "pumpkin": [
+          "orange",
+          "red"
+        ],
+        "acorn": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "387": {
+    "img_link": "https://mobileimages.lowes.com/productimages/23259c6f-ae04-477c-b1e9-9319f6c4f5ae/44062274.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "388": {
+    "img_link": "https://mobileimages.lowes.com/productimages/c0f93b87-0431-44bb-966b-561267d33c94/65719207.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "389": {
+    "img_link": "https://mobileimages.lowes.com/productimages/1101743d-2cdd-43cf-abbe-cbd5de85e400/72428293.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "390": {
+    "img_link": "https://mobileimages.lowes.com/productimages/054bc47e-6aef-46b6-a44b-4d6931ce8cbf/72428308.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "391": {
+    "img_link": "https://mobileimages.lowes.com/productimages/d363f35d-fdf6-4d40-b494-6dad7ebdab83/64005325.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "392": {
+    "img_link": "https://mobileimages.lowes.com/productimages/bd6b5517-cf98-4a1f-8619-d1762f2ce80c/67366565.jpeg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ],
+        "fern": [
+          "brown",
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ],
+        "berry": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "393": {
+    "img_link": "https://mobileimages.lowes.com/productimages/96991f4d-276c-4844-94a1-96e249be206d/76381660.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "ivy": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white",
+          "gray"
+        ],
+        "berry": [
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "394": {
+    "img_link": "https://mobileimages.lowes.com/productimages/49630442-e0f4-4029-b98e-e196d6edfbb8/63528866.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ],
+        "pine": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "orange"
+        ],
+        "apple": [
+          "yellow",
+          "orange"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "395": {
+    "img_link": "https://mobileimages.lowes.com/productimages/f2f97779-5572-4c70-9c08-101828186a06/67682003.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ],
+        "berry": [
+          "yellow",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "396": {
+    "img_link": "https://mobileimages.lowes.com/productimages/7e6ffd7d-5569-43ea-a5a7-7be992c8cfd4/67024242.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ],
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "397": {
+    "img_link": "https://mobileimages.lowes.com/productimages/7a19e965-1384-4144-850b-aaf5c38f38aa/78312820.jpeg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ],
+        "eucalyptus": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "acorn": [
+          "brown"
+        ],
+        "berry": [
+          "orange",
+          "yellow"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "398": {
+    "img_link": "https://mobileimages.lowes.com/productimages/9a4d51e7-01fa-43e7-8047-ba16e14f13d5/72058771.jpeg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "chrysanthemum": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "green"
+        ],
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "399": {
+    "img_link": "https://mobileimages.lowes.com/productimages/6a840dd8-c7f7-43aa-a2ea-a2df46b68ecc/72058741.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "cream",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "brown",
+          "orange"
+        ],
+        "eucalyptus": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "green",
+          "white"
+        ],
+        "berry": [
+          "green",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "400": {
+    "img_link": "https://mobileimages.lowes.com/productimages/493c5320-881a-4274-aedb-2d5f22478d97/82901637.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "peony": [
+          "pink"
+        ],
+        "tulip": [
+          "yellow",
+          "red"
+        ],
+        "hydrangea": [
+          "pink"
+        ],
+        "wildflower": [
+          "purple"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green"
+        ],
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "401": {
+    "img_link": "https://mobileimages.lowes.com/productimages/68cdfc85-be11-4c66-89fb-e45714effa86/72233865.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "yellow",
+          "orange"
+        ],
+        "gourd": [
+          "red",
+          "white"
+        ],
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "402": {
+    "img_link": "https://mobileimages.lowes.com/productimages/9617202d-54ba-46b0-bbc1-86e004cc642a/67366215.jpeg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "sunflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ],
+        "acorn": [
+          "brown",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "403": {
+    "img_link": "https://mobileimages.lowes.com/productimages/93cafe46-b753-4e79-93ea-662cf6c335cb/86401705.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "daisy": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "404": {
+    "img_link": "https://mobileimages.lowes.com/productimages/91c07577-28e3-4b2f-b6b9-2a09be334f56/66748598.jpeg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "red",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "405": {
+    "img_link": "https://mobileimages.lowes.com/productimages/0fa16000-7a8e-4ec3-ab72-6ac2beb5d166/76207215.jpeg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "406": {
+    "img_link": "https://mobileimages.lowes.com/productimages/f81dd208-9439-4704-87b4-e8f8b9c414d4/88040203.jpeg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "407": {
+    "img_link": "https://mobileimages.lowes.com/productimages/7b1fc8de-8f92-4d46-b3a1-78bc74b2970e/66748567.jpeg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "408": {
+    "img_link": "https://mobileimages.lowes.com/productimages/b98fdc56-6747-4d5b-8f79-bb1d8605f8a5/66748582.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "yellow"
+        ],
+        "wildflower": [
+          "yellow",
+          "white"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green"
+        ],
+        "eucalyptus": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "409": {
+    "img_link": "https://mobileimages.lowes.com/productimages/bdad2c0e-72a7-426f-8ad9-af03e5c53284/66748554.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "brown",
+          "beige"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "beige",
+          "brown"
+        ],
+        "eucalyptus": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "410": {
+    "img_link": "https://mobileimages.lowes.com/productimages/cdd62897-7830-4665-ae53-b5d83948f969/73277302.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "411": {
+    "img_link": "https://mobileimages.lowes.com/productimages/6e96c02b-0550-47b5-9c86-5f4cd2667e36/72428323.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ],
+        "berry": [
+          "orange",
+          "green"
+        ],
+        "pear": [
+          "orange",
+          "red"
+        ],
+        "apple": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "412": {
+    "img_link": "https://mobileimages.lowes.com/productimages/07392dd1-b481-4599-a0ff-68afa5987520/49937646.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "peony": [
+          "red"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "red",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "413": {
+    "img_link": "https://mobileimages.lowes.com/productimages/8b28892c-ac61-4c4e-9885-92657f3c7e27/14204383.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ],
+        "pinecone": [
+          "brown"
+        ],
+        "berry": [
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "414": {
+    "img_link": "https://mobileimages.lowes.com/productimages/ae42d2b3-9b53-499c-bfa8-5d09d5d1f1fa/67482606.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "generic": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "green",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "415": {
+    "img_link": "https://mobileimages.lowes.com/productimages/f081d531-72fa-4d3a-91f9-b6d4b9049872/72233649.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "ivy": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "purple",
+          "white"
+        ]
+      }
+    },
+    "error": null
+  },
+  "416": {
+    "img_link": "https://mobileimages.lowes.com/productimages/7dc0c915-e1a3-447a-be35-02cb027b9022/72233294.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "white",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "417": {
+    "img_link": "https://mobileimages.lowes.com/productimages/bc04f23a-a2df-4e0f-88cf-ae41f4656427/64645584.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "418": {
+    "img_link": "https://mobileimages.lowes.com/productimages/d7cbdf56-909f-4d34-b979-b33147aab1c2/66748550.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fern": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "419": {
+    "img_link": "https://mobileimages.lowes.com/productimages/b54012f2-e0dc-4521-8487-c38938568233/72058557.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "420": {
+    "img_link": "https://mobileimages.lowes.com/productimages/f6a82d36-c670-4b31-b1e9-e8b249cb0392/81888418.jpeg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange"
+        ],
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "421": {
+    "img_link": "https://mobileimages.lowes.com/productimages/94e9d1b1-c435-4606-9ff1-8c5f7c3096bc/76218646.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "red",
+          "cream"
+        ]
+      },
+      "leaves": {
+        "grass": [
+          "brown",
+          "tan"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "422": {
+    "img_link": "https://mobileimages.lowes.com/productimages/ccc243c5-4fdd-4e43-b4c8-32a7dc0626e7/81806574.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ],
+        "eucalyptus": [
+          "green",
+          "brown"
+        ],
+        "pine": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "orange",
+          "yellow"
+        ],
+        "berry": [
+          "orange",
+          "red"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "423": {
+    "img_link": "https://mobileimages.lowes.com/productimages/267d6bed-d401-40f4-91b7-bcd76939c4a3/63528890.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "brown",
+          "white"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "white"
+        ],
+        "gourd": [
+          "white"
+        ],
+        "pinecone": [
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "424": {
+    "img_link": "https://mobileimages.lowes.com/productimages/640ba473-2489-4288-97a6-6dac32beb942/78157927.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "425": {
+    "img_link": "https://mobileimages.lowes.com/productimages/4e4154db-eb95-4bf0-9c5d-ac5f6c18832c/72428339.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "dahlia": [
+          "orange",
+          "red"
+        ]
+      },
+      "leaves": {
+        "oak": [
+          "red",
+          "green"
+        ]
+      },
+      "fruit": {
+        "apple": [
+          "gold"
+        ],
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "426": {
+    "img_link": "https://mobileimages.lowes.com/productimages/8d6843bc-883e-480f-a73a-26f3b3001602/49707186.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "427": {
+    "img_link": "https://mobileimages.lowes.com/productimages/e2626544-5f2e-43e9-bd50-117e36f2745c/75538306.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "foxtail": [
+          "green",
+          "dark green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "428": {
+    "img_link": "https://mobileimages.lowes.com/productimages/015c6a27-0fbe-4977-8964-85fad73fcfe0/67657367.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ],
+        "fern": [
+          "orange",
+          "green"
+        ]
+      },
+      "fruit": {
+        "gourd": [
+          "orange",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "429": {
+    "img_link": "https://mobileimages.lowes.com/productimages/e9af1405-b1bb-4689-a3b8-c9dd08800430/67846047.jpeg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "twig": [
+          "brown",
+          "black"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  }
+}

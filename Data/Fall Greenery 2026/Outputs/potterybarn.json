@@ -1,0 +1,1668 @@
+{
+  "0": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202626/0604/faux-lit-autumnal-wreath-garland-l.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "green",
+          "yellow"
+        ],
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "1": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202618/0526/oak-leaf-hydrangea-bundle-rust-5-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "pink",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "oak": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "2": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202618/0627/golden-turning-ginkgo-branch-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "ginkgo": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "3": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202608/0025/faux-olive-trees-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "olive": [
+          "green",
+          "gray"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "4": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202625/0005/faux-mixed-autumnal-centrepiece-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "wildflower": [
+          "yellow",
+          "white"
+        ]
+      },
+      "leaves": {
+        "maple": [
+          "brown",
+          "yellow"
+        ],
+        "oak": [
+          "brown",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "pumpkin": [
+          "green",
+          "orange"
+        ],
+        "berry": [
+          "orange",
+          "yellow"
+        ],
+        "apple": [
+          "green",
+          "yellow"
+        ]
+      }
+    },
+    "error": null
+  },
+  "5": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202622/0468/faux-oversized-golden-maple-branch-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "brown",
+          "gold"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "6": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202620/0177/faux-cream-cone-hydrangea-bundle-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "white",
+          "green"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "7": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202621/0651/faux-green-turning-leaf-bundle-l.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "8": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202621/0013/faux-lit-black-potted-tree-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "other",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "9": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202621/0820/faux-composed-queen-annes-lace-orange-arrangment-2-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "queen anne's lace": [
+          "yellow",
+          "green"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "10": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202618/0627/oak-leaf-branch-2-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "oak": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "11": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202621/0426/faux-turning-curly-willow-branch-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "willow": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "12": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202627/0321/fantastical-forrest-composed-arrangement-1-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower fruit mix",
+      "flowers": {
+        "wildflower": [
+          "yellow",
+          "white"
+        ]
+      },
+      "leaves": {
+        "fern": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "13": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202625/0112/faux-lit-black-berry-wreath-1-l.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "black"
+        ]
+      }
+    },
+    "error": null
+  },
+  "14": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202627/0332/faux-oak-leaf-and-hydrangea-wreath-garland-l.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "white",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "oak": [
+          "green",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "15": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202622/0476/faux-maple-leaf-and-berry-bundle-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "brown"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "16": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202622/0476/faux-queen-annes-lace-branch-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "queen anne's lace": [
+          "green",
+          "white"
+        ]
+      },
+      "leaves": {
+        "queen anne's lace": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "17": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202621/0654/antique-copper-botanical-branch-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "other": [
+          "brown",
+          "copper"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "18": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202623/0015/faux-yellow-dahlia-bundle-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "dahlia": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "dahlia": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "19": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202627/0379/faux-aspen-leaf-tree-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "aspen": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "20": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202625/0003/faux-lit-black-maple-leaf-garland-l.jpg",
+    "labels": {
+      "product_type": "garland",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "black",
+          "gray"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "21": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202623/0012/faux-fading-olive-branch-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "olive": [
+          "green",
+          "gray"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "22": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202620/0165/faux-willow-eucalyptus-bundle-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "23": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202624/0082/faux-shady-lady-olive-tree-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "olive": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "24": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202620/0182/faux-dusty-green-hydrangea-bundle-1-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "green",
+          "brown"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "25": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202622/0425/faux-composed-hydrangea-arrangement-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "red",
+          "purple"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "26": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202622/0466/faux-chocolate-turning-berry-branch-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "generic": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "brown",
+          "green"
+        ]
+      }
+    },
+    "error": null
+  },
+  "27": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202626/0760/dried-flower-vase-filler-1-l.jpg",
+    "labels": {
+      "product_type": "other",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "brown",
+          "cream"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "28": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202622/0431/faux-aspen-leaf-branch-l.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "aspen": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "29": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202622/0472/faux-camel-oak-leaf-hydrangea-bundle-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "beige",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "oak": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "30": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202622/0895/turning-dried-hydrangea-bundle-1-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "cream",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "31": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202624/0164/img394l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "blue"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "32": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202622/0474/faux-budding-branch-green-1-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "bud": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "33": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202623/0080/img166xl.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "green",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "34": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202619/0072/faux-golden-leaf-and-berry-wreath-garland-4-l.jpg",
+    "labels": {
+      "product_type": "wreath",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "leaf": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange",
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "35": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202622/0900/faux-millet-bundle-1-l.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "millet": [
+          "burgundy"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "36": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202622/0464/faux-chocolate-turning-leaf-branch-l.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "other": [
+          "brown",
+          "purple"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "37": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202622/0473/faux-seed-branch-bundle-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "white",
+          "green"
+        ]
+      },
+      "leaves": {
+        "wildflower": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "38": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202622/0458/faux-burgundy-dahlia-bundle-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "dahlia": [
+          "burgundy"
+        ]
+      },
+      "leaves": {
+        "dahlia": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "39": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202619/0012/faux-dry-grass-bundle-2-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "grass": [
+          "tan",
+          "white"
+        ]
+      },
+      "leaves": {
+        "grass": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "40": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202625/0521/faux-oversized-yellow-gypsophila-branch-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "gypsophila": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "41": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202624/0067/faux-kiku-flower-bundle-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "chrysanthemum": [
+          "orange",
+          "red"
+        ]
+      },
+      "leaves": {
+        "chrysanthemum": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "42": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202623/0029/img133xl.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "pink",
+          "white"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "43": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202623/0078/img233xl.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "pink",
+          "cream"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green",
+          "gray"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "44": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202607/0425/faux-green-grass-bundle-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "grass": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "45": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202622/0470/faux-oversized-eucalyptus-branch-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "purple",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "46": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202621/0899/transitional-blooming-branch-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "pink",
+          "white"
+        ]
+      },
+      "leaves": {
+        "generic": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "47": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202622/0899/dry-grass-natural-bundle-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "grass": [
+          "brown",
+          "cream"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "48": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202625/0349/img1xl.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "49": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202621/0430/faux-yellow-sumac-branch-l.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "sumac": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "50": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202620/0175/faux-millet-bundle-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "millet": [
+          "beige",
+          "brown"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "51": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202622/0463/faux-maple-leaf-vine-branch-l.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "52": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202622/0467/faux-green-astible-bundle-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "astilbe": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "53": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202622/0413/faux-rust-turning-berry-branch-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "ash": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "red",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "54": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202622/0424/faux-burgundy-berry-branch-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "red"
+        ]
+      }
+    },
+    "error": null
+  },
+  "55": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202619/0639/img2xl.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "millet": [
+          "cream",
+          "beige"
+        ]
+      },
+      "leaves": {
+        "millet": [
+          "beige"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "56": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202622/0472/faux-scarlet-star-grass-bundle-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "grass": [
+          "purple"
+        ]
+      },
+      "leaves": {
+        "grass": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "57": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202621/0011/faux-cream-hydrangea-bundle-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "cream",
+          "peach"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "58": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202619/0639/img1xl.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "millet": [
+          "pink",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "grass": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "59": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202622/0429/faux-dry-grass-dusty-bundle-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "grass": [
+          "brown",
+          "cream"
+        ]
+      },
+      "leaves": {
+        "grass": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "60": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202622/0474/coast-live-oak-branch-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "acorn": [
+          "green",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "61": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202622/0460/black-millet-bundle-1-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "millet": [
+          "black",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "62": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202622/0431/faux-dry-grass-bundle-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "grass": [
+          "burgundy",
+          "brown"
+        ]
+      },
+      "leaves": {
+        "grass": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "63": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202622/0457/orange-berry-branch-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {
+        "unknown": [
+          "green"
+        ]
+      },
+      "fruit": {
+        "berry": [
+          "orange"
+        ]
+      }
+    },
+    "error": null
+  },
+  "64": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202621/0903/faux-golden-yellow-gysophilia-branch-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "gypsophila": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "65": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202607/0004/faux-burgundy-eucalyptus-branch-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "eucalyptus": [
+          "burgundy",
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "66": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202621/0007/faux-turning-fig-leaf-branch-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "fig": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "67": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202621/0008/faux-turning-aspen-branch-1-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "aspen": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "68": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202623/0011/faux-mixed-yarrow-bundle-2-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "yarrow": [
+          "orange",
+          "yellow"
+        ]
+      },
+      "leaves": {
+        "eucalyptus": [
+          "green",
+          "blue"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "69": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202622/0008/faux-oversized-fall-leaf-branch-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "70": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202619/0088/faux-pearl-millet-bundle-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "millet": [
+          "yellow",
+          "brown"
+        ]
+      }
+    },
+    "error": null
+  },
+  "71": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202624/0193/img415l.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "astilbe": [
+          "brown",
+          "tan"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "72": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202621/0016/faux-wisteria-bundle-1-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "wisteria": [
+          "peach",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "wisteria": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "73": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202623/0024/faux-queen-annes-lace-branch-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "queen anne's lace": [
+          "peach"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "74": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202621/0012/faux-oversized-turning-maple-branch-1-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "red",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "75": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202623/0039/img251xl.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "gypsophila": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "76": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202623/0066/img186xl.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "gypsophila": [
+          "orange"
+        ]
+      },
+      "leaves": {},
+      "fruit": {}
+    },
+    "error": null
+  },
+  "77": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202622/0011/faux-fall-blooming-branch-1-l.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "pink",
+          "red"
+        ]
+      },
+      "leaves": {
+        "generic": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "78": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202621/0007/faux-yellow-beech-leaf-branch-1-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "beech": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "79": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202621/0016/faux-large-grass-branch-4-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "grass": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "80": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202623/0043/img85xl.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "pink",
+          "white"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "81": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202612/1031/faux-terracotta-potted-olive-tree-1-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "olive": [
+          "green",
+          "gray"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "82": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202620/0186/img1xl.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "83": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202611/0482/img1xl.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "pink",
+          "white"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "84": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202625/0002/faux-oversized-maple-leaf-bundle-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "maple": [
+          "orange",
+          "red"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "85": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202611/0481/img1xl.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "green",
+          "white"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "86": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202622/0938/img1xl.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "purple",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "87": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202623/0074/img281xl.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "pink",
+          "white"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "88": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202621/0062/img3xl.jpg",
+    "labels": {
+      "product_type": "single stem",
+      "plant_type": "flower",
+      "flowers": {
+        "hydrangea": [
+          "yellow",
+          "orange"
+        ]
+      },
+      "leaves": {
+        "hydrangea": [
+          "green"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "89": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202621/0010/faux-burgundy-flower-bundle-2-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "flower",
+      "flowers": {
+        "wildflower": [
+          "burgundy",
+          "pink"
+        ]
+      },
+      "leaves": {
+        "generic": [
+          "green",
+          "brown"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "90": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202621/0011/handcrafted-arquette-pitcher-2-l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "leaf",
+      "flowers": {},
+      "leaves": {
+        "sumac": [
+          "green",
+          "yellow"
+        ]
+      },
+      "fruit": {}
+    },
+    "error": null
+  },
+  "91": {
+    "img_link": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202620/0062/img238l.jpg",
+    "labels": {
+      "product_type": "arrangement",
+      "plant_type": "fruit",
+      "flowers": {},
+      "leaves": {},
+      "fruit": {
+        "berry": [
+          "black"
+        ]
+      }
+    },
+    "error": null
+  }
+}
