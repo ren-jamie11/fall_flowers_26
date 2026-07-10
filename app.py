@@ -5,13 +5,32 @@ import random
 import os
 from collections import Counter
 from PIL import Image, UnidentifiedImageError, ImageOps
+from io import BytesIO
+import urllib.request
+import urllib.error
 
 import table
 
 DICT_COLUMNS = ["flowers", "leaves", "fruit"]
 # Each dict column maps to the plant_type it should restrict results to.
 PLANT_TYPE_BY_COLUMN = {"flowers": "flower", "leaves": "leaf", "fruit": "fruit"}
-CARD_HEIGHT = 1400  # fixed px height per result card, keeps the 3-col grid aligned
+CARD_HEIGHT = 1200 # fixed px height per result card, keeps the 3-col grid aligned
+
+# --- Uniform image sizing ---------------------------------------------------
+# Every result image is center-cropped to exactly IMG_WIDTH x IMG_HEIGHT before
+# display (cover / object-fit: cover), so differing source dimensions can't
+# break the 3-col grid. The crop never stretches the image: it scales to fill
+# the box, then trims the overflowing edges. Keep the 4:5 ratio (width:height)
+# if you change these, or the cards will differ in height again. Raise both for
+# sharper images at the cost of more memory per cached image.
+IMG_WIDTH = 800
+IMG_HEIGHT = 1000            # 4:5 portrait, suits tall flower-on-stem products
+# Where the crop is anchored, as (x, y) fractions of the source: (0.5, 0.5) is
+# dead center. Lower the y (e.g. 0.4) to bias the crop toward the top if flower
+# heads sit high in frame and are getting clipped.
+IMG_CROP_FOCUS = (0.5, 0.5)
+# Some CDNs reject urllib's default agent; present a browser-like one.
+_IMG_UA = "Mozilla/5.0 (compatible; StreamlitImageGrid/1.0)"
 
 
 # --- Data loading -----------------------------------------------------------
@@ -21,6 +40,24 @@ def load_data() -> pd.DataFrame:
     df = table.process_table()
     df = df.drop_duplicates(subset=['Product Link','Main Img Link'])
     return df
+
+
+@st.cache_data(show_spinner=False)
+def load_uniform_image(src: str, size=(IMG_WIDTH, IMG_HEIGHT), focus=IMG_CROP_FOCUS):
+    """Fetch an image (URL or local path) and return it center-cropped to a
+    fixed `size` without distortion — the 'cover' / object-fit: cover behavior.
+    Scales to fill the box, then trims the overflow; source dimensions no longer
+    affect layout. Cached so reruns / repeated grid loads skip the re-download."""
+    if isinstance(src, str) and src.startswith(("http://", "https://")):
+        req = urllib.request.Request(src, headers={"User-Agent": _IMG_UA})
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            data = resp.read()
+        img = Image.open(BytesIO(data))
+    else:
+        img = Image.open(src)
+    img = ImageOps.exif_transpose(img)   # honor camera orientation metadata
+    img = img.convert("RGB")             # unify mode so JPEG/PNG/RGBA all work
+    return ImageOps.fit(img, size, method=Image.LANCZOS, centering=focus)
 
 # --- Dict-column helpers ----------------------------------------------------
 def _top_keys(series):
@@ -319,7 +356,10 @@ if st.button("🎨 加载图片"):
                     image_url = to_str(row.get("Main Img Link", ""))
                     title = to_str(row.get("Name", ""))
 
-                    st.image(img_path)
+                    st.image(
+                        load_uniform_image(img_path),
+                        use_container_width=True,
+                    )
                     st.caption(title)
                     st.caption(url)
                     st.caption(image_url)
@@ -338,5 +378,6 @@ if st.button("🎨 加载图片"):
                     lines.append(f"**Store Name:** {to_str(row.get('Store Name', ''))}")
                     st.markdown("  \n".join(lines))
 
-                except (FileNotFoundError, UnidentifiedImageError, OSError):
+                except (FileNotFoundError, UnidentifiedImageError, OSError,
+                        urllib.error.URLError, ValueError):
                     st.warning(f"⚠️ Could not load image: {img_path}")
