@@ -38,8 +38,14 @@ IMG_POSITION = "50% 50%"
 def load_data() -> pd.DataFrame:
     """Build the merged/processed DataFrame from table.py (cached across reruns)."""
     df = table.process_table()
-    df = df.drop_duplicates(subset=['Product Link','Main Img Link'])
-    return df.drop(columns=UNUSED_COLUMNS, errors="ignore")
+    df = df.drop_duplicates(subset=['Product Link', 'Main Img Link'])
+    df = df.drop(columns=UNUSED_COLUMNS, errors="ignore")
+    # Coerce any pyarrow-backed string columns to plain object dtype. Otherwise
+    # value_counts() dispatches to Arrow compute kernels, which segfault on this
+    # Python/pyarrow build. object dtype keeps value_counts() on pandas' own code.
+    # for c in df.select_dtypes(include="string").columns:
+    #     df[c] = df[c].astype(object)
+    return df
 
 
 def _img_html(src: str, alt: str = "⚠️ Could not load image") -> str:
