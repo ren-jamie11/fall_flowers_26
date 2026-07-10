@@ -3,11 +3,8 @@ import pandas as pd
 import numpy as np
 import random
 import os
+import html
 from collections import Counter
-from PIL import Image, UnidentifiedImageError, ImageOps
-from io import BytesIO
-import urllib.request
-import urllib.error
 
 import table
 
@@ -16,21 +13,20 @@ DICT_COLUMNS = ["flowers", "leaves", "fruit"]
 PLANT_TYPE_BY_COLUMN = {"flowers": "flower", "leaves": "leaf", "fruit": "fruit"}
 CARD_HEIGHT = 1200 # fixed px height per result card, keeps the 3-col grid aligned
 
+# Columns the UI never reads. Dropped from the cached frame; table.py still
+# emits them for the notebooks under Data/.
+UNUSED_COLUMNS = ["Price", "Date", "Season", "Category",
+                  "colors", "flower_types", "leaf_types", "fruit_types"]
+
 # --- Uniform image sizing ---------------------------------------------------
-# Every result image is center-cropped to exactly IMG_WIDTH x IMG_HEIGHT before
-# display (cover / object-fit: cover), so differing source dimensions can't
-# break the 3-col grid. The crop never stretches the image: it scales to fill
-# the box, then trims the overflowing edges. Keep the 4:5 ratio (width:height)
-# if you change these, or the cards will differ in height again. Raise both for
-# sharper images at the cost of more memory per cached image.
-IMG_WIDTH = 800
-IMG_HEIGHT = 1000            # 4:5 portrait, suits tall flower-on-stem products
-# Where the crop is anchored, as (x, y) fractions of the source: (0.5, 0.5) is
-# dead center. Lower the y (e.g. 0.4) to bias the crop toward the top if flower
-# heads sit high in frame and are getting clipped.
-IMG_CROP_FOCUS = (0.5, 0.5)
-# Some CDNs reject urllib's default agent; present a browser-like one.
-_IMG_UA = "Mozilla/5.0 (compatible; StreamlitImageGrid/1.0)"
+# Images are never fetched server-side: the browser loads each CDN URL directly
+# and crops it to this box with object-fit: cover, so differing source
+# dimensions can't break the 3-col grid. Keep the 4:5 ratio or the cards will
+# differ in height again.
+IMG_ASPECT = "4 / 5"         # 4:5 portrait, suits tall flower-on-stem products
+# Where the crop is anchored within the source. "50% 50%" is dead center; lower
+# the y (e.g. "50% 40%") to bias toward the top if flower heads get clipped.
+IMG_POSITION = "50% 50%"
 
 
 # --- Data loading -----------------------------------------------------------
@@ -39,25 +35,26 @@ def load_data() -> pd.DataFrame:
     """Build the merged/processed DataFrame from table.py (cached across reruns)."""
     df = table.process_table()
     df = df.drop_duplicates(subset=['Product Link','Main Img Link'])
-    return df
+    return df.drop(columns=UNUSED_COLUMNS, errors="ignore")
 
 
-@st.cache_data(show_spinner=False)
-def load_uniform_image(src: str, size=(IMG_WIDTH, IMG_HEIGHT), focus=IMG_CROP_FOCUS):
-    """Fetch an image (URL or local path) and return it center-cropped to a
-    fixed `size` without distortion — the 'cover' / object-fit: cover behavior.
-    Scales to fill the box, then trims the overflow; source dimensions no longer
-    affect layout. Cached so reruns / repeated grid loads skip the re-download."""
-    if isinstance(src, str) and src.startswith(("http://", "https://")):
-        req = urllib.request.Request(src, headers={"User-Agent": _IMG_UA})
-        with urllib.request.urlopen(req, timeout=15) as resp:
-            data = resp.read()
-        img = Image.open(BytesIO(data))
-    else:
-        img = Image.open(src)
-    img = ImageOps.exif_transpose(img)   # honor camera orientation metadata
-    img = img.convert("RGB")             # unify mode so JPEG/PNG/RGBA all work
-    return ImageOps.fit(img, size, method=Image.LANCZOS, centering=focus)
+def _img_html(src: str, alt: str = "⚠️ Could not load image") -> str:
+    """Remote image, cover-cropped by the browser — never touches server memory.
+
+    The http->https rewrite avoids mixed-content blocking on the HTTPS-served
+    app. It is display-only: table.py joins the CSV's http:// `Main Img Link`
+    against the JSON's http:// `img_link`, so rewriting upstream breaks the join.
+
+    No onerror handler — Streamlit strips inline JS. None is needed: the box is
+    sized in CSS, so a failed image still fills its slot and shows `alt`.
+    """
+    src = html.escape(src.replace("http://", "https://", 1), quote=True)
+    return (
+        f'<img src="{src}" alt="{html.escape(alt)}" loading="lazy" '
+        f'style="width:100%;aspect-ratio:{IMG_ASPECT};object-fit:cover;'
+        f'object-position:{IMG_POSITION};display:block;border-radius:.5rem;'
+        f'background:#eee;color:#666;font-size:.8rem;text-align:center;">'
+    )
 
 # --- Dict-column helpers ----------------------------------------------------
 def _top_keys(series):
@@ -412,35 +409,25 @@ if st.button("🎨 加载图片"):
         with grid_cols[idx % 3]:
             # Fixed-height card keeps every box uniform regardless of field count.
             with st.container(height=CARD_HEIGHT, border=False):
-                img_path = row["Main Img Link"]
+                url = to_str(row.get("Product Link", ""))
+                image_url = to_str(row.get("Main Img Link", ""))
+                title = to_str(row.get("Name", ""))
 
-                try:
-                    url = to_str(row.get("Product Link", ""))
-                    image_url = to_str(row.get("Main Img Link", ""))
-                    title = to_str(row.get("Name", ""))
+                st.html(_img_html(image_url))
+                st.caption(title)
+                st.caption(url)
+                st.caption(image_url)
 
-                    st.image(
-                        load_uniform_image(img_path),
-                        use_container_width=True,
-                    )
-                    st.caption(title)
-                    st.caption(url)
-                    st.caption(image_url)
-
-                    lines = [
-                        f"**product_type:** {to_str(row.get('product_type', ''))}",
-                        f"**plant_type:** {to_str(row.get('plant_type', ''))}",
-                    ]
-                    # 
-                    for col in selected_dict_cols:  # only columns chosen as filters
-                        ks = keys_str(row.get(col))
-                        if ks:  # skip empty dict fields
-                            lines.append(f"**{col}:** {ks}")
-                        # colors always shown when the field was filtered
-                        lines.append(f"**{col}_colors:** {colors_str(row.get(f'{col}_colors'))}")
-                    lines.append(f"**Store Name:** {to_str(row.get('Store Name', ''))}")
-                    st.markdown("  \n".join(lines))
-
-                except (FileNotFoundError, UnidentifiedImageError, OSError,
-                        urllib.error.URLError, ValueError):
-                    st.warning(f"⚠️ Could not load image: {img_path}")
+                lines = [
+                    f"**product_type:** {to_str(row.get('product_type', ''))}",
+                    f"**plant_type:** {to_str(row.get('plant_type', ''))}",
+                ]
+                #
+                for col in selected_dict_cols:  # only columns chosen as filters
+                    ks = keys_str(row.get(col))
+                    if ks:  # skip empty dict fields
+                        lines.append(f"**{col}:** {ks}")
+                    # colors always shown when the field was filtered
+                    lines.append(f"**{col}_colors:** {colors_str(row.get(f'{col}_colors'))}")
+                lines.append(f"**Store Name:** {to_str(row.get('Store Name', ''))}")
+                st.markdown("  \n".join(lines))

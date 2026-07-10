@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(python table.py)",
+      "Bash(python -c ' *)",
+      "mcp__context7__resolve-library-id",
+      "mcp__context7__query-docs",
+      "PowerShell(python -c \"import ImageTextProcessorGemini; print\\('import OK'\\); print\\('model:', ImageTextProcessorGemini.GEMINI_MODEL\\)\")",
+      "PowerShell(python -c \"from google.genai import types, errors; types.GenerateContentConfig\\(system_instruction='x', temperature=0, response_mime_type='application/json', http_options=types.HttpOptions\\(timeout=90000\\)\\); types.Part.from_bytes\\(data=b'x', mime_type='image/jpeg'\\); print\\('APIError:', issubclass\\(errors.ClientError, errors.APIError\\) and issubclass\\(errors.ServerError, errors.APIError\\)\\); print\\('signatures OK'\\)\")",
+      "Bash(python -c \"import Prompts, ImageTextProcessor; print\\('OK', len\\(Prompts.instructions\\), 'chars'\\)\")",
+      "Bash(python remove_duplicates.py)",
+      "Bash(python trim_csvs.py)"
+    ]
+  }
+}
