@@ -217,7 +217,15 @@ def filter_dataframe(df: pd.DataFrame, filter_columns=[]) -> pd.DataFrame:
                 if column in PLANT_TYPE_BY_COLUMN and "plant_type" in df.columns:
                     df = df[df["plant_type"] == PLANT_TYPE_BY_COLUMN[column]]
 
-                key_opts = _top_keys(df[column])
+                # Options must reflect the current selection, but the widget hasn't
+                # returned yet — Streamlit already stored the new selection in
+                # session_state, so read it from there. Fall back to the unnarrowed
+                # list when the stored selection matches nothing, else the dropdown
+                # would render empty and strand the user.
+                prev = st.session_state.get(f"keys_{column}", [])
+                opt_src = (df[df[column].apply(lambda c: _row_has_all_keys(c, prev))]
+                           if prev else df)
+                key_opts = _top_keys(opt_src[column]) or _top_keys(df[column])
                 _prune_selection(f"keys_{column}", key_opts)
                 keys = col_widget.multiselect(
                     "Keywords",
