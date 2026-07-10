@@ -8,6 +8,10 @@ from collections import Counter
 
 import table
 
+import faulthandler
+faulthandler.enable()
+
+
 DICT_COLUMNS = ["flowers", "leaves", "fruit"]
 # Each dict column maps to the plant_type it should restrict results to.
 PLANT_TYPE_BY_COLUMN = {"flowers": "flower", "leaves": "leaf", "fruit": "fruit"}
