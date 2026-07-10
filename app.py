@@ -196,18 +196,20 @@ def sort_results(df, dict_cols, selected_keys):
     if df.empty:
         return df
 
-    keys = pd.DataFrame(index=df.index)
+    # 1. Use a native Python dictionary instead of an empty DataFrame
+    # to avoid PyArrow string array reallocation segfaults.
+    keys_dict = {}
 
     for col in ("product_type", "plant_type"):
         if col in df.columns:
             rank = _rank_fn(df[col].value_counts().index.tolist())
-            keys[col] = df[col].map(rank)
+            keys_dict[col] = df[col].map(rank)
 
     for col in dict_cols:
         sel = set(selected_keys.get(col) or ())
 
         species = _rank_fn(_top_keys(df[col]))
-        keys[f"{col}_species"] = df[col].map(
+        keys_dict[f"{col}_species"] = df[col].map(
             lambda c: _best(list(c) if isinstance(c, dict) else [], species)[0]
         )
 
@@ -216,13 +218,21 @@ def sort_results(df, dict_cols, selected_keys):
         rows = df[col].map(lambda c: _colors_in_order(c, sel))
         color = _rank_fn([c for c, _ in
                           Counter(c for lst in rows for c in lst).most_common()])
-        keys[f"{col}_color"], keys[f"{col}_pos"] = zip(
-            *rows.map(lambda lst: _best(lst, color)))
+        
+        # 2. Extract zip iterators into lists before dictionary assignment
+        color_ranks, pos_ranks = zip(*rows.map(lambda lst: _best(lst, color)))
+        keys_dict[f"{col}_color"] = list(color_ranks)
+        keys_dict[f"{col}_pos"] = list(pos_ranks)
 
-    if not len(keys.columns):
+    # 3. If no keys were added, return early
+    if not keys_dict:
         return df
-    order = keys.reset_index(drop=True).sort_values(
-        list(keys.columns), kind="stable").index
+        
+    # 4. Construct the DataFrame in a single step
+    keys_df = pd.DataFrame(keys_dict, index=df.index)
+    
+    order = keys_df.reset_index(drop=True).sort_values(
+        list(keys_df.columns), kind="stable").index
     return df.iloc[order]
 
 
