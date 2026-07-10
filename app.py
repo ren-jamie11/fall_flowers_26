@@ -42,9 +42,10 @@ def load_data() -> pd.DataFrame:
     df = df.drop(columns=UNUSED_COLUMNS, errors="ignore")
     # Coerce any pyarrow-backed string columns to plain object dtype. Otherwise
     # value_counts() dispatches to Arrow compute kernels, which segfault on this
-    # Python/pyarrow build. object dtype keeps value_counts() on pandas' own code.
-    # for c in df.select_dtypes(include="string").columns:
-    #     df[c] = df[c].astype(object)
+    # Python/pyarrow build (pandas 3.x pyarrow-string default + pyarrow 25 on
+    # Python 3.14). object dtype keeps value_counts() on pandas' own hashtable.
+    for c in df.select_dtypes(include="string").columns:
+        df[c] = df[c].astype(object)
     return df
 
 
