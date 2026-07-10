@@ -69,6 +69,21 @@ def _top_keys(series):
     return [k for k, _ in counts.most_common()]
 
 
+def _top_keys_for_colors(series, colors):
+    """Keys whose color-set intersects `colors`, most frequent first (one vote
+    per row). Mirrors the key-scoped OR filter: a key is counted for a row only
+    when that key itself maps to a selected color there — so a keyword offered
+    here is one that genuinely has the chosen color(s)."""
+    sel = set(colors)
+    counts = Counter()
+    for cell in series:
+        if isinstance(cell, dict):
+            for key, cols in cell.items():
+                if sel & set(cols):
+                    counts[key] += 1
+    return [k for k, _ in counts.most_common()]
+
+
 def _top_colors_for_keys(series, keys):
     """Colors appearing under the selected keys, most frequent first."""
     keyset = set(keys)
@@ -78,6 +93,16 @@ def _top_colors_for_keys(series, keys):
             for key, colors in cell.items():
                 if key in keyset:
                     counts.update(colors)
+    return [c for c, _ in counts.most_common()]
+
+
+def _top_colors_flat(series):
+    """Colors across a flat `{col}_colors` Series, most frequent first.
+    Used for the Color options when no keyword is chosen, so the offered
+    colors match exactly what the column-wide OR / Exact Match filters act on."""
+    counts = Counter()
+    for cell in series:
+        counts.update(_color_list_to_set(cell))
     return [c for c, _ in counts.most_common()]
 
 
@@ -254,15 +279,41 @@ def filter_dataframe(df: pd.DataFrame, filter_columns=[]) -> pd.DataFrame:
                 if column in PLANT_TYPE_BY_COLUMN and "plant_type" in df.columns:
                     df = df[df["plant_type"] == PLANT_TYPE_BY_COLUMN[column]]
 
-                # Options must reflect the current selection, but the widget hasn't
-                # returned yet — Streamlit already stored the new selection in
-                # session_state, so read it from there. Fall back to the unnarrowed
-                # list when the stored selection matches nothing, else the dropdown
-                # would render empty and strand the user.
+                # Options must reflect the current selection, but the widgets
+                # haven't returned yet — Streamlit already stored the new
+                # selections in session_state, so read them from there. This
+                # makes Keywords and Color cross-filter each other: the chosen
+                # colors narrow the keyword options, just as the chosen keywords
+                # narrow the color options below. Fall back to the unnarrowed
+                # list when nothing matches, else the dropdown would render empty
+                # and strand the user.
                 prev = st.session_state.get(f"keys_{column}", [])
+                sel_colors = st.session_state.get(f"colors_{column}", [])
+                exact = st.session_state.get(f"color_exact_{column}", False)
+
+                # Rows containing every already-chosen keyword (co-occurrence),
+                # so multi-key selections stay consistent.
                 opt_src = (df[df[column].apply(lambda c: _row_has_all_keys(c, prev))]
                            if prev else df)
-                key_opts = _top_keys(opt_src[column]) or _top_keys(df[column])
+
+                if sel_colors and exact:
+                    # Exact Match: keys from rows whose full color list for this
+                    # column equals the selection.
+                    color_col = f"{column}_colors"
+                    exact_rows = opt_src[opt_src[color_col].apply(
+                        lambda l: _row_colors_exactly(l, sel_colors))]
+                    key_opts = _top_keys(exact_rows[column])
+                elif sel_colors:
+                    # OR: only keys that themselves map to a chosen color, ranked
+                    # by how many rows they appear in.
+                    key_opts = _top_keys_for_colors(opt_src[column], sel_colors)
+                else:
+                    key_opts = _top_keys(opt_src[column])
+
+                key_opts = key_opts or _top_keys(df[column])
+                # Never drop a keyword the user already picked just because a
+                # color was selected; keep current picks selectable.
+                key_opts = list(dict.fromkeys(list(prev) + key_opts))
                 _prune_selection(f"keys_{column}", key_opts)
                 keys = col_widget.multiselect(
                     "Keywords",
@@ -276,30 +327,42 @@ def filter_dataframe(df: pd.DataFrame, filter_columns=[]) -> pd.DataFrame:
                     # AND: keep rows whose dict contains every selected key.
                     df = df[df[column].apply(lambda c: _row_has_all_keys(c, keys))]
 
-                    # Color sub-filter appears right under the dict column (OR).
+                # Color sub-filter renders under Keywords whether or not a
+                # keyword is chosen. With keywords, options are scoped to those
+                # keys; without, they span every color in the column.
+                if keys:
                     color_opts = _top_colors_for_keys(df[column], keys)
-                    _prune_selection(f"colors_{column}", color_opts)
-                    colors = col_widget.multiselect(
-                        "Color",
-                        options=color_opts,
-                        key=f"colors_{column}",
-                    )
-                    color_and = col_widget.checkbox(
-                        "Exact Match", value=False, key=f"color_exact_{column}"
-                    )
-                    if colors:
-                        if color_and:
-                            # Exclusive match against the row's full color list
-                            # for THIS column (e.g. flowers -> flowers_colors).
-                            color_col = f"{column}_colors"
-                            df = df[df[color_col].apply(
-                                lambda lst: _row_colors_exactly(lst, colors)
-                            )]
-                        else:
-                            # OR: a selected key maps to a selected color.
-                            df = df[df[column].apply(
-                                lambda c: _row_key_has_color(c, keys, colors)
-                            )]
+                else:
+                    color_opts = _top_colors_flat(df[f"{column}_colors"])
+                _prune_selection(f"colors_{column}", color_opts)
+                colors = col_widget.multiselect(
+                    "Color",
+                    options=color_opts,
+                    key=f"colors_{column}",
+                )
+                color_and = col_widget.checkbox(
+                    "Exact Match", value=False, key=f"color_exact_{column}"
+                )
+                if colors:
+                    color_col = f"{column}_colors"
+                    if color_and:
+                        # Exclusive match against the row's full color list
+                        # for THIS column (e.g. flowers -> flowers_colors).
+                        df = df[df[color_col].apply(
+                            lambda lst: _row_colors_exactly(lst, colors)
+                        )]
+                    elif keys:
+                        # OR: a selected key maps to a selected color.
+                        df = df[df[column].apply(
+                            lambda c: _row_key_has_color(c, keys, colors)
+                        )]
+                    else:
+                        # OR, column-wide: the color appears anywhere in this
+                        # 参数 for the row (no keyword to scope it to).
+                        sel = set(colors)
+                        df = df[df[color_col].apply(
+                            lambda lst: bool(sel & _color_list_to_set(lst))
+                        )]
 
     return df, to_filter_columns, selected_keys
 
