@@ -190,14 +190,57 @@ def _colors_in_order(cell, keys):
     return out
 
 
+# def sort_results(df, dict_cols, selected_keys):
+#     """Order rows by product_type, plant_type, then per selected 参数 column:
+#     species rank, color rank, and the position of that color within the row."""
+#     if df.empty:
+#         return df
+
+#     # 1. Use a native Python dictionary instead of an empty DataFrame
+#     # to avoid PyArrow string array reallocation segfaults.
+#     keys_dict = {}
+
+#     for col in ("product_type", "plant_type"):
+#         if col in df.columns:
+#             rank = _rank_fn(df[col].value_counts().index.tolist())
+#             keys_dict[col] = df[col].map(rank)
+
+#     for col in dict_cols:
+#         sel = set(selected_keys.get(col) or ())
+
+#         species = _rank_fn(_top_keys(df[col]))
+#         keys_dict[f"{col}_species"] = df[col].map(
+#             lambda c: _best(list(c) if isinstance(c, dict) else [], species)[0]
+#         )
+
+#         # One row, one vote — and the same lists feed the position below, so the
+#         # ranking and the position can never disagree.
+#         rows = df[col].map(lambda c: _colors_in_order(c, sel))
+#         color = _rank_fn([c for c, _ in
+#                           Counter(c for lst in rows for c in lst).most_common()])
+        
+#         # 2. Extract zip iterators into lists before dictionary assignment
+#         color_ranks, pos_ranks = zip(*rows.map(lambda lst: _best(lst, color)))
+#         keys_dict[f"{col}_color"] = list(color_ranks)
+#         keys_dict[f"{col}_pos"] = list(pos_ranks)
+
+#     # 3. If no keys were added, return early
+#     if not keys_dict:
+#         return df
+        
+#     # 4. Construct the DataFrame in a single step
+#     keys_df = pd.DataFrame(keys_dict, index=df.index)
+    
+#     order = keys_df.reset_index(drop=True).sort_values(
+#         list(keys_df.columns), kind="stable").index
+#     return df.iloc[order]
+
 def sort_results(df, dict_cols, selected_keys):
     """Order rows by product_type, plant_type, then per selected 参数 column:
     species rank, color rank, and the position of that color within the row."""
     if df.empty:
         return df
 
-    # 1. Use a native Python dictionary instead of an empty DataFrame
-    # to avoid PyArrow string array reallocation segfaults.
     keys_dict = {}
 
     for col in ("product_type", "plant_type"):
@@ -206,31 +249,36 @@ def sort_results(df, dict_cols, selected_keys):
             keys_dict[col] = df[col].map(rank)
 
     for col in dict_cols:
-        sel = set(selected_keys.get(col) or ())
+        sel_keys = set(selected_keys.get(col) or ())
+        
+        # 1. Fetch the user's explicit color selection from the UI state
+        import streamlit as st
+        sel_colors = st.session_state.get(f"colors_{col}", [])
 
         species = _rank_fn(_top_keys(df[col]))
         keys_dict[f"{col}_species"] = df[col].map(
             lambda c: _best(list(c) if isinstance(c, dict) else [], species)[0]
         )
 
-        # One row, one vote — and the same lists feed the position below, so the
-        # ranking and the position can never disagree.
-        rows = df[col].map(lambda c: _colors_in_order(c, sel))
-        color = _rank_fn([c for c, _ in
-                          Counter(c for lst in rows for c in lst).most_common()])
+        rows = df[col].map(lambda c: _colors_in_order(c, sel_keys))
         
-        # 2. Extract zip iterators into lists before dictionary assignment
-        color_ranks, pos_ranks = zip(*rows.map(lambda lst: _best(lst, color)))
+        # 2. Prioritize selected colors over general frequency
+        freq_colors = [c for c, _ in Counter(c for lst in rows for c in lst).most_common()]
+        prioritized_colors = list(sel_colors) + [c for c in freq_colors if c not in sel_colors]
+        color_rank = _rank_fn(prioritized_colors)
+
+        # 3. _best evaluates the row using our new priority list.
+        # It finds the highest-priority color and extracts (color_rank, position_index)
+        color_ranks, pos_ranks = zip(*rows.map(lambda lst: _best(lst, color_rank)))
         keys_dict[f"{col}_color"] = list(color_ranks)
         keys_dict[f"{col}_pos"] = list(pos_ranks)
 
-    # 3. If no keys were added, return early
     if not keys_dict:
         return df
         
-    # 4. Construct the DataFrame in a single step
     keys_df = pd.DataFrame(keys_dict, index=df.index)
     
+    # 4. Sort: Pandas uses f"{col}_pos" to break ties when the color_rank is identical
     order = keys_df.reset_index(drop=True).sort_values(
         list(keys_df.columns), kind="stable").index
     return df.iloc[order]
