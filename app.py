@@ -177,6 +177,19 @@ def _best(items, rank):
     return rank(items[i]), i
 
 
+def _key_pos(cell, key):
+    """Index of `key` among the row's keys for this 参数 (emission order).
+    The dict is written most-primary-first, so a smaller index means the
+    keyword is a more prominent feature of the product ('rose, hydrangea'
+    leads with rose; 'hydrangea, rose' does not). Missing -> sorts last."""
+    if not isinstance(cell, dict):
+        return INF
+    for i, k in enumerate(cell):
+        if k == key:
+            return i
+    return INF
+
+
 def _colors_in_order(cell, keys):
     """Row's colors under `keys` (all keys if none selected), emission order, deduped."""
     if not isinstance(cell, dict):
@@ -206,12 +219,42 @@ def sort_results(df, dict_cols, selected_keys):
             keys_dict[col] = df[col].map(rank)
 
     for col in dict_cols:
-        sel = set(selected_keys.get(col) or ())
+        sel = list(selected_keys.get(col) or ())
 
-        species = _rank_fn(_top_keys(df[col]))
-        keys_dict[f"{col}_species"] = df[col].map(
-            lambda c: _best(list(c) if isinstance(c, dict) else [], species)[0]
-        )
+        # Primary keyword prominence: for each keyword picked here, how early it
+        # appears in the row's key order. Rows are already AND-filtered to contain
+        # every selected keyword, so this is what separates them. Emitted in
+        # selection order, so the first keyword picked dominates and the second
+        # only breaks its ties.
+        for i, key in enumerate(sel):
+            keys_dict[f"{col}_keypos{i}"] = df[col].map(
+                lambda c, key=key: _key_pos(c, key)
+            )
+
+        # A row carrying ONLY the species being ranked on is the purest example
+        # of it, so it wins any prominence tie ('pumpkin' before 'pumpkin,
+        # berry'). Rows are AND-filtered to contain every selected keyword, so
+        # a key count equal to the selection means there are no other species.
+        if sel:
+            n = len(sel)
+            keys_dict[f"{col}_solo"] = df[col].map(
+                lambda c: 0 if isinstance(c, dict) and len(c) == n else 1
+            )
+
+        # No keyword picked: rank rows by their most common species, then — same
+        # prominence rule as above — by how early that species appears in the
+        # row's keys, then solo rows first. So for fruit: 'berry', then 'berry,
+        # pumpkin', then 'pumpkin, berry', then rows whose best species is pumpkin.
+        if not sel:
+            species = _rank_fn(_top_keys(df[col]))
+            best = df[col].map(
+                lambda c: _best(list(c) if isinstance(c, dict) else [], species)
+            )
+            keys_dict[f"{col}_species"] = [r for r, _ in best]
+            keys_dict[f"{col}_species_pos"] = [p for _, p in best]
+            keys_dict[f"{col}_solo"] = df[col].map(
+                lambda c: 0 if isinstance(c, dict) and len(c) == 1 else 1
+            )
 
         # One row, one vote — and the same lists feed the position below, so the
         # ranking and the position can never disagree.
@@ -223,6 +266,10 @@ def sort_results(df, dict_cols, selected_keys):
         color_ranks, pos_ranks = zip(*rows.map(lambda lst: _best(lst, color)))
         keys_dict[f"{col}_color"] = list(color_ranks)
         keys_dict[f"{col}_pos"] = list(pos_ranks)
+        # Same rule as the species solo above, one level down: a row showing ONLY
+        # the winning color is the purest example of it, so it breaks the
+        # position tie ('white' before 'white, brown').
+        keys_dict[f"{col}_color_solo"] = [0 if len(lst) == 1 else 1 for lst in rows]
 
     # 3. If no keys were added, return early
     if not keys_dict:
